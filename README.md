@@ -6,6 +6,13 @@ Pacote de arquivos de dados nacionais em formato JSON.
 O objetivo desse repositório é centralizar em um único lugar de forma organizada e padronizada as tabelas de dados
 fornecidas pelos órgãos públicos brasileiros. E dessa forma facilitar a utilização desses dados em sistemas de TI.
 
+## Tabela de Dados Disponíveis
+
+Tabela | Descrição
+------ | ---------
+**NCM** | _Nomenclatura Comum do Mercosul_ utilizada obrigatoriamente desde 01/01/2010 para categorizar os produtos em documentos fiscais [_Mais informações..._](http://www.significados.com.br/ncm/)
+**CEST**   | _Código Especificador da Substituição Tributária_ criado para estabelecer uma sistemática de uniformização e identificação das mercadorias e bens que são passíveis de Substituição Tributária e antecipação de ICMS. Ele é usado documentos fiscais conforme o [Convênio ICMS 92, de 20 de agosto de 2015](https://www.confaz.fazenda.gov.br/)
+
 ## Formato dos arquivos
 
 Os arquivos de dados estão disponibilizados na pasta `data\<nome dos dados>` e separados em três arquivos diferentes. 
