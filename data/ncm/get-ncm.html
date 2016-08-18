@@ -1,0 +1,71 @@
+<html>
+<body>
+
+<textarea rows="40" cols="70" id="resutTextArea"></textarea>
+<br/>
+<button type="button" onclick="loadNcms()">Load NCMs</button>
+
+<script type="text/javascript">
+document.write("\<script src='http://code.jquery.com/jquery-latest.min.js' type='text/javascript'>\<\/script>");
+</script>
+<script type="text/javascript">
+var tasks = {
+	capitulosUrl: 'https://corporativo.dpr.gov.br/ProdutosServicos/ListarCapitulos',
+	filhosUrl: 'https://corporativo.dpr.gov.br/ProdutosServicos/ListarFilhos',
+	ncms: [],
+	novosNcms: [],
+	obterCapitulos: function obterCapitulos(next) {
+		var self = this;
+		console.log(' [...] Obtendo capitulos de NCM');
+		$.get(this.capitulosUrl, {idioma: 'pt-br', tipo: 'NCM'}, function success(res) {
+			self.novosNcms = self.novosNcms.concat(JSON.parse(res));
+			console.log(' [ v ] '+self.novosNcms.length+' Capitulos de NCM obtidos!');
+			next();
+		});
+	},
+	tratarNcm: function tratarNcm(ncm, next) {
+		var self = this;
+		// console.log(' [...] Tratando NCM: ', ncm.Codigo, ncm.Nivel, ncm.TemFilhos, ncm.Descricao);
+		function ncmTratado(newNcm) {
+			// console.log(' [ v ] NCM Obtido: ', ncm.Codigo);
+			self.ncms.push(newNcm);
+			return next();
+		}
+
+		if (!ncm.TemFilhos) {
+			return ncmTratado(ncm);
+		}
+		$.get(this.filhosUrl, {idioma: 'pt-br', codigo: ncm.Codigo}, function success(res) {
+			self.novosNcms = self.novosNcms.concat(JSON.parse(res));
+			return ncmTratado(ncm);
+		}).fail(function() {
+			console.log(' [ x ] Erro ao tratar NCM: ', ncm.Codigo);
+		});
+	},
+	tratarNovosNcms: function tratarNovosNcms(next) {
+		if (!this.novosNcms || !this.novosNcms.length/* || this.ncms.length > 100*/) {
+			console.log(' [ V ] Novos NCMs: ', this.novosNcms.length, 'NCMs Obtidos: ', this.ncms.length);
+			return next(this.ncms);
+		}
+		var ncm = this.novosNcms.pop();
+		console.log(' [ i ] NCMs Obtidos:', this.ncms.length, '  Novos NCMs:', this.novosNcms.length, '  NCM atual: ', ncm.Codigo);
+		this.tratarNcm(ncm, tratarNovosNcms.bind(this, next));
+	}
+};
+
+function loadNcms() {
+	var resutTextArea = document.getElementById('resutTextArea');
+	resutTextArea.value = 'Resultado ira aparecer aqui, aguarde pacientemente...';
+
+	tasks.obterCapitulos(function() {
+		tasks.tratarNovosNcms(function(ncmsObtidos) {
+			console.log('FIM!');
+			console.log(ncmsObtidos);
+			resutTextArea.value = JSON.stringify(ncmsObtidos);
+		});
+	});
+}
+</script>
+
+</body>
+</html>
