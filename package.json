@@ -1,0 +1,20 @@
+{
+  "name": "br-data",
+  "version": "0.0.1",
+  "description": "Pacote de arquivos de dados nacionais em formato JSON",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "release": "conventional-changelog -p angular -i CHANGELOG.md -s",
+    "jshint": "node node_modules/jshint/bin/jshint lib"
+  },
+  "keywords": [
+    "NCM", "CEST", "BR", "Brasil"
+  ],
+  "author": "darc.tec@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.16.0",
+    "jshint": "^2.9.2"
+  }
+}
