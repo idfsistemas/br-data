@@ -47,13 +47,13 @@ Campo | Descricao
 **Instale utilizando npm:**
 
 ```shell
-npm install --save br-data-json
+npm install --save br-data
 ```
 
 **Exemplo de uso:**
 
 ```javascript
-const brData = require('br-data-json');
+const brData = require('br-data');
 
 // Recebe como parametro o nome da pasta de dados e retorna o conteúdo json do arquivo `data.json`
 const ncms = brData.get('ncm');
