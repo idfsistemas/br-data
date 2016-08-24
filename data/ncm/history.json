@@ -1,10 +1,20 @@
 [
 	{
+		"dataDeAtualizacao": "2016-08-24",
+		"descricao": "Nova Tabela NCM atualizada pela Receita Federal em 01/08/2016",
+		"referencias": [
+			"http://www.nfe.fazenda.gov.br/portal/listaConteudo.aspx?tipoConteudo=Iy/5Qol1YbE=",
+			"http://www4.receita.fazenda.gov.br/simulador/PesquisarNCM.jsp",
+			"http://www.nfe.fazenda.gov.br/portal/exibirArquivo.aspx?conteudo=oqXtmaR10bY="
+		],
+		"dataDePublicacao": "2016-08-01"
+	},
+	{
 		"dataDeAtualizacao": "2016-08-17",
 		"descricao": "NCMs obtidos do 'Guia de Comércio Exterior e Investimento' em 18/08/2016",
 		"referencias": [
 			"https://investexportbrasil.dpr.gov.br/ProdutosServicos/frmPesquisaProdutosServicosFull.aspx"
 		],
-		"dataDePublicacao": "2016-08-01"
+		"dataDePublicacao": "desconhecida"
 	}
 ]
