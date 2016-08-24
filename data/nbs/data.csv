@@ -1,4 +1,5 @@
 "codigo","codigoPai","descricao","nivel","ehFolha"
+"101",,"Serviços de construção",1,false
 "10101","101","Serviços de construção de edificações residenciais",2,false
 "101011000","10101","Serviços de construção de edificações residenciais de um e dois pavimentos",3,true
 "101012000","10101","Serviços de construção de edificações residenciais com mais de dois pavimentos",3,true
@@ -8,7 +9,7 @@
 "101029000","10102","Outros serviços de construção de edificações não residenciais",3,true
 "10103","101","Serviços de construção de autoestradas (exceto autoestradas elevadas), ruas, estradas, estradas férreas e pistas de pouso e decolagem em aeroportos e infraestrutura aeroportuária",2,false
 "101031000","10103","Serviços de construção de autoestradas (exceto autoestradas elevadas), ruas e estradas.",3,true
-"101032000","10103","Serviços de construção de estradas férreas ",3,true
+"101032000","10103","Serviços de construção de estradas férreas",3,true
 "101033000","10103","Serviços de construção de pistas de pouso e decolagem em aeroportos",3,true
 "101034000","10103","Serviços de construção de infraestrutura aeroportuária",3,true
 "101040000","101","Serviços de construção de pontes, autoestradas elevadas e túneis",2,true
@@ -24,27 +25,27 @@
 "101053900","101053","Outros serviços de construção de infraestrutura terrestre nos portos",4,true
 "10106","101","Serviços de construção de barragens, adutoras, sistemas de irrigação e de outros sistemas de captação, adução, contenção e armazenamento de água",2,false
 "101061000","10106","Serviços de construção de barragens e adutoras",3,true
-"101062","10106","Serviços de construção de sistemas de irrigação, de esgotos e de unidades para tratamento e purificação de água   ",3,false
-"101062100","101062","Serviços de construção de sistemas de irrigação   ",4,true
+"101062","10106","Serviços de construção de sistemas de irrigação, de esgotos e de unidades para tratamento e purificação de água",3,false
+"101062100","101062","Serviços de construção de sistemas de irrigação",4,true
 "101062200","101062","Serviços de construção de sistemas de esgotos",4,true
-"101062300","101062","Serviços de construção de sistemas de unidades para tratamento e purificação de água   ",4,true
+"101062300","101062","Serviços de construção de sistemas de unidades para tratamento e purificação de água",4,true
 "101069000","10106","Outros serviços de construção de sistemas hídricos",3,true
 "10107","101","Serviços de construção de dutos e linhas de comunicação de longo curso e de linhas de transmissão de alta tensão",2,false
 "101071","10107","Serviços de construção de dutos de longo curso",3,false
 "101071100","101071","Serviços de construção de dutos de longo curso para o transporte de petróleo, seus derivados, e gás",4,true
 "101071200","101071","Serviços de construção de dutos de longo curso para o transporte e escoamento de águas e esgotos",4,true
-"101071900","101071","Serviços de construção de outros dutos de longo curso ",4,true
-"101072","10107","Serviços de construção de linhas de comunicação de longo curso e linhas de transmissão de alta tensão ",3,false
+"101071900","101071","Serviços de construção de outros dutos de longo curso",4,true
+"101072","10107","Serviços de construção de linhas de comunicação de longo curso e linhas de transmissão de alta tensão",3,false
 "101072100","101072","Serviços de construção de linhas de comunicação de longo curso",4,true
-"1010722","101072","Serviços de construção de linhas de transmissão de alta tensão ",4,false
-"101072210","1010722","Serviços de construção de linhas de transmissão de alta tensão em corrente contínua ",5,true
-"101072220","1010722","Serviços de construção de linhas de transmissão de alta tensão em corrente alternada ",5,true
+"1010722","101072","Serviços de construção de linhas de transmissão de alta tensão",4,false
+"101072210","1010722","Serviços de construção de linhas de transmissão de alta tensão em corrente contínua",5,true
+"101072220","1010722","Serviços de construção de linhas de transmissão de alta tensão em corrente alternada",5,true
 "10108","101","Serviços de construção de dutos e linhas locais de transmissão, de baixa e média tensão, e de comunicação e outros serviços de construção relacionados",2,false
 "101081000","10108","Serviços de construção de dutos locais",3,true
 "101082","10108","Serviços de construção de linhas locais de transmissão, de baixa e média tensão, e de comunicação e outros serviços relacionados",3,false
-"1010821","101082","Serviços de construção de linhas locais de transmissão, de baixa e média tensão, e de comunicação ",4,false
-"101082110","1010821","Serviços de construção de linhas locais de transmissão de baixa e média tensão ",5,true
-"101082120","1010821","Serviços de construção de linhas locais de comunicação ",5,true
+"1010821","101082","Serviços de construção de linhas locais de transmissão, de baixa e média tensão, e de comunicação",4,false
+"101082110","1010821","Serviços de construção de linhas locais de transmissão de baixa e média tensão",5,true
+"101082120","1010821","Serviços de construção de linhas locais de comunicação",5,true
 "101082900","101082","Outros serviços de construção relacionados",4,true
 "10109","101","Serviços de construção de usinas de geração de energia e subestações de força",2,false
 "101091000","10109","Serviços de construção de usinas de geração de energia",3,true
@@ -53,7 +54,7 @@
 "101101000","10110","Serviços de construção de minas",3,true
 "101102000","10110","Serviços de construção de unidades industriais relacionadas à mineração",3,true
 "101110000","101","Serviços de construção de instalações para recreação e atividades desportivas ao ar livre",2,true
-"101120000","101","Outros serviços de construção civil não classificados nas posições anteriores ",2,true
+"101120000","101","Outros serviços de construção civil não classificados nas posições anteriores",2,true
 "101130000","101","Serviços de demolição",2,true
 "101140000","101","Serviços de preparação de terrenos e construção de canteiros de obras",2,true
 "101150000","101","Serviços de escavação e remoção de terra",2,true
@@ -74,7 +75,7 @@
 "101240000","101","Serviços de andaimes",2,true
 "101250000","101","Outros serviços especializados de construção",2,true
 "10126","101","Serviços de instalação elétrica",2,false
-"101261000","10126","Serviços de instalação de fiação elétrica e componentes ",3,true
+"101261000","10126","Serviços de instalação de fiação elétrica e componentes",3,true
 "101262000","10126","Serviços de instalação de alarmes contra incêndio",3,true
 "101263000","10126","Serviços de instalação de sistemas de alarmes antifurto",3,true
 "101264000","10126","Serviços de instalação de antenas residenciais",3,true
@@ -89,7 +90,7 @@
 "101300000","101","Serviços de isolamento",2,true
 "10131","101","Outros serviços de instalação",2,false
 "101311000","10131","Serviços de instalação de elevadores, esteiras e escadas rolantes",3,true
-"101319000","10131","Outros serviços de instalação ",3,true
+"101319000","10131","Outros serviços de instalação",3,true
 "101320000","101","Serviços de vidraçaria",2,true
 "101330000","101","Serviços de gesso",2,true
 "101340000","101","Serviços de pintura",2,true
@@ -98,13 +99,15 @@
 "101370000","101","Serviços de carpintaria e serralheria, inclusive suas instalações e montagens",2,true
 "101380000","101","Serviços de instalação de cercas e grades",2,true
 "101390000","101","Outros serviços de acabamento das construções",2,true
-"102010000","102","Serviços de agentes de distribuição de mercadorias ",2,true
+"102",,"Serviços de distribuição de mercadorias, serviços de despachante aduaneiro",1,false
+"102010000","102","Serviços de agentes de distribuição de mercadorias",2,true
 "102020000","102","Comércio atacadista",2,true
-"102030000","102","Comércio varejista ",2,true
+"102030000","102","Comércio varejista",2,true
 "10204","102","Serviços de despachante aduaneiro",2,false
 "102041000","10204","Serviços de despachante aduaneiro na importação",3,true
 "102042000","10204","Serviços de despachante aduaneiro na exportação",3,true
-"102050000","102","Serviços de agentes na comercialização de energia elétrica ",2,true
+"102050000","102","Serviços de agentes na comercialização de energia elétrica",2,true
+"103",,"Fornecimento de alimentação e bebidas e serviços de hospedagem",1,false
 "10301","103","Fornecimento de alimentação, incluindo refeições",2,false
 "103011000","10301","Fornecimento de refeições acompanhado de serviços de restaurante",3,true
 "103012","10301","Fornecimento de refeições com serviços limitados de restaurante",3,false
@@ -129,22 +132,23 @@
 "103041000","10304","Serviços de quarto ou de unidades de hospedagem para estudantes em residências estudantis",3,true
 "103042000","10304","Serviços de quarto ou de unidades de hospedagem para trabalhadores em hotéis ou campos",3,true
 "103049000","10304","Outros serviços de quarto ou de unidades de hospedagem",3,true
-"10401","104","Serviços de transporte de passageiros em áreas urbanas ou rurais, inclusive nas áreas metropolitanas ",2,false
+"104",,"Serviços de transporte de passageiros",1,false
+"10401","104","Serviços de transporte de passageiros em áreas urbanas ou rurais, inclusive nas áreas metropolitanas",2,false
 "104011","10401","Serviços de transporte terrestre de passageiros em áreas urbanas ou rurais, inclusive nas áreas metropolitanas",3,false
-"1040111","104011","Serviços de transporte rodoviário urbano de passageiros, exceto em áreas metropolitanas ",4,false
+"1040111","104011","Serviços de transporte rodoviário urbano de passageiros, exceto em áreas metropolitanas",4,false
 "104011110","1040111","Serviços prestados única e exclusivamente por meio de ônibus",5,true
 "104011190","1040111","Serviços prestados por meio de outros veículos rodoviários",5,true
-"104011200","104011","Serviços de transporte rodoviário de passageiros nas áreas metropolitanas ",4,true
+"104011200","104011","Serviços de transporte rodoviário de passageiros nas áreas metropolitanas",4,true
 "104011300","104011","Serviços de transporte ferroviário urbano ou rural, inclusive nas áreas metropolitanas, de passageiros",4,true
-"104011400","104011","Serviços de transporte metroviário (metrô) de passageiros ",4,true
+"104011400","104011","Serviços de transporte metroviário (metrô) de passageiros",4,true
 "104011500","104011","Serviços de transporte integrado urbano ou rural, inclusive nas áreas metropolitanas, de passageiros",4,true
 "104011600","104011","Serviços de taxi",4,true
 "104011700","104011","Serviço de aluguel de carros com motorista",4,true
-"1040119","104011","Outros serviços terrestres de transporte de passageiros ",4,false
+"1040119","104011","Outros serviços terrestres de transporte de passageiros",4,false
 "104011910","1040119","Serviços de transporte escolar",5,true
-"104011990","1040119","Outros serviços terrestres de transporte de passageiros ",5,true
+"104011990","1040119","Outros serviços terrestres de transporte de passageiros",5,true
 "104012","10401","Serviços de transporte aquaviário de passageiros",3,false
-"104012100","104012","Serviços de transporte por navegação interior de passageiros por embarcações para travessia ",4,true
+"104012100","104012","Serviços de transporte por navegação interior de passageiros por embarcações para travessia",4,true
 "104012200","104012","Serviços de transporte por navegação interior de passageiros por embarcações para cruzeiros",4,true
 "104012900","104012","Outros serviços de transporte por navegação interior de passageiros",4,true
 "104019000","10401","Outros serviços de transporte de passageiros em áreas urbanas ou rurais, inclusive metropolitanas",3,true
@@ -160,69 +164,70 @@
 "104022200","104022","Serviços de fretamento eventual ou turístico",4,true
 "104022900","104022","Outros serviços de fretamento, exceto aéreo",4,true
 "10403","104","Serviços de transporte interestadual, inclusive interestadual semiurbano, e internacional, de passageiros, exceto os serviços de transporte aéreo",2,false
-"104031","10403","Serviços de transporte terrestre interestadual, inclusive interestadual semiurbano, e internacional de passageiros ",3,false
+"104031","10403","Serviços de transporte terrestre interestadual, inclusive interestadual semiurbano, e internacional de passageiros",3,false
 "1040311","104031","Serviços de transporte rodoviário interestadual, inclusive interestadual semiurbano, de passageiros",4,false
 "104031110","1040311","Serviços prestados única e exclusivamente por meio de ônibus",5,true
 "104031190","1040311","Serviços prestados por meio de outros veículos rodoviários",5,true
 "104031200","104031","Serviços de transporte ferroviário interestadual, inclusive interestadual semiurbano, de passageiros",4,true
 "104031900","104031","Outros serviços terrestres de transporte interestadual, inclusive interestadual semiurbano, não classificados em outra posição, e de transporte internacional de passageiros",4,true
 "104032","10403","Serviços de transporte aquaviário interestadual, inclusive interestadual semiurbano, e internacional de passageiros",3,false
-"104032100","104032","Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para travessia ",4,true
+"104032100","104032","Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para travessia",4,true
 "104032200","104032","Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para cruzeiros",4,true
 "104032300","104032","Serviços de transporte internacional de passageiros por embarcações para cruzeiros",4,true
 "104032900","104032","Outros serviços de transporte aquaviário interestadual, inclusive interestadual semiurbano, de passageiros",4,true
 "104039000","10403","Outros serviços de transporte interestadual, inclusive interestadual semiurbano, e internacional de passageiros, exceto os serviços de transporte aéreo",3,true
 "10404","104","Serviços de transporte aéreo de passageiros, inclusive por fretamento",2,false
 "104041","10404","Serviços de transporte aéreo, em linhas regulares",3,false
-"104041100","104041","Serviços de transporte aéreo doméstico de passageiros ",4,true
-"104041200","104041","Serviços de transporte aéreo internacional de passageiros ",4,true
+"104041100","104041","Serviços de transporte aéreo doméstico de passageiros",4,true
+"104041200","104041","Serviços de transporte aéreo internacional de passageiros",4,true
 "104042000","10404","Serviços de transporte aéreo por fretamento",3,true
 "104049","10404","Outros serviços de transporte aéreo de passageiros",3,false
 "104049100","104049","Serviços de táxi aéreo",4,true
 "104049900","104049","Outros serviços de transporte aéreo de passageiros",4,true
 "104900000","104","Outros serviços de transporte de passageiros",2,true
+"105",,"Serviços de transporte de cargas",1,false
 "10501","105","Serviços de transportes terrestres de cargas",2,false
 "105011","10501","Serviços de transportes rodoviários de cargas",3,false
 "1050111","105011","Serviços de transporte rodoviário de cargas a granel",4,false
-"105011110","1050111","Serviços de transporte rodoviário de cargas sólidas a granel ",5,true
+"105011110","1050111","Serviços de transporte rodoviário de cargas sólidas a granel",5,true
 "105011120","1050111","Serviços de transporte rodoviário de cargas líquidas ou liquefeitas, a granel",5,true
 "105011130","1050111","Serviços de transporte rodoviário de cargas gasosas a granel",5,true
 "105011200","105011","Serviços de transporte rodoviário de cargas vivas",4,true
 "1050113","105011","Serviços de transporte rodoviário de carga geral",4,false
-"105011310","1050113","Serviços de transporte rodoviário de carga solta, não unitizada. ",5,true
+"105011310","1050113","Serviços de transporte rodoviário de carga solta, não unitizada.",5,true
 "105011320","1050113","Serviços de transporte rodoviário de carga unitizada, exceto em contêineres",5,true
 "1050114","105011","Serviços de transporte rodoviários de cargas em contêineres",4,false
 "105011410","1050114","Serviços de transporte rodoviário de cargas em contêineres frigorificados ou climatizados",5,true
 "105011490","1050114","Serviços de transporte rodoviário de cargas em outros tipos de contêineres",5,true
-"105011500","105011","Serviços de transporte rodoviário de mudanças domésticas e de mobília e outros objetos de escritório ",4,true
-"105011600","105011","Serviços de transporte rodoviário de cargas especiais e de grande porte ",4,true
+"105011500","105011","Serviços de transporte rodoviário de mudanças domésticas e de mobília e outros objetos de escritório",4,true
+"105011600","105011","Serviços de transporte rodoviário de cargas especiais e de grande porte",4,true
 "105011700","105011","Serviços de transporte rodoviário de veículos",4,true
 "1050118","105011","Serviços de transporte rodoviário de produtos perigosos",4,false
-"105011810","1050118","Serviços de transporte rodoviário de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",5,true
+"105011810","1050118","Serviços de transporte rodoviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",5,true
 "105011820","1050118","Serviços de transporte rodoviário de produtos químicos perigosos",5,true
 "105011890","1050118","Serviços de transporte rodoviário de outros produtos perigosos",5,true
-"105011900","105011","Serviços de transporte rodoviário de outros tipos de carga ",4,true
-"105012","10501","Serviços de transporte ferroviário de cargas ",3,false
-"1050121","105012","Serviços de transporte ferroviário de cargas a granel ",4,false
-"105012110","1050121","Serviços de transporte ferroviário de cargas sólidas a granel ",5,true
+"105011900","105011","Serviços de transporte rodoviário de outros tipos de carga",4,true
+"105012","10501","Serviços de transporte ferroviário de cargas",3,false
+"1050121","105012","Serviços de transporte ferroviário de cargas a granel",4,false
+"105012110","1050121","Serviços de transporte ferroviário de cargas sólidas a granel",5,true
 "105012120","1050121","Serviços de transporte ferroviário de cargas líquidas ou liquefeitas, a granel",5,true
 "105012130","1050121","Serviços de transporte ferroviário de cargas gasosas a granel",5,true
 "105012200","105012","Serviços de transporte ferroviário de cargas vivas",4,true
 "1050123","105012","Serviços de transporte ferroviário de carga geral",4,false
-"105012310","1050123","Serviços de transporte ferroviário de carga solta, não unitizada  ",5,true
-"105012320","1050123","Serviços de transporte ferroviário de carga unitizada, exceto em contêineres ",5,true
+"105012310","1050123","Serviços de transporte ferroviário de carga solta, não unitizada",5,true
+"105012320","1050123","Serviços de transporte ferroviário de carga unitizada, exceto em contêineres",5,true
 "105012330","1050123","Serviços de transporte ferroviário de bens e valores",5,true
 "1050124","105012","Serviços de transporte ferroviário de cargas em contêineres",4,false
 "105012410","1050124","Serviços de transporte ferroviário de cargas em contêineres frigorificados ou climatizados",5,true
 "105012490","1050124","Serviços de transporte ferroviário de cargas em outros tipos de contêineres",5,true
 "1050125","105012","Serviços de transporte ferroviário de produtos perigosos",4,false
-"105012510","1050125","Serviços de transporte ferroviário de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",5,true
-"105012520","1050125","Serviços de transporte ferroviário de produtos químicos perigosos ",5,true
-"105012530","1050125","Serviços de transporte ferroviário de armamentos militares e munições ",5,true
+"105012510","1050125","Serviços de transporte ferroviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",5,true
+"105012520","1050125","Serviços de transporte ferroviário de produtos químicos perigosos",5,true
+"105012530","1050125","Serviços de transporte ferroviário de armamentos militares e munições",5,true
 "105012540","1050125","Serviços de transporte ferroviário de fundidos em estado líquido",5,true
 "105012550","1050125","Serviços de transporte ferroviário de material radioativo",5,true
 "105012590","1050125","Serviços de transporte ferroviário de outros produtos perigosos",5,true
-"105012900","105012","Serviços de transporte ferroviário de outros tipos de carga ",4,true
+"105012900","105012","Serviços de transporte ferroviário de outros tipos de carga",4,true
 "105013","10501","Serviços de transporte por meio de dutos",3,false
 "105013100","105013","Serviços de transporte de petróleo, gás natural e combustível",4,true
 "105013200","105013","Serviços de transporte de minérios",4,true
@@ -230,7 +235,7 @@
 "10502","105","Serviços de transporte aquaviário de cargas",2,false
 "105021","10502","Serviços de transportes aquaviário de navegação de cabotagem e de longo curso",3,false
 "1050211","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas a granel",4,false
-"105021110","1050211","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas sólidas, a granel ",5,true
+"105021110","1050211","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas sólidas, a granel",5,true
 "105021120","1050211","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas líquidas ou liquefeitas, a granel",5,true
 "105021130","1050211","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas gasosas a granel",5,true
 "105021200","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso  de cargas vivas",4,true
@@ -241,16 +246,16 @@
 "105021410","1050214","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas em contêineres frigorificados ou climatizados",5,true
 "105021490","1050214","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas em outros tipos de contêineres",5,true
 "105021500","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de mudanças domésticas e de mobília e outros objetos de escritório",4,true
-"105021600","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas especiais e de grande porte ",4,true
+"105021600","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas especiais e de grande porte",4,true
 "105021700","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de veículos",4,true
 "1050218","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de produtos perigosos",4,false
-"105021810","1050218","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",5,true
+"105021810","1050218","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",5,true
 "105021820","1050218","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de produtos químicos perigosos",5,true
 "105021890","1050218","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros produtos perigosos",5,true
-"105021900","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros tipos de carga ",4,true
+"105021900","105021","Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros tipos de carga",4,true
 "105022","10502","Serviços de transporte aquaviário por navegação interior",3,false
 "1050221","105022","Serviços de transporte aquaviário por navegação interior de cargas a granel",4,false
-"105022110","1050221","Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel ",5,true
+"105022110","1050221","Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel",5,true
 "105022120","1050221","Serviços de transporte aquaviário por navegação interior de cargas líquidas ou liquefeitas, a granel",5,true
 "105022130","1050221","Serviços de transporte aquaviário por navegação interior de cargas gasosas a granel",5,true
 "105022200","105022","Serviços de transporte aquaviário por navegação interior  de cargas vivas",4,true
@@ -261,10 +266,10 @@
 "105022410","1050224","Serviços de transporte aquaviário por navegação interior de cargas em contêineres frigorificados ou climatizados",5,true
 "105022490","1050224","Serviços de transporte aquaviário por navegação interior de cargas em outros tipos de contêineres",5,true
 "105022500","105022","Serviços de transporte aquaviário por navegação interior de mudanças domésticas e de mobília e outros objetos de escritório",4,true
-"105022600","105022","Serviços de transporte aquaviário por navegação interior de cargas especiais e de grande porte ",4,true
+"105022600","105022","Serviços de transporte aquaviário por navegação interior de cargas especiais e de grande porte",4,true
 "105022700","105022","Serviços de transporte aquaviário por navegação interior de veículos",4,true
 "1050228","105022","Serviços de transporte aquaviário por navegação interior de produtos perigosos",4,false
-"105022810","1050228","Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",5,true
+"105022810","1050228","Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",5,true
 "105022820","1050228","Serviços de transporte aquaviário por navegação interior de produtos químicos perigosos",5,true
 "105022890","1050228","Serviços de transporte aquaviário por navegação interior de outros produtos perigosos",5,true
 "105022900","105022","Serviços de transporte aquaviário por navegação interior de outros tipos de carga",4,true
@@ -288,7 +293,7 @@
 "105039000","10503","Serviços de transporte aéreo de outros tipos de cargas",3,true
 "10504","105","Serviços de transporte multimodal, exceto os serviços de apoio",2,false
 "1050410","10504","Serviços de transporte multimodal de cargas a granel",3,false
-"105041010","1050410","Serviços de transporte multimodal de cargas sólidas, a granel ",4,true
+"105041010","1050410","Serviços de transporte multimodal de cargas sólidas, a granel",4,true
 "105041020","1050410","Serviços de transporte multimodal de cargas líquidas ou liquefeitas, a granel",4,true
 "105041030","1050410","Serviços de transporte multimodal de cargas gasosas a granel",4,true
 "105042000","10504","Serviços de transporte multimodal de cargas vivas",3,true
@@ -299,41 +304,42 @@
 "105044010","1050440","Serviços de transporte multimodal de cargas em contêineres frigorificados ou climatizados",4,true
 "105044090","1050440","Serviços de transporte multimodal de cargas em outros tipos de contêineres",4,true
 "105045000","10504","Serviços de transporte multimodal de mudanças domésticas e de mobília e outros objetos de escritório",3,true
-"105046000","10504","Serviços de transporte multimodal de cargas especiais e de grande porte ",3,true
+"105046000","10504","Serviços de transporte multimodal de cargas especiais e de grande porte",3,true
 "105047000","10504","Serviços de transporte multimodal de veículos",3,true
 "1050480","10504","Serviços de transporte multimodal de produtos perigosos",3,false
-"105048010","1050480","Serviços de transporte multimodal de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",4,true
+"105048010","1050480","Serviços de transporte multimodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",4,true
 "105048020","1050480","Serviços de transporte multimodal de produtos químicos perigosos",4,true
 "105048090","1050480","Serviços de transporte multimodal de outros produtos perigosos",4,true
-"105049000","10504","Serviços de transporte multimodal de outros tipos de carga ",3,true
+"105049000","10504","Serviços de transporte multimodal de outros tipos de carga",3,true
 "10505","105","Serviços de transporte intermodal, exceto os serviços de apoio",2,false
 "1050510","10505","Serviços de transporte intermodal de cargas a granel",3,false
-"105051010","1050510","Serviços de transporte intermodal de cargas sólidas, a granel ",4,true
+"105051010","1050510","Serviços de transporte intermodal de cargas sólidas, a granel",4,true
 "105051020","1050510","Serviços de transporte intermodal de cargas líquidas ou liquefeitas, a granel",4,true
 "105051030","1050510","Serviços de transporte intermodal de cargas gasosas a granel",4,true
 "105052000","10505","Serviços de transporte intermodal de cargas vivas",3,true
 "1050530","10505","Serviços de transporte intermodal de carga geral",3,false
-"105053010","1050530","Serviços de transporte intermodal de cargas soltas, não unitizadas. ",4,true
+"105053010","1050530","Serviços de transporte intermodal de cargas soltas, não unitizadas.",4,true
 "105053020","1050530","Serviços de transporte intermodal de cargas unitizadas, exceto em contêineres",4,true
 "1050540","10505","Serviços de transporte intermodal de cargas em contêineres",3,false
 "105054010","1050540","Serviços de transporte intermodal de cargas em contêineres frigorificados ou climatizados",4,true
 "105054090","1050540","Serviços de transporte intermodal de cargas em outros tipos de contêineres",4,true
 "105055000","10505","Serviços de transporte intermodal de mudanças domésticas e de mobília e outros objetos de escritório",3,true
-"105056000","10505","Serviços de transporte intermodal de cargas especiais e de grande porte ",3,true
+"105056000","10505","Serviços de transporte intermodal de cargas especiais e de grande porte",3,true
 "105057000","10505","Serviços de transporte intermodal de veículos",3,true
 "1050580","10505","Serviços de transporte intermodal de produtos perigosos",3,false
-"105058010","1050580","Serviços de transporte intermodal de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",4,true
+"105058010","1050580","Serviços de transporte intermodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",4,true
 "105058020","1050580","Serviços de transporte intermodal de produtos químicos perigosos",4,true
 "105058090","1050580","Serviços de transporte intermodal de outros produtos perigosos",4,true
-"105059000","10505","Serviços de transporte intermodal de outros tipos de carga ",3,true
+"105059000","10505","Serviços de transporte intermodal de outros tipos de carga",3,true
+"106",,"Serviços de apoio aos transportes",1,false
 "10601","106","Serviços de manuseio de cargas",2,false
 "106011000","10601","Serviços de manuseio de contêineres",3,true
 "106019000","10601","Outros serviços de manuseio de cargas e bagagens",3,true
-"10602","106","Serviços de armazenagem em depósitos ",2,false
+"10602","106","Serviços de armazenagem em depósitos",2,false
 "106021000","10602","Serviços de armazenagem frigorífica",3,true
 "1060220","10602","Serviços de armazenagem de produtos perigosos",3,false
 "106022010","1060220","Serviços de armazenagem de petróleo e seus derivados",4,true
-"106022020","1060220","Serviços de armazenagem de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",4,true
+"106022020","1060220","Serviços de armazenagem de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",4,true
 "106022030","1060220","Serviços de armazenagem de produtos químicos perigosos",4,true
 "106022090","1060220","Serviços de armazenagem de outros produtos perigosos",4,true
 "1060230","10602","Serviços de armazenagem de granéis sólidos, líquidos ou liquefeitos e gasosos",3,false
@@ -348,15 +354,15 @@
 "106042010","1060420","Serviços de operação de autoestradas",4,true
 "106042020","1060420","Serviços de operação de pontes e túneis",4,true
 "106042030","1060420","Serviços de exploração de pedágios",4,true
-"106043000","10604","Serviços de estacionamentos ",3,true
+"106043000","10604","Serviços de estacionamentos",3,true
 "106044000","10604","Serviços de reboque para veículos particulares e comerciais",3,true
 "106049000","10604","Outros serviços de apoio ao transporte rodoviário",3,true
 "10605","106","Serviços de apoio para transportes aquaviários",2,false
 "106051000","10605","Serviços de operação de portos e canais, exceto manuseio de cargas",3,true
-"106052000","10605","Serviços de praticagem e de docas ",3,true
-"106053000","10605","Serviços de salvamento de embarcações ",3,true
+"106052000","10605","Serviços de praticagem e de docas",3,true
+"106053000","10605","Serviços de salvamento de embarcações",3,true
 "106059000","10605","Outros serviços de apoio ao transporte aquaviário, exceto os serviços de navegação de apoio",3,true
-"10606","106","Serviços de apoio ao transporte aéreo ",2,false
+"10606","106","Serviços de apoio ao transporte aéreo",2,false
 "106061000","10606","Serviços de operação de aeroportos, exceto manuseio de cargas",3,true
 "106062000","10606","Serviços de controle de tráfego aéreo",3,true
 "106069000","10606","Outros serviços de apoio ao transporte aéreo",3,true
@@ -364,14 +370,16 @@
 "106071000","10607","Serviços de agências de fretamento de transporte e outros serviços de fretamento de transportes",3,true
 "106079000","10607","Outros serviços de apoio aos transportes, exceto serviços de apoio ao transporte multimodal e intermodal de cargas",3,true
 "10608","106","Serviços de apoio ao transporte multimodal e intermodal de cargas",2,false
-"106081000","10608","Serviços de coleta e entrega do transporte multimodal e intermodal de cargas ",3,true
+"106081000","10608","Serviços de coleta e entrega do transporte multimodal e intermodal de cargas",3,true
 "106082000","10608","Serviços de unitização ou desunitização do transporte multimodal e intermodal de cargas",3,true
 "106083000","10608","Serviços de movimentação do transporte multimodal e intermodal de cargas",3,true
 "106084000","10608","Serviços de consolidação ou desconsolidação documental do transporte multimodal e intermodal de cargas",3,true
 "106089000","10608","Outros serviços de apoio ao transporte multimodal e intermodal de cargas",3,true
+"107",,"Serviços postais, serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos, serviços de remessas expressas",1,false
 "107010000","107","Serviços postais e de telegrama",2,true
-"107020000","107","Serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos",2,true
+"107020000","107","Serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos",2,true
 "107030000","107","Serviços de remessas expressas",2,true
+"108",,"Serviços de transmissão e distribuição de eletricidade, serviços de distribuição de gás e água",1,false
 "10801","108","Serviços de transmissão e distribuição de eletricidade e gás",2,false
 "108011","10801","Serviços de transmissão e distribuição de eletricidade",3,false
 "108011100","108011","Serviços de transmissão de eletricidade",4,true
@@ -379,147 +387,150 @@
 "108012000","10801","Serviços de distribuição de gás canalizado",3,true
 "10802","108","Serviços de distribuição de água",2,false
 "108021000","10802","Serviços de distribuição de água por meio de tubulações, exceto vapor de água e água quente",3,true
-"108022000","10802","Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de tubulações ",3,true
-"108023000","10802","Serviços de distribuição de água, exceto através de tubulações ",3,true
+"108022000","10802","Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de tubulações",3,true
+"108023000","10802","Serviços de distribuição de água, exceto através de tubulações",3,true
+"109",,"Serviços financeiros e relacionados, securitização de recebíveis e fomento comercial",1,false
 "10901","109","Serviços financeiros, exceto bancos de investimento, serviços de seguros e previdência complementar",2,false
 "109011000","10901","Serviços de banco central",3,true
-"109012","10901","Serviços de depósito ",3,false
+"109012","10901","Serviços de depósito",3,false
 "109012100","109012","Serviços de depósito para pessoas jurídicas",4,true
 "109012200","109012","Serviços de depósito para pessoas físicas",4,true
 "109012900","109012","Outros serviços de depósito",4,true
-"109013","10901","Serviços de concessão de crédito ",3,false
+"109013","10901","Serviços de concessão de crédito",3,false
 "109013100","109013","Serviços de financiamentos imobiliários residenciais",4,true
 "109013200","109013","Serviços de financiamentos imobiliários não-residenciais",4,true
 "109013300","109013","Serviços de empréstimos e financiamentos, pessoais",4,true
-"109013400","109013","Serviços de empréstimos e financiamentos, comerciais ",4,true
+"109013400","109013","Serviços de empréstimos e financiamentos, comerciais",4,true
 "109013500","109013","Serviços de empréstimos e financiamentos, industriais",4,true
 "109013600","109013","Serviços de empréstimos e financiamentos, agropecuários",4,true
-"109013900","109013","Outros serviços de concessão de crédito ",4,true
-"109014000","10901","Serviços de cartão de crédito ",3,true
+"109013900","109013","Outros serviços de concessão de crédito",4,true
+"109014000","10901","Serviços de cartão de crédito",3,true
 "109015","10901","Operações de arrendamento mercantil financeiro",3,false
 "1090151","109015","Arrendamento mercantil financeiro de máquinas e equipamentos",4,false
 "10901511","1090151","Arrendamento mercantil financeiro de equipamentos de transporte",5,false
-"109015111","10901511","Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de passageiros ",6,true
-"109015112","10901511","Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de mercadorias ",6,true
-"109015113","10901511","Arrendamento mercantil financeiro de veículos e equipamentos ferroviários ",6,true
-"109015114","10901511","Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto ",6,true
+"109015111","10901511","Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de passageiros",6,true
+"109015112","10901511","Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de mercadorias",6,true
+"109015113","10901511","Arrendamento mercantil financeiro de veículos e equipamentos ferroviários",6,true
+"109015114","10901511","Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto",6,true
 "109015115","10901511","Arrendamento mercantil financeiro de navios e outras embarcações",6,true
 "109015116","10901511","Arrendamento mercantil financeiro de aeronaves",6,true
-"109015117","10901511","Arrendamento mercantil financeiro de contêineres ",6,true
-"10901512","1090151","Arrendamento mercantil financeiro de outras máquinas e equipamentos ",5,false
-"109015121","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas ",6,true
-"109015122","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos de construção ",6,true
-"109015123","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios, exceto computadores ",6,true
+"109015117","10901511","Arrendamento mercantil financeiro de contêineres",6,true
+"10901512","1090151","Arrendamento mercantil financeiro de outras máquinas e equipamentos",5,false
+"109015121","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas",6,true
+"109015122","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos de construção",6,true
+"109015123","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios, exceto computadores",6,true
 "109015124","10901512","Arrendamento mercantil financeiro de computadores",6,true
-"109015125","10901512","Arrendamento mercantil financeiro de equipamentos de telecomunicação ",6,true
-"109015129","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos, não classificados em outra posição ",6,true
-"1090152","109015","Arrendamento mercantil financeiro de outras mercadorias ",4,false
-"109015210","1090152","Arrendamento mercantil financeiro de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios ",5,true
-"109015220","1090152","Arrendamento mercantil financeiro de mídias gravadas ",5,true
+"109015125","10901512","Arrendamento mercantil financeiro de equipamentos de telecomunicação",6,true
+"109015129","10901512","Arrendamento mercantil financeiro de máquinas e equipamentos, não classificados em outra posição",6,true
+"1090152","109015","Arrendamento mercantil financeiro de outras mercadorias",4,false
+"109015210","1090152","Arrendamento mercantil financeiro de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios",5,true
+"109015220","1090152","Arrendamento mercantil financeiro de mídias gravadas",5,true
 "109015230","1090152","Arrendamento mercantil financeiro de móveis e eletrodomésticos",5,true
-"109015240","1090152","Arrendamento mercantil financeiro de equipamentos para diversão e lazer ",5,true
+"109015240","1090152","Arrendamento mercantil financeiro de equipamentos para diversão e lazer",5,true
 "109015250","1090152","Arrendamento mercantil financeiro de artigos de cama, mesa e banho",5,true
 "109015290","1090152","Arrendamento mercantil financeiro de outras mercadorias não classificadas em outra posição",5,true
 "109019000","10901","Outros serviços financeiros, exceto bancos de investimento, serviços de seguros e previdência complementar",3,true
 "10902","109","Serviços de banco de investimento",2,false
 "109021000","10902","Serviços de valoração de ativos",3,true
 "109022000","10902","Serviços de subscrição de valores mobiliários",3,true
-"109023000","10902","Serviços de fusões e aquisições  ",3,true
-"109024000","10902","Serviços de capital de risco e finanças corporativas ",3,true
-"109029000","10902","Outros serviços relacionados a bancos de investimentos ",3,true
+"109023000","10902","Serviços de fusões e aquisições",3,true
+"109024000","10902","Serviços de capital de risco e finanças corporativas",3,true
+"109029000","10902","Outros serviços relacionados a bancos de investimentos",3,true
 "10903","109","Serviços de seguros e previdência complementar (excluídos os serviços de resseguros), exceto serviços de previdência social compulsória",2,false
-"109031","10903","Serviços de seguros de vida e de previdência complementar, excluídos os serviços de resseguros  ",3,false
+"109031","10903","Serviços de seguros de vida e de previdência complementar, excluídos os serviços de resseguros",3,false
 "109031100","109031","Serviços de seguros de vida",4,true
 "109031200","109031","Serviços de previdência complementar aberta",4,true
 "109031300","109031","Serviços de previdência complementar fechada",4,true
 "109032000","10903","Serviços de seguros saúde e de acidentes",3,true
-"109039","10903","Outros serviços de seguros, excluídos os serviços de resseguros ",3,false
+"109039","10903","Outros serviços de seguros, excluídos os serviços de resseguros",3,false
 "109039100","109039","Serviços de seguros de veículos rodoviários",4,true
-"109039200","109039","Serviços de seguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo ",4,true
+"109039200","109039","Serviços de seguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo",4,true
 "109039300","109039","Serviços de seguros de cargas",4,true
 "109039400","109039","Serviços de seguros de outras propriedades",4,true
 "109039500","109039","Serviços de seguros por responsabilidade civil",4,true
 "109039600","109039","Serviços de seguros de crédito e de caução",4,true
-"109039700","109039","Serviços de seguros de viagem ",4,true
-"109039900","109039","Outros serviços de seguros ",4,true
+"109039700","109039","Serviços de seguros de viagem",4,true
+"109039900","109039","Outros serviços de seguros",4,true
 "10904","109","Serviços de resseguros e de retrocessão",2,false
-"109041000","10904","Serviços de resseguros de vida ",3,true
+"109041000","10904","Serviços de resseguros de vida",3,true
 "109042000","10904","Serviços de resseguros saúde e de acidentes",3,true
 "109043","10904","Serviços de resseguros não classificados nas subposições anteriores e serviços de retrocessão",3,false
-"109043100","109043","Serviços de resseguros de veículos rodoviários ",4,true
-"109043200","109043","Serviços de resseguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo ",4,true
+"109043100","109043","Serviços de resseguros de veículos rodoviários",4,true
+"109043200","109043","Serviços de resseguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo",4,true
 "109043300","109043","Serviços de resseguros de cargas",4,true
 "109043400","109043","Serviços de resseguros de outras propriedades",4,true
 "109043500","109043","Serviços de resseguros de responsabilidade civil",4,true
-"109043600","109043","Serviços de resseguros de crédito e caução ",4,true
+"109043600","109043","Serviços de resseguros de crédito e caução",4,true
 "109043900","109043","Outros serviços de resseguros e serviços de retrocessão",4,true
 "10905","109","Serviços auxiliares aos serviços financeiros, exceto os relacionados a seguros e previdência complementar",2,false
-"109051","10905","Serviços de corretagem de títulos, derivativos e commodities ",3,false
+"109051","10905","Serviços de corretagem de títulos, derivativos e commodities",3,false
 "109051100","109051","Serviços de corretagem de títulos",4,true
 "109051200","109051","Serviços de corretagem de derivativos e commodities",4,true
 "109051300","109051","Serviços de compensação de transações financeiras, inclusive com ativos financeiros (clearinghouse)",4,true
-"109052000","10905","Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão ",3,true
-"109053000","10905","Serviços de guarda e custódia ",3,true
-"109054000","10905","Serviços relacionados à administração de mercados financeiros ",3,true
-"109059","10905","Outros serviços auxiliares aos serviços financeiros ",3,false
-"109059100","109059","Serviços de consultoria financeira ",4,true
-"109059200","109059","Serviços de câmbio ",4,true
+"109052000","10905","Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão",3,true
+"109053000","10905","Serviços de guarda e custódia",3,true
+"109054000","10905","Serviços relacionados à administração de mercados financeiros",3,true
+"109059","10905","Outros serviços auxiliares aos serviços financeiros",3,false
+"109059100","109059","Serviços de consultoria financeira",4,true
+"109059200","109059","Serviços de câmbio",4,true
 "109059300","109059","Serviços de classificação de risco (rating)",4,true
-"109059400","109059","Serviços fiduciários ",4,true
-"109059900","109059","Outros serviços auxiliares aos serviços financeiros não classificados em outra posição ",4,true
+"109059400","109059","Serviços fiduciários",4,true
+"109059900","109059","Outros serviços auxiliares aos serviços financeiros não classificados em outra posição",4,true
 "10906","109","Serviços auxiliares a seguros e previdência complementar",2,false
 "109061","10906","Serviços de agenciamento e corretagem de seguros e previdência complementar",3,false
 "109061100","109061","Serviços de agenciamento e corretagem de seguros e previdência complementar, exceto de seguros saúde",4,true
-"109061200","109061","Serviços de corretagem de seguros saúde ",4,true
-"109062000","10906","Serviços de perícia e avaliação de seguros ",3,true
-"109063000","10906","Serviços atuariais ",3,true
+"109061200","109061","Serviços de corretagem de seguros saúde",4,true
+"109062000","10906","Serviços de perícia e avaliação de seguros",3,true
+"109063000","10906","Serviços atuariais",3,true
 "109064000","10906","Serviços de gestão de fundos de previdência complementar",3,true
 "109069000","10906","Outros serviços auxiliares a seguros e previdência complementar",3,true
 "109070000","109","Securitização de recebíveis",2,true
 "109080000","109","Fomento comercial (factoring)",2,true
-"11001","110","Serviços imobiliários sob comissão ou contrato ",2,false
-"110011","11001","Serviços de administração e locação de imóveis ",3,false
-"110011100","110011","Serviços de administração e locação de imóveis residenciais ",4,true
-"1100112","110011","Serviços de administração e locação de imóveis não residenciais ",4,false
+"110",,"Serviços imobiliários",1,false
+"11001","110","Serviços imobiliários sob comissão ou contrato",2,false
+"110011","11001","Serviços de administração e locação de imóveis",3,false
+"110011100","110011","Serviços de administração e locação de imóveis residenciais",4,true
+"1100112","110011","Serviços de administração e locação de imóveis não residenciais",4,false
 "110011210","1100112","Serviços de administração de locação, sublocação, arrendamento, direito de passagem ou permissão de uso, compartilhado ou não, de ferrovia, rodovia, postes, cabos, dutos e condutos de qualquer natureza",5,true
 "110011290","1100112","Outros serviços de administração e locação de imóveis não residenciais",5,true
-"110012","11001","Compra e venda de imóveis ",3,false
+"110012","11001","Compra e venda de imóveis",3,false
 "110012100","110012","Compra e venda de imóveis residenciais",4,true
 "110012200","110012","Compra e venda de imóveis não-residenciais",4,true
-"110013000","11001","Serviços de avaliação de imóveis ",3,true
+"110013000","11001","Serviços de avaliação de imóveis",3,true
 "110014000","11001","Serviços de consultoria imobiliária",3,true
 "110015000","11001","Serviços de assessoria de gestão condominial (condomínios, edifícios residenciais e mistos)",3,true
 "110900000","110","Outros serviços imobiliários",2,true
-"11101","111","Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem operador ",2,false
+"111",,"Arrendamento mercantil operacional, propriedade intelectual, franquias empresariais e exploração de outros direitos",1,false
+"11101","111","Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem operador",2,false
 "111011","11101","Arrendamento mercantil operacional ou locação de equipamentos de transporte, sem operador",3,false
-"111011100","111011","Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de até oito passageiros, sem operador ",4,true
-"111011200","111011","Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de mercadorias, sem operador ",4,true
-"111011300","111011","Arrendamento mercantil operacional ou locação de veículos e equipamentos ferroviários, sem operador ",4,true
-"111011400","111011","Arrendamento mercantil operacional ou locação de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto, sem operador ",4,true
-"111011500","111011","Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem tripulação ",4,true
-"111011600","111011","Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação ",4,true
-"111011700","111011","Arrendamento mercantil operacional ou locação de contêineres ",4,true
-"111012","11101","Arrendamento mercantil operacional ou locação de outras máquinas e equipamentos, sem operador ",3,false
-"111012100","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos agrícolas, sem operador ",4,true
-"111012200","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos de construção, sem operador ",4,true
-"111012300","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos para escritórios, exceto computadores, sem operador ",4,true
+"111011100","111011","Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de até oito passageiros, sem operador",4,true
+"111011200","111011","Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de mercadorias, sem operador",4,true
+"111011300","111011","Arrendamento mercantil operacional ou locação de veículos e equipamentos ferroviários, sem operador",4,true
+"111011400","111011","Arrendamento mercantil operacional ou locação de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto, sem operador",4,true
+"111011500","111011","Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem tripulação",4,true
+"111011600","111011","Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação",4,true
+"111011700","111011","Arrendamento mercantil operacional ou locação de contêineres",4,true
+"111012","11101","Arrendamento mercantil operacional ou locação de outras máquinas e equipamentos, sem operador",3,false
+"111012100","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos agrícolas, sem operador",4,true
+"111012200","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos de construção, sem operador",4,true
+"111012300","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos para escritórios, exceto computadores, sem operador",4,true
 "111012400","111012","Arrendamento mercantil operacional ou locação de computadores, sem operador",4,true
-"111012500","111012","Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação, sem operador ",4,true
-"111012900","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos, não classificados em outra posição, sem operador ",4,true
-"11102","111","Arrendamento mercantil operacional ou locação de outras mercadorias ",2,false
-"111021000","11102","Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios ",3,true
-"111022000","11102","Arrendamento mercantil operacional ou locação de mídias gravadas ",3,true
+"111012500","111012","Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação, sem operador",4,true
+"111012900","111012","Arrendamento mercantil operacional ou locação de máquinas e equipamentos, não classificados em outra posição, sem operador",4,true
+"11102","111","Arrendamento mercantil operacional ou locação de outras mercadorias",2,false
+"111021000","11102","Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios",3,true
+"111022000","11102","Arrendamento mercantil operacional ou locação de mídias gravadas",3,true
 "111023000","11102","Arrendamento mercantil operacional ou locação de móveis e eletrodomésticos",3,true
-"111024000","11102","Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer ",3,true
+"111024000","11102","Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer",3,true
 "111025000","11102","Arrendamento mercantil operacional ou locação de artigos de cama, mesa e banho",3,true
-"111026000","11102","Arrendamento mercantil operacional ou locação de roupas e calçados ",3,true
+"111026000","11102","Arrendamento mercantil operacional ou locação de roupas e calçados",3,true
 "111029000","11102","Arrendamento mercantil operacional ou locação de outras mercadorias não classificadas em outra posição",3,true
 "11103","111","Licenciamento de direitos de autor e direitos conexos",2,false
 "111031000","11103","Licenciamento de direitos de obras literárias",3,true
-"111032","11103","Licenciamento de direitos sobre programas de computador  ",3,false
+"111032","11103","Licenciamento de direitos sobre programas de computador",3,false
 "111032100","111032","Licenciamento de direitos de produção, distribuição ou comercialização de programas de computador",4,true
 "111032200","111032","Licenciamento de direitos de uso de programas de computador",4,true
-"111032900","111032","Licenciamento de outros direitos sobre programas de computador  ",4,true
+"111032900","111032","Licenciamento de outros direitos sobre programas de computador",4,true
 "111033","11103","Licenciamento de direitos de obras audiovisuais",3,false
 "111033100","111033","Licenciamento de direitos de autor de obras cinematográficas",4,true
 "111033200","111033","Licenciamento de direitos de autor de obras jornalísticas",4,true
@@ -527,7 +538,7 @@
 "111033400","111033","Licenciamento de direitos conexos de artistas intérpretes ou executantes em obras audiovisuais",4,true
 "111033500","111033","Licenciamento de direitos conexos de produtores de obras audiovisuais",4,true
 "1110339","111033","Licenciamento de direitos de outras obras audiovisuais",4,false
-"11103391","1110339","Licenciamento de direitos de obras audiovisuais destinadas à televisão ",5,false
+"11103391","1110339","Licenciamento de direitos de obras audiovisuais destinadas à televisão",5,false
 "111033911","11103391","Licenciamento de direitos de obras audiovisuais sobre transmissões de eventos esportivos",6,true
 "111033912","11103391","Licenciamento de direitos de obras audiovisuais sobre transmissões de programas televisivos",6,true
 "111033919","11103391","Licenciamento de direitos de obras audiovisuais sobre outras transmissões televisivas",6,true
@@ -537,19 +548,19 @@
 "111034200","111034","Licenciamento de direitos conexos de artistas intérpretes ou executantes",4,true
 "111034300","111034","Licenciamento de direitos conexos de produtores de fonogramas",4,true
 "111035000","11103","Licenciamento de direitos relacionados à radiodifusão",3,true
-"111039","11103","Licenciamento de outros direitos de autor e outros direitos conexos ",3,false
-"111039100","111039","Licenciamento de outros direitos de autor ",4,true
-"111039200","111039","Licenciamento de outros direitos conexos ",4,true
+"111039","11103","Licenciamento de outros direitos de autor e outros direitos conexos",3,false
+"111039100","111039","Licenciamento de outros direitos de autor",4,true
+"111039200","111039","Licenciamento de outros direitos conexos",4,true
 "11104","111","Cessão temporária de direitos de autor e direitos conexos",2,false
 "111041000","11104","Cessão temporária de direitos de obras literárias",3,true
-"111042000","11104","Cessão temporária de direitos sobre programas de computador  ",3,true
+"111042000","11104","Cessão temporária de direitos sobre programas de computador",3,true
 "111043","11104","Cessão temporária de direitos sobre obras audiovisuais",3,false
 "111043100","111043","Cessão temporária de direitos de autor de obras cinematográficas",4,true
 "111043200","111043","Cessão temporária de direitos de autor de obras jornalísticas",4,true
 "111043300","111043","Cessão temporária de direitos de autor de obras publicitárias",4,true
 "111043400","111043","Cessão temporária de direitos conexos de artistas intérpretes ou executantes em obras audiovisuais",4,true
 "111043500","111043","Cessão temporária de direitos conexos de produtores de obras audiovisuais",4,true
-"1110439","111043","Cessão temporária de direitos de outras obras audiovisuais ",4,false
+"1110439","111043","Cessão temporária de direitos de outras obras audiovisuais",4,false
 "11104391","1110439","Cessão temporária de direitos de obras audiovisuais destinadas à televisão",5,false
 "111043911","11104391","Cessão temporária de direitos de obras audiovisuais sobre transmissões de eventos esportivos",6,true
 "111043912","11104391","Cessão temporária de direitos de obras audiovisuais sobre transmissões de programas televisivos",6,true
@@ -561,18 +572,18 @@
 "111044300","111044","Cessão temporária de direitos conexos de produtores de fonogramas",4,true
 "111045000","11104","Cessão temporária de direitos relacionados à radiodifusão",3,true
 "111049","11104","Cessão temporária de outros direitos de autor e outros direitos conexos",3,false
-"111049100","111049","Cessão temporária de outros direitos de autor ",4,true
+"111049100","111049","Cessão temporária de outros direitos de autor",4,true
 "111049200","111049","Cessão temporária de outros direitos conexos",4,true
 "11105","111","Licenciamento de direitos sobre a propriedade industrial",2,false
 "111051000","11105","Licenciamento de direitos sobre patentes",3,true
-"111052000","11105","Licenciamento de direitos sobre marcas ",3,true
+"111052000","11105","Licenciamento de direitos sobre marcas",3,true
 "111053000","11105","Licenciamento de direitos sobre desenho industrial",3,true
 "111059000","11105","Licenciamento de outros direitos sobre a propriedade industrial",3,true
 "111060000","111","Licenciamento de direitos sobre cultivares",2,true
 "111070000","111","Licenciamento de direitos sobre topografias de circuitos integrados",2,true
 "111080000","111","Licenciamento de direitos relativos à informação não divulgada",2,true
-"111090000","111","Licenciamento de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores ",2,true
-"11110","111","Contratos de transferência de tecnologia ",2,false
+"111090000","111","Licenciamento de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores",2,true
+"11110","111","Contratos de transferência de tecnologia",2,false
 "111101000","11110","Contratos de prestação de serviços de assistência técnica e científica, combinadamente ou não, com qualquer modalidade de transferência de tecnologia",3,true
 "111102000","11110","Contratos de fornecimento de tecnologia (know-how)",3,true
 "111103000","11110","Contratos de franquia",3,true
@@ -586,103 +597,106 @@
 "111129000","11112","Licenciamento de direitos sobre outros conhecimentos tradicionais",3,true
 "111130000","111","Licenciamento de direitos relativos ao acesso a recursos genéticos, exceto os decorrentes do conhecimento tradicional",2,true
 "111900000","111","Outras formas de licenciamento e de cessões para exploração de direitos, não classificadas nas posições anteriores",2,true
-"11201","112","Serviços de pesquisa e desenvolvimento em ciências naturais, exatas e engenharia ",2,false
+"112",,"Serviços de pesquisa e desenvolvimento",1,false
+"11201","112","Serviços de pesquisa e desenvolvimento em ciências naturais, exatas e engenharia",2,false
 "112011","11201","Serviços de pesquisa e desenvolvimento em ciências naturais e exatas",3,false
 "112011100","112011","Serviços de pesquisa e desenvolvimento em física",4,true
-"112011200","112011","Serviços de pesquisa e desenvolvimento em química e biologia ",4,true
+"112011200","112011","Serviços de pesquisa e desenvolvimento em química e biologia",4,true
 "112011900","112011","Serviços de pesquisa e desenvolvimento em outras ciências naturais e exatas",4,true
 "112012","11201","Serviços de pesquisa e desenvolvimento em engenharia e tecnologia",3,false
 "112012100","112012","Serviços de pesquisa e desenvolvimento em biotecnologia",4,true
-"112012200","112012","Serviços de pesquisa e desenvolvimento em tecnologia da informação e comunicação (tic)",4,true
-"112012300","112012","Serviços de pesquisa e desenvolvimento em nanotecnologia ",4,true
+"112012200","112012","Serviços de pesquisa e desenvolvimento em tecnologia da informação e comunicação (TIC)",4,true
+"112012300","112012","Serviços de pesquisa e desenvolvimento em nanotecnologia",4,true
 "112012400","112012","Serviços de pesquisa e desenvolvimento em engenharia e tecnologia nucleares",4,true
 "112012500","112012","Serviços de pesquisa e desenvolvimento em engenharia e tecnologia em microondas de potência",4,true
 "112012900","112012","Serviços de pesquisa e desenvolvimento em outros ramos da  engenharia e tecnologia",4,true
 "112013000","11201","Serviços de pesquisa e desenvolvimento em  ciências médica, odontológica e farmacêutica",3,true
-"112014000","11201","Serviços de pesquisa e desenvolvimento em ciências agrárias ",3,true
+"112014000","11201","Serviços de pesquisa e desenvolvimento em ciências agrárias",3,true
 "112019","11201","Outros serviços de pesquisa e desenvolvimento em ciências naturais e engenharia",3,false
 "112019100","112019","Pesquisa tecnológica utilizando documentos de patentes",4,true
 "112019900","112019","Outros serviços de pesquisa e desenvolvimento em ciências naturais e engenharia",4,true
 "11202","112","Serviços de pesquisa e desenvolvimento em ciências sociais e humanidades",2,false
-"112021","11202","Serviços de pesquisa e desenvolvimento em ciências sociais ",3,false
-"112021100","112021","Serviços de pesquisa e desenvolvimento em psicologia ",4,true
-"112021200","112021","Serviços de pesquisa e desenvolvimento em ciências econômicas ",4,true
+"112021","11202","Serviços de pesquisa e desenvolvimento em ciências sociais",3,false
+"112021100","112021","Serviços de pesquisa e desenvolvimento em psicologia",4,true
+"112021200","112021","Serviços de pesquisa e desenvolvimento em ciências econômicas",4,true
 "112021300","112021","Serviços de pesquisa e desenvolvimento em direito",4,true
-"112021900","112021","Serviços de pesquisa e desenvolvimento em outras ciências sociais ",4,true
-"112022000","11202","Serviços de pesquisa e desenvolvimento em humanidades ",3,true
-"112030000","112","Serviços de pesquisa e desenvolvimento interdisciplinar ",2,true
-"11301","113","Serviços jurídicos ",2,false
+"112021900","112021","Serviços de pesquisa e desenvolvimento em outras ciências sociais",4,true
+"112022000","11202","Serviços de pesquisa e desenvolvimento em humanidades",3,true
+"112030000","112","Serviços de pesquisa e desenvolvimento interdisciplinar",2,true
+"113",,"Serviços jurídicos e contábeis",1,false
+"11301","113","Serviços jurídicos",2,false
 "113011000","11301","Serviços de representação e consultoria jurídica criminal",3,true
-"113012000","11301","Serviços de representação e consultoria jurídica em outras áreas do direito ",3,true
+"113012000","11301","Serviços de representação e consultoria jurídica em outras áreas do direito",3,true
 "113013000","11301","Serviços de documentação e certificação, exceto os serviços notariais e de registro",3,true
 "113014","11301","Outros serviços jurídicos",3,false
-"113014100","113014","Serviços de arbitragem, conciliação e mediação ",4,true
-"113014900","113014","Outros serviços jurídicos não classificados em outra posição ",4,true
-"11302","113","Serviços de auditoria, contabilidade e escrituração mercantil ",2,false
-"113021","11302","Serviços de auditoria ",3,false
-"113021100","113021","Serviços de auditoria contábil ",4,true
-"113021900","113021","Outros serviços de auditoria ",4,true
+"113014100","113014","Serviços de arbitragem, conciliação e mediação",4,true
+"113014900","113014","Outros serviços jurídicos não classificados em outra posição",4,true
+"11302","113","Serviços de auditoria, contabilidade e escrituração mercantil",2,false
+"113021","11302","Serviços de auditoria",3,false
+"113021100","113021","Serviços de auditoria contábil",4,true
+"113021900","113021","Outros serviços de auditoria",4,true
 "113022","11302","Serviços de contabilidade e escrituração mercantil",3,false
-"113022100","113022","Serviços de contabilidade ",4,true
-"113022200","113022","Serviços de escrituração mercantil ",4,true
+"113022100","113022","Serviços de contabilidade",4,true
+"113022200","113022","Serviços de escrituração mercantil",4,true
 "113022300","113022","Serviços de folha de pagamento",4,true
 "113022900","113022","Outros serviços de contabilidade e escrituração mercantil",4,true
-"11303","113","Serviços de consultoria tributária ",2,false
-"113031000","11303","Serviços de consultoria tributária para pessoas jurídicas ",3,true
+"11303","113","Serviços de consultoria tributária",2,false
+"113031000","11303","Serviços de consultoria tributária para pessoas jurídicas",3,true
 "113032000","11303","Serviços de consultoria tributária para pessoas físicas",3,true
 "113040000","113","Serviços notariais e de registro",2,true
+"114",,"Outros serviços profissionais",1,false
 "11401","114","Serviços gerenciais, de consultoria gerencial, de relações públicas e de comunicação social",2,false
-"114011","11401","Serviços gerenciais e de consultoria gerencial ",3,false
+"114011","11401","Serviços gerenciais e de consultoria gerencial",3,false
 "114011100","114011","Serviços de consultoria gerencial estratégica",4,true
-"114011200","114011","Serviços de consultoria gerencial financeira ",4,true
+"114011200","114011","Serviços de consultoria gerencial financeira",4,true
 "114011300","114011","Serviços de consultoria gerencial em recursos humanos",4,true
-"114011400","114011","Serviços de consultoria gerencial em marketing ",4,true
+"114011400","114011","Serviços de consultoria gerencial em marketing",4,true
 "114011500","114011","Serviços de consultoria gerencial operacional",4,true
 "114011600","114011","Serviços de consultoria gerencial em energia",4,true
 "114011700","114011","Serviços de consultoria em logística",4,true
-"114011800","114011","Serviços gerenciais em processos de negócios ",4,true
+"114011800","114011","Serviços gerenciais em processos de negócios",4,true
 "114011900","114011","Outros serviços gerenciais e de consultoria gerencial",4,true
-"114012000","11401","Serviços de relações públicas ",3,true
+"114012000","11401","Serviços de relações públicas",3,true
 "114013","11401","Serviços de comunicação social",3,false
 "114013100","114013","Serviços de assessoria de imprensa",4,true
 "114013900","114013","Outros serviços de comunicação social",4,true
 "11402","114","Serviços de arquitetura, de planejamento urbano e de áreas rurais e de paisagismo",2,false
 "114021","11402","Serviços de arquitetura",3,false
-"114021100","114021","Serviços de consultoria em arquitetura ",4,true
-"114021200","114021","Serviços arquitetônicos para projetos de construções residenciais ",4,true
-"114021300","114021","Serviços arquitetônicos para projetos de construções não residenciais  ",4,true
+"114021100","114021","Serviços de consultoria em arquitetura",4,true
+"114021200","114021","Serviços arquitetônicos para projetos de construções residenciais",4,true
+"114021300","114021","Serviços arquitetônicos para projetos de construções não residenciais",4,true
 "114021400","114021","Serviços arquitetônicos para restauração de prédios históricos",4,true
 "114021500","114021","Serviços de arquitetura relativos ao acompanhamento e fiscalização da execução de projetos arquitetônicos e urbanísticos",4,true
-"114022","11402","Serviços de planejamento urbano e de áreas rurais ",3,false
-"114022100","114022","Serviços de planejamento urbano ",4,true
-"114022200","114022","Serviços de planejamento de áreas rurais ",4,true
+"114022","11402","Serviços de planejamento urbano e de áreas rurais",3,false
+"114022100","114022","Serviços de planejamento urbano",4,true
+"114022200","114022","Serviços de planejamento de áreas rurais",4,true
 "114023","11402","Serviços de paisagismo",3,false
 "114023100","114023","Serviços de consultoria de paisagismo",4,true
-"114023200","114023","Serviços arquitetônicos de paisagismo ",4,true
+"114023200","114023","Serviços arquitetônicos de paisagismo",4,true
 "114029000","11402","Outros serviços de arquitetura, de planejamento urbano e de áreas rurais e de paisagismo",3,true
-"11403","114","Serviços de engenharia ",2,false
-"114031000","11403","Serviços de consultoria de engenharia ",3,true
-"114032","11403","Serviços de engenharia para projetos específicos ",3,false
-"1140321","114032","Serviços de engenharia de projetos de construção ",4,false
+"11403","114","Serviços de engenharia",2,false
+"114031000","11403","Serviços de consultoria de engenharia",3,true
+"114032","11403","Serviços de engenharia para projetos específicos",3,false
+"1140321","114032","Serviços de engenharia de projetos de construção",4,false
 "114032110","1140321","Serviços de engenharia de projetos de construção residencial",5,true
 "114032120","1140321","Serviços de engenharia de projetos de construção não residencial",5,true
 "114032200","114032","Serviços de engenharia de projetos industriais e de fabricação, exceto para projetos de energia",4,true
 "114032300","114032","Serviços de engenharia para projetos de transportes",4,true
-"1140324","114032","Serviços de engenharia para projetos de energia ",4,false
+"1140324","114032","Serviços de engenharia para projetos de energia",4,false
 "114032410","1140324","Serviços de engenharia para projetos de exploração de petróleo e gás",5,true
 "114032420","1140324","Serviços de engenharia para projetos de refino de petróleo e petroquímica",5,true
 "114032430","1140324","Serviços de engenharia para projetos de unidades de produção de biocombustíveis",5,true
 "114032440","1140324","Serviços de engenharia para projetos de energia elétrica",5,true
-"114032490","1140324","Outros serviços de engenharia para projetos de energia ",5,true
+"114032490","1140324","Outros serviços de engenharia para projetos de energia",5,true
 "114032500","114032","Serviços de engenharia de projetos de radiodifusão e televisão",4,true
-"114032600","114032","Serviços de engenharia de projetos de gerenciamento de resíduos (perigosos e não perigosos) ",4,true
+"114032600","114032","Serviços de engenharia de projetos de gerenciamento de resíduos (perigosos e não perigosos)",4,true
 "114032700","114032","Serviços de engenharia de projetos de distribuição de água e redes de esgotos",4,true
 "114032800","114032","Serviços de engenharia de projetos de telecomunicação",4,true
-"1140329","114032","Outros serviços de engenharia de projetos ",4,false
-"114032910","1140329","Serviços de engenharia de projetos aeroespaciais ",5,true
+"1140329","114032","Outros serviços de engenharia de projetos",4,false
+"114032910","1140329","Serviços de engenharia de projetos aeroespaciais",5,true
 "114032920","1140329","Serviços de engenharia para projetos de embarcações",5,true
-"114032990","1140329","Outros serviços de engenharia de projetos ",5,true
-"114033000","11403","Serviços de gerenciamento de projetos de construção ",3,true
+"114032990","1140329","Outros serviços de engenharia de projetos",5,true
+"114033000","11403","Serviços de gerenciamento de projetos de construção",3,true
 "114039000","11403","Outros serviços de engenharia",3,true
 "11404","114","Serviços científicos e outros serviços técnicos",2,false
 "114041","11404","Serviços geológicos, geofísicos e outros de prospecção",3,false
@@ -691,56 +705,56 @@
 "114041300","114041","Serviços geoquímicos",4,true
 "114041400","114041","Serviços de informações para avaliação e exploração de recursos naturais",4,true
 "114041900","114041","Outros serviços de prospecção",4,true
-"114042","11404","Serviços topográficos e cartográficos ",3,false
-"114042100","114042","Serviços topográficos ",4,true
-"114042200","114042","Serviços cartográficos ",4,true
+"114042","11404","Serviços topográficos e cartográficos",3,false
+"114042100","114042","Serviços topográficos",4,true
+"114042200","114042","Serviços cartográficos",4,true
 "114043000","11404","Serviços meteorológicos e de previsão do tempo",3,true
 "114044","11404","Serviços de análise e exames técnicos",3,false
-"114044100","114044","Serviços de análise e de exames técnicos sobre pureza e composição ",4,true
-"114044200","114044","Serviços de análise e de exames técnicos de propriedades físicas ",4,true
-"114044300","114044","Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos ",4,true
-"114044400","114044","Serviços de inspeção técnica de veículos de transporte rodoviários ",4,true
-"114044900","114044","Outros serviços de análise e de exames técnicos ",4,true
-"11405","114","Serviços veterinários ",2,false
-"1140510","11405","Serviços veterinários para animais domésticos ",3,false
+"114044100","114044","Serviços de análise e de exames técnicos sobre pureza e composição",4,true
+"114044200","114044","Serviços de análise e de exames técnicos de propriedades físicas",4,true
+"114044300","114044","Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos",4,true
+"114044400","114044","Serviços de inspeção técnica de veículos de transporte rodoviários",4,true
+"114044900","114044","Outros serviços de análise e de exames técnicos",4,true
+"11405","114","Serviços veterinários",2,false
+"1140510","11405","Serviços veterinários para animais domésticos",3,false
 "114051010","1140510","Serviços hospitalares, com ou sem internação",4,true
-"114051090","1140510","Outros serviços veterinários para animais domésticos ",4,true
+"114051090","1140510","Outros serviços veterinários para animais domésticos",4,true
 "1140520","11405","Serviços veterinários para animais de corte",3,false
 "114052010","1140520","Serviços hospitalares, com ou sem internação",4,true
-"114052090","1140520","Outros serviços veterinários para animais de corte ",4,true
+"114052090","1140520","Outros serviços veterinários para animais de corte",4,true
 "114053000","11405","Serviços funerários, de cremação e de embalsamamento de animais",3,true
 "114059","11405","Outros serviços veterinários",3,false
-"114059100","114059","Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais biológicos ",4,true
+"114059100","114059","Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais biológicos",4,true
 "114059200","114059","Serviços de unidades de atendimento, assistência ou tratamento móvel",4,true
 "114059300","114059","Planos de atendimento e assistência médico-veterinária",4,true
 "114059400","114059","Serviços de guarda, tratamento, adestramento, embelezamento e alojamento (hotel veterinário)",4,true
 "114059900","114059","Outros serviços veterinários",4,true
 "11406","114","Serviços de propaganda e de alocação de espaço ou tempo para propaganda",2,false
 "114061","11406","Serviços de propaganda",3,false
-"114061100","114061","Serviços de campanhas publicitárias ",4,true
+"114061100","114061","Serviços de campanhas publicitárias",4,true
 "114061200","114061","Serviços de marketing direto e mala direta",4,true
 "114061900","114061","Outros serviços de propaganda",4,true
-"114062000","11406","Aquisição ou venda de espaço ou tempo para propaganda, sob comissão ",3,true
-"114063","11406","Venda de espaço ou tempo para propaganda, exceto sob comissão ",3,false
-"114063100","114063","Venda de espaço para propaganda em mídia impressa, exceto sob comissão ",4,true
-"114063200","114063","Venda de tempo para propaganda em rádio e televisão, exceto sob comissão ",4,true
-"114063300","114063","Venda de espaço para propaganda na rede mundial de computadores, exceto sob comissão ",4,true
+"114062000","11406","Aquisição ou venda de espaço ou tempo para propaganda, sob comissão",3,true
+"114063","11406","Venda de espaço ou tempo para propaganda, exceto sob comissão",3,false
+"114063100","114063","Venda de espaço para propaganda em mídia impressa, exceto sob comissão",4,true
+"114063200","114063","Venda de tempo para propaganda em rádio e televisão, exceto sob comissão",4,true
+"114063300","114063","Venda de espaço para propaganda na rede mundial de computadores, exceto sob comissão",4,true
 "114063900","114063","Venda de espaço ou tempo para propaganda em outros meios de comunicação publicitária, exceto sob comissão",4,true
 "114070000","114","Pesquisas de mercado e serviços de pesquisa de opinião pública",2,true
 "11408","114","Serviços fotográficos, videográficos e de processamento de fotografias",2,false
-"114081","11408","Serviços fotográficos e videográficos ",3,false
-"114081100","114081","Serviços fotográficos de retratos ",4,true
-"114081200","114081","Serviços fotográficos para propaganda ",4,true
+"114081","11408","Serviços fotográficos e videográficos",3,false
+"114081100","114081","Serviços fotográficos de retratos",4,true
+"114081200","114081","Serviços fotográficos para propaganda",4,true
 "114081300","114081","Serviços fotográficos e videográficos de eventos",4,true
-"114081400","114081","Serviços fotográficos especiais ",4,true
+"114081400","114081","Serviços fotográficos especiais",4,true
 "114081900","114081","Outros serviços fotográficos e videográficos",4,true
 "114082000","11408","Serviços de processamento de fotografias",3,true
-"11409","114","Outros serviços profissionais, técnicos e gerenciais não classificados em outra posição ",2,false
+"11409","114","Outros serviços profissionais, técnicos e gerenciais não classificados em outra posição",2,false
 "114091","11409","Serviços especializados de projetos (design)",3,false
-"1140911","114091","Serviços de projeto (design) de interiores ",4,false
+"1140911","114091","Serviços de projeto (design) de interiores",4,false
 "114091110","1140911","Serviços de projetos (design) de espaços comerciais e públicos",5,true
-"114091190","1140911","Outros serviços de projeto (design) de interiores ",5,true
-"114091200","114091","Serviços de desenho industrial ",4,true
+"114091190","1140911","Outros serviços de projeto (design) de interiores",5,true
+"114091200","114091","Serviços de desenho industrial",4,true
 "1140913","114091","Projetos (design) originais",4,false
 "114091310","1140913","Serviços de projetos (design) de marcas, imagens, objetos gráficos e digitais",5,true
 "114091320","1140913","Serviços de projetos (design) de embalagens, expositores de loja e objetos promocionais para comunicação e vendas",5,true
@@ -748,70 +762,72 @@
 "114091340","1140913","Serviços de projetos (design) de máquinas, equipamentos, acessórios e objetos de uso industrial de qualquer natureza",5,true
 "114091390","1140913","Outros serviços projetos (design) originais",5,true
 "114091900","114091","Outros serviços especializados de projeto (design)",4,true
-"114092","11409","Serviços de consultoria técnica e científica não classificados em outra posição ",3,false
-"114092100","114092","Serviços de consultoria ambiental ",4,true
-"114092900","114092","Outros serviços de consultoria técnica e científica ",4,true
-"114093000","11409","Serviços de compilação e coletânea de fatos e informações originais ",3,true
-"114094000","11409","Serviços de tradução e de intérpretes ",3,true
-"114095000","11409","Serviços para registros de marcas comerciais e de franquias empresariais, exceto as licenças de uso de direito ",3,true
-"114099000","11409","Outros serviços profissionais, técnicos e gerenciais não classificados nas subposições anteriores ",3,true
-"11501","115","Serviços de consultoria, de segurança e de suporte em tecnologia da informação (ti)",2,false
-"115011000","11501","Serviços de consultoria em tecnologia da informação (ti)",3,true
-"115012000","11501","Serviços de segurança em tecnologia da informação (ti)",3,true
-"115013000","11501","Serviços de suporte em tecnologia da informação (ti) ",3,true
-"11502","115","Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da informação (ti) ",2,false
+"114092","11409","Serviços de consultoria técnica e científica não classificados em outra posição",3,false
+"114092100","114092","Serviços de consultoria ambiental",4,true
+"114092900","114092","Outros serviços de consultoria técnica e científica",4,true
+"114093000","11409","Serviços de compilação e coletânea de fatos e informações originais",3,true
+"114094000","11409","Serviços de tradução e de intérpretes",3,true
+"114095000","11409","Serviços para registros de marcas comerciais e de franquias empresariais, exceto as licenças de uso de direito",3,true
+"114099000","11409","Outros serviços profissionais, técnicos e gerenciais não classificados nas subposições anteriores",3,true
+"115",,"Serviços de tecnologia da informação",1,false
+"11501","115","Serviços de consultoria, de segurança e de suporte em tecnologia da informação (TI)",2,false
+"115011000","11501","Serviços de consultoria em tecnologia da informação (TI)",3,true
+"115012000","11501","Serviços de segurança em tecnologia da informação (TI)",3,true
+"115013000","11501","Serviços de suporte em tecnologia da informação (TI)",3,true
+"11502","115","Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da informação (TI)",2,false
 "115021000","11502","Serviços de projeto, desenvolvimento e instalação de aplicativos e programas não personalizados (não customizados)",3,true
 "115022000","11502","Serviços de projeto e desenvolvimento, adaptação e instalação de aplicativos personalizados (customizados)",3,true
-"115023000","11502","Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas ",3,true
-"115024000","11502","Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados ",3,true
-"115025000","11502","Serviços de integração de sistemas em tecnologia da informação (ti) ",3,true
-"115029000","11502","Outros serviços de projeto e desenvolvimento de aplicativos ",3,true
-"115030000","115","Serviços de projeto e desenvolvimento de redes em tecnologia da informação (ti)  ",2,true
+"115023000","11502","Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas",3,true
+"115024000","11502","Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados",3,true
+"115025000","11502","Serviços de integração de sistemas em tecnologia da informação (TI)",3,true
+"115029000","11502","Outros serviços de projeto e desenvolvimento de aplicativos",3,true
+"115030000","115","Serviços de projeto e desenvolvimento de redes em tecnologia da informação (TI)",2,true
 "115040000","115","Serviços de projeto e desenvolvimento de topografias de circuitos integrados",2,true
 "115050000","115","Serviços de projeto de circuitos integrados",2,true
-"11506","115","Serviços de infraestrutura para hospedagem em tecnologia da informação (ti) ",2,false
-"115061000","11506","Serviços de hospedagem de sítios na rede mundial de computadores ",3,true
-"115062000","11506","Serviços de hospedagem de aplicativos e programas ",3,true
-"115069000","11506","Outros serviços de infraestrutura para hospedagem em tecnologia da informação (ti)   ",3,true
-"11507","115","Serviços de gerenciamento de infraestrutura de tecnologia da informação (ti) ",2,false
+"11506","115","Serviços de infraestrutura para hospedagem em tecnologia da informação (TI)",2,false
+"115061000","11506","Serviços de hospedagem de sítios na rede mundial de computadores",3,true
+"115062000","11506","Serviços de hospedagem de aplicativos e programas",3,true
+"115069000","11506","Outros serviços de infraestrutura para hospedagem em tecnologia da informação (TI)",3,true
+"11507","115","Serviços de gerenciamento de infraestrutura de tecnologia da informação (TI)",2,false
 "115071000","11507","Serviços de gerenciamento de redes",3,true
-"115072000","11507","Serviços de gerenciamento de sistemas computacionais ",3,true
-"115079000","11507","Outros serviços de gerenciamento de infraestrutura de tecnologia da informação (ti)",3,true
+"115072000","11507","Serviços de gerenciamento de sistemas computacionais",3,true
+"115079000","11507","Outros serviços de gerenciamento de infraestrutura de tecnologia da informação (TI)",3,true
 "115080000","115","Serviços de manutenção de aplicativos e programas",2,true
 "115090000","115","Serviços auxiliares de processamento de dados",2,true
-"115900000","115","Outros serviços de tecnologia da informação (ti)   ",2,true
+"115900000","115","Outros serviços de tecnologia da informação (TI)",2,true
+"117",,"Serviços de telecomunicação, difusão e fornecimento de informações",1,false
 "11701","117","Telefonia e outros serviços de telecomunicações",2,false
-"117011","11701","Serviços de telecomunicações fixos e serviços de valor adicionado ",3,false
-"1170111","117011","Serviços de chamada de telecomunicações fixos comutados em banda estreita e banda larga  ",4,false
+"117011","11701","Serviços de telecomunicações fixos e serviços de valor adicionado",3,false
+"1170111","117011","Serviços de chamada de telecomunicações fixos comutados em banda estreita e banda larga",4,false
 "117011110","1170111","Local",5,true
 "117011120","1170111","Nacional",5,true
 "117011130","1170111","Internacional",5,true
-"1170112","117011","Serviços de acesso e uso de telecomunicações fixos comutados em banda estreita e banda larga ",4,false
+"1170112","117011","Serviços de acesso e uso de telecomunicações fixos comutados em banda estreita e banda larga",4,false
 "117011210","1170112","Local",5,true
 "117011220","1170112","Nacional",5,true
 "117011230","1170112","Internacional",5,true
 "117011300","117011","Serviços de valor adicionado sobre serviços de telecomunicações fixos",4,true
-"117011400","117011","Serviços de gerência de redes fixas e administração de seus usuários ",4,true
-"117011500","117011","Serviços de interconexão pelo uso da rede fixa ",4,true
-"117011900","117011","Outros serviços de telecomunicações fixas ",4,true
-"117012","11701","Serviços de telecomunicações móveis e serviços de valor adicionado ",3,false
-"1170121","117012","Serviços de chamada de telecomunicações móveis comutados em banda estreita e banda larga ",4,false
+"117011400","117011","Serviços de gerência de redes fixas e administração de seus usuários",4,true
+"117011500","117011","Serviços de interconexão pelo uso da rede fixa",4,true
+"117011900","117011","Outros serviços de telecomunicações fixas",4,true
+"117012","11701","Serviços de telecomunicações móveis e serviços de valor adicionado",3,false
+"1170121","117012","Serviços de chamada de telecomunicações móveis comutados em banda estreita e banda larga",4,false
 "117012110","1170121","Local",5,true
 "117012120","1170121","Nacional",5,true
 "117012130","1170121","Internacional",5,true
-"1170122","117012","Serviços de acesso e uso de telecomunicações móveis comutado em banda estreita e banda larga ",4,false
+"1170122","117012","Serviços de acesso e uso de telecomunicações móveis comutado em banda estreita e banda larga",4,false
 "117012210","1170122","Local",5,true
 "117012220","1170122","Nacional",5,true
 "117012230","1170122","Internacional",5,true
 "117012300","117012","Serviços de valor adicionado sobre serviços de telecomunicações móveis",4,true
-"117012400","117012","Serviços de gerência das redes móveis e administração de seus usuários ",4,true
-"117012500","117012","Serviços de interconexão pelo uso de rede móvel ",4,true
+"117012400","117012","Serviços de gerência das redes móveis e administração de seus usuários",4,true
+"117012500","117012","Serviços de interconexão pelo uso de rede móvel",4,true
 "1170126","117012","Serviços de usuário visitante (roaming)",4,false
 "117012610","1170126","Serviços de usuário visitante nacional (roaming nacional)",5,true
 "117012620","1170126","Serviços de usuário visitante internacional (roaming internacional)",5,true
-"117012700","117012","Serviços nomádicos ",4,true
-"117012900","117012","Outros serviços de telecomunicações móveis ",4,true
-"1170130","11701","Serviços de redes privadas, serviços de interesse restrito e serviços de valor adicionado ",3,false
+"117012700","117012","Serviços nomádicos",4,true
+"117012900","117012","Outros serviços de telecomunicações móveis",4,true
+"1170130","11701","Serviços de redes privadas, serviços de interesse restrito e serviços de valor adicionado",3,false
 "117013010","1170130","Serviços fixos de redes privativas",4,true
 "117013020","1170130","Serviços móveis, nomádicos de uso privativo",4,true
 "11701303","1170130","Serviços de interesse restrito",4,false
@@ -819,76 +835,77 @@
 "117013032","11701303","Serviços de interesse restrito de abrangência nacional",5,true
 "117013033","11701303","Serviços de interesse restrito de abrangência internacional",5,true
 "117013040","1170130","Serviços de valor adicionado sobre serviços de redes privadas ou de serviços de interesse restrito",4,true
-"1170140","11701","Serviços de transmissão de dados e serviços de exploração de linha dedicada ",3,false
-"117014010","1170140","Serviços de transmissão de dados local, nacional ou internacional ",4,true
+"1170140","11701","Serviços de transmissão de dados e serviços de exploração de linha dedicada",3,false
+"117014010","1170140","Serviços de transmissão de dados local, nacional ou internacional",4,true
 "117014020","1170140","Serviços de exploração de linha dedicada local, nacional ou internacional",4,true
 "1170150","11701","Serviços de distribuição de programação de televisão por assinatura",3,false
 "117015010","1170150","Serviços de distribuição de pacotes básicos de programação de televisão por assinatura",4,true
 "117015020","1170150","Serviços de distribuição de grades de programação especiais de televisão por assinatura",4,true
-"117015030","1170150","Serviços de distribuição de programação através do sistema pague e assista (pay-per-view) de televisão por assinatura",4,true
+"117015030","1170150","Serviços de distribuição de programação através do sistema pague e assista (pay-per-view) de televisão por assinatura",4,true
 "117015090","1170150","Outros serviços de distribuição de programação de televisão por assinatura, inclusive os pacotes combinados",4,true
-"117019000","11701","Outros serviços de telecomunicações ",3,true
+"117019000","11701","Outros serviços de telecomunicações",3,true
 "11702","117","Serviços de telecomunicação pela rede mundial de computadores",2,false
-"117021000","11702","Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de computadores  ",3,true
-"117022","11702","Serviços de acesso à rede mundial de computadores ",3,false
-"117022100","117022","Serviços de acesso à rede mundial de computadores por conexão discada ",4,true
-"117022200","117022","Serviços de acesso à rede mundial de computadores por banda larga ",4,true
+"117021000","11702","Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de computadores",3,true
+"117022","11702","Serviços de acesso à rede mundial de computadores",3,false
+"117022100","117022","Serviços de acesso à rede mundial de computadores por conexão discada",4,true
+"117022200","117022","Serviços de acesso à rede mundial de computadores por banda larga",4,true
 "117029000","11702","Outros serviços na rede mundial de computadores",3,true
 "11703","117","Serviços de oferta de conteúdo de acesso imediato (on-line)",2,false
 "117031000","11703","Serviços de oferta de livros, jornais, periódicos, diretórios e listas de postagem de acesso imediato (on-line)",3,true
 "117032000","11703","Serviços de oferta de áudio, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line)",3,true
-"117033000","11703","Serviços de oferta de filmes e vídeos, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line) ",3,true
+"117033000","11703","Serviços de oferta de filmes e vídeos, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line)",3,true
 "117034000","11703","Serviços de oferta de conteúdos que combinem duas ou mais mídias de acesso imediato (on-line)",3,true
 "117035000","11703","Serviços de conteúdo de portais de busca na rede mundial de computadores",3,true
-"117039000","11703","Outros serviços de conteúdos de acesso imediato (on-line) ",3,true
-"11704","117","Serviços de agências de notícias ",2,false
+"117039000","11703","Outros serviços de conteúdos de acesso imediato (on-line)",3,true
+"11704","117","Serviços de agências de notícias",2,false
 "117041000","11704","Serviços de agências de notícias para jornais e periódicos",3,true
-"117042000","11704","Serviços de agências de notícias em mídia audiovisual ",3,true
-"117049000","11704","Outros serviços de agências de notícias ",3,true
-"11705","117","Serviços de biblioteca e arquivo ",2,false
+"117042000","11704","Serviços de agências de notícias em mídia audiovisual",3,true
+"117049000","11704","Outros serviços de agências de notícias",3,true
+"11705","117","Serviços de biblioteca e arquivo",2,false
 "117051000","11705","Serviços de biblioteca",3,true
-"117052000","11705","Serviços de arquivo ",3,true
+"117052000","11705","Serviços de arquivo",3,true
 "11706","117","Serviços de difusão, programação e distribuição de programas de rádio e televisão",2,false
 "117061","11706","Serviços de difusão de programas originais de rádio e televisão",3,false
-"117061100","117061","Serviços de difusão de programas originais de rádio ",4,true
-"1170612","117061","Serviços de difusão de programas originais de televisão ",4,false
+"117061100","117061","Serviços de difusão de programas originais de rádio",4,true
+"1170612","117061","Serviços de difusão de programas originais de televisão",4,false
 "117061210","1170612","Serviços de difusão de programas originais para televisão aberta",5,true
-"117061220","1170612","Serviços de difusão de programas originais para televisão por assinatura ",5,true
+"117061220","1170612","Serviços de difusão de programas originais para televisão por assinatura",5,true
 "117062","11706","Serviços de programação dos canais de rádio e televisão",3,false
-"117062100","117062","Serviços de programação dos canais de rádio ",4,true
+"117062100","117062","Serviços de programação dos canais de rádio",4,true
 "117062200","117062","Serviços de programação dos canais de televisão",4,true
 "117063000","11706","Serviços de distribuição de sinais de rádio e televisão",3,true
 "117064000","11706","Serviços de distribuição de programas de televisão aberta",3,true
 "117069000","11706","Outros serviços de difusão, programação e distribuição de programas de rádio e televisão",3,true
+"118",,"Serviços de apoio às atividades empresariais",1,false
 "11801","118","Serviços de recrutamento e seleção de pessoal",2,false
-"118011000","11801","Serviços de busca de empregos e encaminhamento de pessoal ",3,true
+"118011000","11801","Serviços de busca de empregos e encaminhamento de pessoal",3,true
 "118012","11801","Serviços de fornecimento de mão de obra",3,false
-"118012100","118012","Serviços de fornecimento de mão de obra efetiva ",4,true
+"118012100","118012","Serviços de fornecimento de mão de obra efetiva",4,true
 "118012200","118012","Serviços de fornecimento de mão de obra temporária",4,true
 "118019000","11801","Outros serviços de recrutamento e seleção de pessoal",3,true
-"11802","118","Serviços de investigação e segurança ",2,false
-"118021000","11802","Serviços de investigação ",3,true
-"118022000","11802","Serviços de consultoria em segurança ",3,true
-"118023000","11802","Serviços de sistemas de segurança ",3,true
+"11802","118","Serviços de investigação e segurança",2,false
+"118021000","11802","Serviços de investigação",3,true
+"118022000","11802","Serviços de consultoria em segurança",3,true
+"118023000","11802","Serviços de sistemas de segurança",3,true
 "118024000","11802","Serviços de transporte de valores",3,true
 "118025000","11802","Serviços de guarda e escolta armada",3,true
-"118029000","11802","Outros serviços de segurança ",3,true
-"11803","118","Serviços de limpeza ",2,false
+"118029000","11802","Outros serviços de segurança",3,true
+"11803","118","Serviços de limpeza",2,false
 "118031000","11803","Serviços de desinfecção e extermínio de pragas",3,true
 "118032000","11803","Serviços gerais de limpeza",3,true
-"118033000","11803","Serviços especializados de limpeza ",3,true
-"11804","118","Serviços de planejamento de viagens e de operador de turismo, outros serviços relacionados ",2,false
-"118041","11804","Serviços de reservas em transportes ",3,false
-"118041100","118041","Serviços de reservas em transportes aéreos ",4,true
+"118033000","11803","Serviços especializados de limpeza",3,true
+"11804","118","Serviços de planejamento de viagens e de operador de turismo, outros serviços relacionados",2,false
+"118041","11804","Serviços de reservas em transportes",3,false
+"118041100","118041","Serviços de reservas em transportes aéreos",4,true
 "118041900","118041","Outros serviços de planejamento e reserva em transportes",4,true
-"118042","11804","Serviços de reservas de hospedagem, reservas em cruzeiros e reservas de pacotes turísticos ",3,false
+"118042","11804","Serviços de reservas de hospedagem, reservas em cruzeiros e reservas de pacotes turísticos",3,false
 "118042100","118042","Serviços de reservas de hospedagem",4,true
 "118042200","118042","Serviços de reservas em cruzeiros",4,true
 "118042300","118042","Serviços de reservas de pacotes turísticos",4,true
 "118043000","11804","Outros serviços de reservas",3,true
 "118044000","11804","Serviços de operadoras de turismo",3,true
 "118045000","11804","Serviços de guias turísticos",3,true
-"118046","11804","Serviços de informação a visitantes e promoção turística ",3,false
+"118046","11804","Serviços de informação a visitantes e promoção turística",3,false
 "118046100","118046","Serviços de promoção turística",4,true
 "118046200","118046","Serviços de informação a visitantes",4,true
 "11805","118","Outros serviços de apoio",2,false
@@ -906,7 +923,7 @@
 "118056100","118056","Serviços de assistência e organização de convenções",4,true
 "118056200","118056","Serviços de assistência e organização de feiras de negócios",4,true
 "118056300","118056","Serviços de exploração de centros de convenções, escritórios virtuais, estandes de qualquer natureza, auditórios e os demais assemelhados para realização de eventos ou negócios de qualquer natureza",4,true
-"118056900","118056","Outros serviços de assistência e organização de feiras de negócios e convenções ",4,true
+"118056900","118056","Outros serviços de assistência e organização de feiras de negócios e convenções",4,true
 "118057000","11805","Serviços de jardinagem",3,true
 "1180590","11805","Outros serviços de apoio não classificados em outra posição",3,false
 "11805901","1180590","Serviços de leitura de medidores",4,false
@@ -916,48 +933,50 @@
 "118059020","1180590","Serviços de agências de modelos",4,true
 "118059030","1180590","Serviços de distribuição e venda de bilhetes e demais produtos de loteria, cartões, pules ou cupons de apostas, sorteios, prêmios, inclusive os decorrentes de títulos de capitalização e congêneres.",4,true
 "118059090","1180590","Outros serviços de apoio",4,true
+"119",,"Serviços de apoio às atividades agropecuárias, silvicultura, pesca, aquicultura, extração mineral, eletricidade, gás e água",1,false
 "11901","119","Serviços de apoio à agricultura, pecuária, produção florestal (silvicultura), pesca e aquicultura",2,false
 "119011000","11901","Serviços de apoio à agricultura",3,true
 "119012000","11901","Serviços de apoio à pecuária",3,true
 "119013000","11901","Serviços de apoio à produção florestal (silvicultura)",3,true
-"119014000","11901","Serviços de apoio à pesca ",3,true
+"119014000","11901","Serviços de apoio à pesca",3,true
 "119015000","11901","Serviços de apoio à aquicultura",3,true
-"11902","119","Serviços de apoio à mineração ",2,false
-"119021000","11902","Serviços de apoio à extração de petróleo e gás ",3,true
-"119029000","11902","Outros serviços de apoio à mineração ",3,true
-"11903","119","Serviços de apoio à transmissão e distribuição de eletricidade, gás e água ",2,false
-"119031","11903","Serviços de apoio à transmissão e distribuição de eletricidade ",3,false
-"119031100","119031","Serviços de apoio à transmissão de eletricidade ",4,true
-"119031200","119031","Serviços de apoio à distribuição de eletricidade ",4,true
+"11902","119","Serviços de apoio à mineração",2,false
+"119021000","11902","Serviços de apoio à extração de petróleo e gás",3,true
+"119029000","11902","Outros serviços de apoio à mineração",3,true
+"11903","119","Serviços de apoio à transmissão e distribuição de eletricidade, gás e água",2,false
+"119031","11903","Serviços de apoio à transmissão e distribuição de eletricidade",3,false
+"119031100","119031","Serviços de apoio à transmissão de eletricidade",4,true
+"119031200","119031","Serviços de apoio à distribuição de eletricidade",4,true
 "119032000","11903","Serviços de apoio à distribuição de gás por meio de tubulações",3,true
-"119033000","11903","Serviços de apoio à distribuição de água ",3,true
+"119033000","11903","Serviços de apoio à distribuição de água",3,true
 "119034000","11903","Serviços de apoio à distribuição de ar condicionado, água quente e vapor por meio de tubulações",3,true
-"12001","120","Serviços de manutenção e reparação de produtos metálicos, maquinário e equipamentos ",2,false
+"120",,"Serviços de manutenção, reparação e instalação (exceto construção)",1,false
+"12001","120","Serviços de manutenção e reparação de produtos metálicos, maquinário e equipamentos",2,false
 "120011000","12001","Serviços de manutenção e reparação de produtos metálicos",3,true
-"120012000","12001","Serviços de manutenção e reparação de computadores e seus periféricos e maquinário de escritório ",3,true
-"120013","12001","Serviços de manutenção e reparação de maquinário e equipamentos de transporte ",3,false
-"120013100","120013","Serviços de manutenção e reparação de veículos automotores rodoviários ",4,true
-"120013200","120013","Serviços de manutenção e reparação de reboques (trailers), semirreboques (semi-trailers) e outros veículos não motorizados",4,true
-"120013300","120013","Serviços de manutenção e reparação de veículos militares ",4,true
-"1200139","120013","Serviços de manutenção e reparação de outros equipamentos de transporte ",4,false
+"120012000","12001","Serviços de manutenção e reparação de computadores e seus periféricos e maquinário de escritório",3,true
+"120013","12001","Serviços de manutenção e reparação de maquinário e equipamentos de transporte",3,false
+"120013100","120013","Serviços de manutenção e reparação de veículos automotores rodoviários",4,true
+"120013200","120013","Serviços de manutenção e reparação de reboques (trailers), semirreboques (semi-trailers) e outros veículos não motorizados",4,true
+"120013300","120013","Serviços de manutenção e reparação de veículos militares",4,true
+"1200139","120013","Serviços de manutenção e reparação de outros equipamentos de transporte",4,false
 "12001391","1200139","Serviços de manutenção e reparação de aeronaves, inclusive foguetes e equipamentos aeroespaciais",5,false
 "120013911","12001391","Serviços de manutenção e reparação de motores, turborreatores e turbopropulsores aeronáuticos",6,true
-"120013912","12001391","Serviços de manutenção e reparação de foguetes e equipamentos aeroespaciais ",6,true
+"120013912","12001391","Serviços de manutenção e reparação de foguetes e equipamentos aeroespaciais",6,true
 "120013919","12001391","Outros serviços de manutenção e reparação de aeronaves",6,true
 "12001392","1200139","Serviços de manutenção e reparação de embarcações",5,false
 "120013921","12001392","Serviços de manutenção e reparação de embarcações militares",6,true
 "120013929","12001392","Outros serviços de manutenção e reparação de embarcações",6,true
 "120013930","1200139","Serviços de manutenção e reparação de equipamentos ferroviários e metroviários",5,true
-"120013990","1200139","Outros serviços de manutenção e reparação de outros equipamentos de transporte ",5,true
+"120013990","1200139","Outros serviços de manutenção e reparação de outros equipamentos de transporte",5,true
 "120014000","12001","Serviços de manutenção e reparação de plataformas, inclusive navios-plataforma, para extração de petróleo e gás",3,true
-"120015","12001","Serviços de manutenção e reparação de outros maquinários e equipamentos ",3,false
-"120015100","120015","Serviços de manutenção e reparação de aparelhos eletro-eletrônicos domésticos ",4,true
+"120015","12001","Serviços de manutenção e reparação de outros maquinários e equipamentos",3,false
+"120015100","120015","Serviços de manutenção e reparação de aparelhos eletro-eletrônicos domésticos",4,true
 "120015200","120015","Serviços de manutenção e reparação de equipamentos e aparelhos de telecomunicações",4,true
 "120015300","120015","Serviços de manutenção e reparação de instrumentos e equipamentos médico-hospitalares, odontológicos, óticos e de precisão",4,true
 "120015400","120015","Serviços de manutenção e reparação de equipamentos militares",4,true
-"1200159","120015","Outros serviços de manutenção e reparação de maquinário e equipamentos ",4,false
+"1200159","120015","Outros serviços de manutenção e reparação de maquinário e equipamentos",4,false
 "120015910","1200159","Serviços de manutenção e reparação de turbinas industriais",5,true
-"120015990","1200159","Outros serviços de manutenção e reparação de maquinário e equipamentos ",5,true
+"120015990","1200159","Outros serviços de manutenção e reparação de maquinário e equipamentos",5,true
 "12002","120","Serviços de manutenção e reparação de outros bens de consumo",2,false
 "120021000","12002","Serviços de manutenção e reparação de produtos de couro, calçados, malas e bolsas",3,true
 "120022000","12002","Serviços de manutenção e reparação de relógios e jóias",3,true
@@ -969,27 +988,29 @@
 "120032100","120032","Serviços de montagem sob encomenda de turbinas industriais",4,true
 "120032900","120032","Outros serviços de instalação de maquinário e equipamentos, industriais",4,true
 "120033000","12003","Serviços de instalação de computadores e seus periféricos e maquinário de escritório",3,true
-"120034000","12003","Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio e de televisão ",3,true
+"120034000","12003","Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio e de televisão",3,true
 "120035000","12003","Serviços de instalação de maquinários, equipamentos, instrumentos e aparelhos médico-hospitalares, óticos e de precisão",3,true
 "120036000","12003","Serviços de instalação de sensores e sistemas de armas",3,true
 "120037000","12003","Serviços de instalação de maquinários e equipamentos de emprego militar",3,true
 "1200380","12003","Serviços de instalação de maquinários e equipamentos de transporte",3,false
 "120038010","1200380","Serviços de montagem sob encomenda de motores, turborreatores e turbopropulsores aeronáuticos",4,true
 "120038090","1200380","Outros serviços de instalação de maquinários e equipamentos de transporte",4,true
-"120039000","12003","Serviços de instalação de maquinários e equipamentos não classificados em outra posição ",3,true
+"120039000","12003","Serviços de instalação de maquinários e equipamentos não classificados em outra posição",3,true
+"121",,"Serviços de publicação, impressão e reprodução",1,false
 "12101","121","Serviços de reprodução, impressão e editoração",2,false
 "121011000","12101","Serviços de editoração",3,true
-"121012","12101","Serviços de impressão e reprodução de mídia gravada ",3,false
+"121012","12101","Serviços de impressão e reprodução de mídia gravada",3,false
 "121012100","121012","Serviços de impressão",4,true
 "121012200","121012","Serviços relacionados à impressão",4,true
-"121012300","121012","Serviços de reprodução de mídia gravada ",4,true
+"121012300","121012","Serviços de reprodução de mídia gravada",4,true
 "121013000","12101","Serviços de apoio aos serviços de reprodução, impressão e editoração",3,true
-"121019000","12101","Outros serviços de reprodução, impressão e editoração ",3,true
+"121019000","12101","Outros serviços de reprodução, impressão e editoração",3,true
 "121900000","121","Outros serviços de publicação",2,true
-"12201","122","Serviços de educação básica ",2,false
+"122",,"Serviços educacionais",1,false
+"12201","122","Serviços de educação básica",2,false
 "122011","12201","Serviços de educação infantil",3,false
-"122011100","122011","Serviços de creches ou de entidades equivalentes ",4,true
-"122011200","122011","Serviços de pré-escola ",4,true
+"122011100","122011","Serviços de creches ou de entidades equivalentes",4,true
+"122011200","122011","Serviços de pré-escola",4,true
 "122011900","122011","Outros serviços de educação infantil",4,true
 "122012000","12201","Serviços de ensino fundamental",3,true
 "122013000","12201","Serviços de ensino médio",3,true
@@ -1005,46 +1026,47 @@
 "122044000","12204","Serviços educacionais de cursos sequenciais",3,true
 "122050000","122","Serviços de educação especial",2,true
 "12290","122","Outros serviços educacionais, incluindo de treinamento, e serviços de apoio aos serviços educacionais",2,false
-"122901","12290","Outros serviços de educação, inclusive treinamento ",3,false
-"122901100","122901","Serviços culturais, com enfoque educacional ",4,true
-"122901200","122901","Serviços de educação desportiva e recreacional ",4,true
+"122901","12290","Outros serviços de educação, inclusive treinamento",3,false
+"122901100","122901","Serviços culturais, com enfoque educacional",4,true
+"122901200","122901","Serviços de educação desportiva e recreacional",4,true
 "122901300","122901","Serviços de educação em línguas estrangeiras",4,true
-"1229019","122901","Outros serviços de educação e treinamento não classificados em outra posição ",4,false
+"1229019","122901","Outros serviços de educação e treinamento não classificados em outra posição",4,false
 "122901910","1229019","Serviços de palestras e conferências",5,true
 "122901990","1229019","Outros serviços de educação e treinamento",5,true
-"122902000","12290","Serviços de apoio aos serviços educacionais ",3,true
-"12301","123","Serviços de saúde humana ",2,false
+"122902000","12290","Serviços de apoio aos serviços educacionais",3,true
+"123",,"Serviços relacionados à saúde humana e de assistência social",1,false
+"12301","123","Serviços de saúde humana",2,false
 "123011","12301","Serviços hospitalares com ou sem internação",3,false
-"123011100","123011","Serviços cirúrgicos ",4,true
-"123011200","123011","Serviços ginecológicos e obstétricos ",4,true
-"123011300","123011","Serviços psiquiátricos ",4,true
+"123011100","123011","Serviços cirúrgicos",4,true
+"123011200","123011","Serviços ginecológicos e obstétricos",4,true
+"123011300","123011","Serviços psiquiátricos",4,true
 "123011400","123011","Serviços cardiológicos",4,true
 "123011500","123011","Serviços oncológicos",4,true
 "123011600","123011","Serviços aos recém-nascidos",4,true
-"123011700","123011","Serviços de ambulâncias, exceto aquelas sem envolver atendimento médico ao paciente e destinadas exclusivamente à remoção de enfermos ",4,true
+"123011700","123011","Serviços de ambulâncias, exceto aquelas sem envolver atendimento médico ao paciente e destinadas exclusivamente à remoção de enfermos",4,true
 "123011800","123011","Serviços prestados em unidades de terapia intensiva",4,true
-"1230119","123011","Outros serviços hospitalares ",4,false
+"1230119","123011","Outros serviços hospitalares",4,false
 "123011910","1230119","Serviços de atendimento de urgência",5,true
 "123011920","1230119","Serviços conexos à saúde pública",5,true
 "123011990","1230119","Outros serviços hospitalares",5,true
-"123012","12301","Serviços médicos e odontológicos, não hospitalares ",3,false
-"123012100","123012","Serviços de clínica médica ",4,true
-"123012200","123012","Serviços médicos especializados ",4,true
+"123012","12301","Serviços médicos e odontológicos, não hospitalares",3,false
+"123012100","123012","Serviços de clínica médica",4,true
+"123012200","123012","Serviços médicos especializados",4,true
 "123012300","123012","Serviços odontológicos",4,true
-"123019","12301","Outros serviços de saúde humana ",3,false
-"123019100","123019","Serviços de enfermagem ",4,true
-"123019200","123019","Serviços fisioterapêuticos ",4,true
-"123019300","123019","Serviços laboratoriais ",4,true
+"123019","12301","Outros serviços de saúde humana",3,false
+"123019100","123019","Serviços de enfermagem",4,true
+"123019200","123019","Serviços fisioterapêuticos",4,true
+"123019300","123019","Serviços laboratoriais",4,true
 "123019400","123019","Serviços de diagnóstico por imagem",4,true
-"123019500","123019","Serviços de bancos de órgãos, esperma e sangue ",4,true
+"123019500","123019","Serviços de bancos de órgãos, esperma e sangue",4,true
 "123019600","123019","Serviços de bancos de leite, tecidos, olhos, ossos, óvulos e outros materiais biológicos",4,true
-"123019900","123019","Outros serviços de saúde humana, exceto os serviços hospitalares ",4,true
+"123019900","123019","Outros serviços de saúde humana, exceto os serviços hospitalares",4,true
 "12302","123","Serviços de gestão hospitalar",2,false
 "123021000","12302","Serviços de consultoria em saúde",3,true
 "123029000","12302","Outros serviços de gestão hospitalar",3,true
-"123030000","123","Serviços domiciliares de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências ",2,true
+"123030000","123","Serviços domiciliares de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências",2,true
 "123040000","123","Serviços de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências, exceto domiciliar",2,true
-"12305","123","Serviços de assistência social ",2,false
+"12305","123","Serviços de assistência social",2,false
 "123051","12305","Serviços de proteção social básica",3,false
 "123051100","123051","Serviços de atenção integral à família",4,true
 "123051200","123051","Serviços de convivência para crianças, adolescentes, jovens e idosos",4,true
@@ -1060,22 +1082,23 @@
 "123052910","1230529","Serviços de reabilitação vocacional",5,true
 "123052990","1230529","Outros serviços de assistência social",5,true
 "123060000","123","Serviços de planos privados de assistência à saúde",2,true
+"124",,"Serviços de tratamento, eliminação e coleta de resíduos sólidos, saneamento, remediação e serviços ambientais",1,false
 "124010000","124","Serviços de tratamento de água",2,true
-"12402","124","Serviços de esgoto, tratamento de esgotos e limpeza de fossas sépticas ",2,false
-"124021000","12402","Serviços de esgoto e tratamento de esgotos ",3,true
-"124022000","12402","Serviços de esvaziamento e limpeza de fossas sépticas ",3,true
-"12403","124","Serviços de coleta de resíduos ",2,false
-"124031000","12403","Serviços de coleta de resíduos sólidos perigosos, exceto de serviços de saúde ",3,true
+"12402","124","Serviços de esgoto, tratamento de esgotos e limpeza de fossas sépticas",2,false
+"124021000","12402","Serviços de esgoto e tratamento de esgotos",3,true
+"124022000","12402","Serviços de esvaziamento e limpeza de fossas sépticas",3,true
+"12403","124","Serviços de coleta de resíduos",2,false
+"124031000","12403","Serviços de coleta de resíduos sólidos perigosos, exceto de serviços de saúde",3,true
 "124032000","12403","Serviços de coleta de resíduos de serviços de saúde",3,true
 "124033","12403","Serviços de coleta de resíduos sólidos não perigosos, inertes ou não inertes",3,false
 "124033100","124033","Serviços de coleta de resíduos sólidos de origem doméstica, comercial e de varrição",4,true
 "124033200","124033","Serviços de coleta de resíduos sólidos de origem industrial",4,true
 "124033300","124033","Serviços de coleta de resíduos sólidos recicláveis",4,true
-"124033900","124033","Serviços de coleta de outros resíduos sólidos não perigosos, inertes ou não inertes ",4,true
+"124033900","124033","Serviços de coleta de outros resíduos sólidos não perigosos, inertes ou não inertes",4,true
 "124034000","12403","Serviços de coleta de resíduos líquidos",3,true
 "124039000","12403","Outros serviços de coleta de resíduos",3,true
-"12404","124","Serviços de disposição e tratamento de resíduos ",2,false
-"124041000","12404","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos perigosos, exceto os resíduos de serviços de saúde ",3,true
+"12404","124","Serviços de disposição e tratamento de resíduos",2,false
+"124041000","12404","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos perigosos, exceto os resíduos de serviços de saúde",3,true
 "124042000","12404","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos de serviços de saúde",3,true
 "124043","12404","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos não perigosos, inertes ou não inertes",3,false
 "124043100","124043","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos de origem doméstica, comercial e de varrição",4,true
@@ -1084,85 +1107,88 @@
 "124043900","124043","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de outros resíduos sólidos não perigosos, inertes ou não inertes",4,true
 "124044000","12404","Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos líquidos",3,true
 "124049000","12404","Outros serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos",3,true
-"12405","124","Serviços de saneamento e similares ",2,false
+"12405","124","Serviços de saneamento e similares",2,false
 "124051000","12405","Serviços de varrição e limpeza de ruas e outros locais públicos",3,true
-"124059000","12405","Outros serviços de saneamento ",3,true
+"124059000","12405","Outros serviços de saneamento",3,true
 "12406","124","Serviços ambientais",2,false
 "124061000","12406","Serviços ambientais relacionados à água",3,true
 "124062000","12406","Serviços ambientais relacionados ao solo",3,true
 "124063000","12406","Serviços ambientais relacionados ao ar",3,true
 "124069000","12406","Outros serviços ambientais",3,true
 "12407","124","Serviços de remediação e contenção de contaminantes",2,false
-"124071","12407","Serviços de remediação de áreas contaminadas ",3,false
-"124071100","124071","Serviços de remediação do ar ",4,true
-"124071200","124071","Serviços de remediação de águas de superfície ",4,true
+"124071","12407","Serviços de remediação de áreas contaminadas",3,false
+"124071100","124071","Serviços de remediação do ar",4,true
+"124071200","124071","Serviços de remediação de águas de superfície",4,true
 "124071300","124071","Serviços de remediação do solo e águas subterrâneas",4,true
 "124071400","124071","Serviços de remediação em edificações",4,true
-"124072000","12407","Serviços de contenção de contaminantes ",3,true
+"124072000","12407","Serviços de contenção de contaminantes",3,true
 "124079000","12407","Outros serviços de remediação",3,true
+"125",,"Serviços recreativos, culturais e desportivos",1,false
 "12501","125","Serviços de produção audiovisual, de apoio e relacionados",2,false
-"125011","12501","Serviços de gravação de som ",3,false
+"125011","12501","Serviços de gravação de som",3,false
 "125011100","125011","Serviços de gravação de som em estúdio",4,true
-"125011200","125011","Serviços de gravação de som ao vivo ",4,true
-"125012","12501","Serviços de produção de programas de rádio e televisão, videoteipes e filmes ",3,false
-"125012100","125012","Serviços de produção de programas de televisão, videoteipes e filmes ",4,true
-"125012200","125012","Serviços de produção de programas de rádio ",4,true
-"125013","12501","Serviços de pós-produção de obras audiovisuais ",3,false
-"125013100","125013","Serviços de edição de obras audiovisuais ",4,true
-"125013200","125013","Serviços de duplicação e transferência de obras audiovisuais ",4,true
+"125011200","125011","Serviços de gravação de som ao vivo",4,true
+"125012","12501","Serviços de produção de programas de rádio e televisão, videoteipes e filmes",3,false
+"125012100","125012","Serviços de produção de programas de televisão, videoteipes e filmes",4,true
+"125012200","125012","Serviços de produção de programas de rádio",4,true
+"125013","12501","Serviços de pós-produção de obras audiovisuais",3,false
+"125013100","125013","Serviços de edição de obras audiovisuais",4,true
+"125013200","125013","Serviços de duplicação e transferência de obras audiovisuais",4,true
 "125013300","125013","Serviços de correção de cor e restauração digital de obras audiovisuais",4,true
 "125013400","125013","Serviços de efeitos visuais em obras audiovisuais",4,true
 "125013500","125013","Serviços de animação",4,true
 "125013600","125013","Serviços de legendas, títulos e dublagem em obras audiovisuais",4,true
 "125013700","125013","Serviços de projeto e edição de som em obras audiovisuais",4,true
 "125013900","125013","Outros serviços de pós-produção em obras audiovisuais",4,true
-"125014000","12501","Serviços de agenciamento pela comercialização de obras audiovisuais ",3,true
+"125014000","12501","Serviços de agenciamento pela comercialização de obras audiovisuais",3,true
 "125015000","12501","Serviços de projeção de filmes",3,true
 "125019000","12501","Outros serviços de produção audiovisual, de apoio e relacionados",3,true
 "12502","125","Serviços de apresentação e promoção de atuações artísticas e outros serviços de entretenimento ao vivo",2,false
 "125021000","12502","Serviços de organização e promoção de atuações artísticas ao vivo",3,true
 "125022000","12502","Serviços de produção e apresentação de atuações artísticas ao vivo",3,true
 "125023000","12502","Serviços de apoio para atuações artísticas ao vivo",3,true
-"125029000","12502","Outros serviços de entretenimento artístico ao vivo ",3,true
-"12503","125","Serviços de atuação artística e outros serviços artísticos ",2,false
+"125029000","12502","Outros serviços de entretenimento artístico ao vivo",3,true
+"12503","125","Serviços de atuação artística e outros serviços artísticos",2,false
 "125031000","12503","Serviços de atuação artística",3,true
-"125032000","12503","Serviços de autores, compositores, escultores, pintores e outros artistas, exceto os de atuação artística ",3,true
-"12504","125","Serviços de museus e de preservação e serviços de reservas botânica, zoológica e natural ",2,false
+"125032000","12503","Serviços de autores, compositores, escultores, pintores e outros artistas, exceto os de atuação artística",3,true
+"12504","125","Serviços de museus e de preservação e serviços de reservas botânica, zoológica e natural",2,false
 "125041","12504","Serviços de museus e de preservação de locais e construções históricas",3,false
 "125041100","125041","Serviços de museus",4,true
-"125041200","125041","Serviços de preservação e operação de locais e construções históricas ",4,true
-"125042","12504","Serviços de reservas botânica, zoológica e natural ",3,false
-"125042100","125042","Serviços de jardins botânico e zoológico ",4,true
-"125042200","125042","Serviços de reserva natural, incluindo preservação de vida selvagem ",4,true
-"12505","125","Serviços desportivos e recreacionais desportivos ",2,false
+"125041200","125041","Serviços de preservação e operação de locais e construções históricas",4,true
+"125042","12504","Serviços de reservas botânica, zoológica e natural",3,false
+"125042100","125042","Serviços de jardins botânico e zoológico",4,true
+"125042200","125042","Serviços de reserva natural, incluindo preservação de vida selvagem",4,true
+"12505","125","Serviços desportivos e recreacionais desportivos",2,false
 "125051","12505","Serviços de organização e promoção de eventos desportivos e recreacionais desportivos",3,false
-"125051100","125051","Serviços de organização e promoção de eventos desportivos e recreacionais desportivos ",4,true
-"125051200","125051","Serviços de clubes desportivos ",4,true
+"125051100","125051","Serviços de organização e promoção de eventos desportivos e recreacionais desportivos",4,true
+"125051200","125051","Serviços de clubes desportivos",4,true
 "125059000","12505","Outros serviços de desportes e de recreação desportiva",3,true
-"125060000","125","Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio relacionados com desportes e recreação desportiva ",2,true
-"12507","125","Serviços de parques de diversão ",2,false
-"125071000","12507","Serviços de parques temáticos de diversão ",3,true
+"125060000","125","Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio relacionados com desportes e recreação desportiva",2,true
+"12507","125","Serviços de parques de diversão",2,false
+"125071000","12507","Serviços de parques temáticos de diversão",3,true
 "125079000","12507","Outros serviços de parques de diversão e atrações similares",3,true
-"125900000","125","Outros serviços recreativos, culturais e desportivos  ",2,true
+"125900000","125","Outros serviços recreativos, culturais e desportivos",2,true
+"126",,"Serviços pessoais",1,false
 "12601","126","Serviços de lavanderia e tinturaria",2,false
 "126011000","12601","Serviços de limpeza de têxteis, exceto quando realizados a seco",3,true
 "126012000","12601","Serviços de limpeza a seco",3,true
 "126013000","12601","Serviços de tinturaria",3,true
-"126019000","12601","Outros serviços de lavanderia ",3,true
-"12602","126","Serviços de tratamento de beleza e bem-estar físico ",2,false
-"126021000","12602","Serviços de cabeleireiros e barbeiros ",3,true
-"126022000","12602","Serviços de manicure, pedicure e tratamento cosmético ",3,true
-"126023000","12602","Serviços de bem-estar físico ",3,true
+"126019000","12601","Outros serviços de lavanderia",3,true
+"12602","126","Serviços de tratamento de beleza e bem-estar físico",2,false
+"126021000","12602","Serviços de cabeleireiros e barbeiros",3,true
+"126022000","12602","Serviços de manicure, pedicure e tratamento cosmético",3,true
+"126023000","12602","Serviços de bem-estar físico",3,true
 "126029000","12602","Outros tratamentos de beleza e bem-estar físico",3,true
 "126030000","126","Serviços funerários, de cremação e de embalsamamento",2,true
-"126900000","126","Outros serviços pessoais ",2,true
+"126900000","126","Outros serviços pessoais",2,true
+"127",,"Cessão de direitos de propriedade intelectual",1,false
 "12701","127","Cessão de direitos de autor e direitos conexos",2,false
 "127011000","12701","Cessão de direitos de obras literárias",3,true
 "127012000","12701","Cessão de direitos sobre programas de computador",3,true
 "127013","12701","Cessão de direitos de obras audiovisuais",3,false
 "127013100","127013","Cessão de direitos de obras cinematográficas",4,true
 "127013200","127013","Cessão de direitos de obras jornalísticas",4,true
-"127013300","127013","Cessão de direitos de obras publicitárias ",4,true
+"127013300","127013","Cessão de direitos de obras publicitárias",4,true
 "127013900","127013","Cessão de direitos de outras obras audiovisuais",4,true
 "127014000","12701","Cessão de direitos de obras musicais e outros fonogramas",3,true
 "127015000","12701","Cessão de direitos relacionados à radiodifusão",3,true

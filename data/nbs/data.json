@@ -1,5 +1,12 @@
 [
     {
+        "codigo": "101",
+        "codigoPai": null,
+        "descricao": "Serviços de construção",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "10101",
         "codigoPai": "101",
         "descricao": "Serviços de construção de edificações residenciais",
@@ -65,7 +72,7 @@
     {
         "codigo": "101032000",
         "codigoPai": "10103",
-        "descricao": "Serviços de construção de estradas férreas ",
+        "descricao": "Serviços de construção de estradas férreas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -177,14 +184,14 @@
     {
         "codigo": "101062",
         "codigoPai": "10106",
-        "descricao": "Serviços de construção de sistemas de irrigação, de esgotos e de unidades para tratamento e purificação de água   ",
+        "descricao": "Serviços de construção de sistemas de irrigação, de esgotos e de unidades para tratamento e purificação de água",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "101062100",
         "codigoPai": "101062",
-        "descricao": "Serviços de construção de sistemas de irrigação   ",
+        "descricao": "Serviços de construção de sistemas de irrigação",
         "nivel": 4,
         "ehFolha": true
     },
@@ -198,7 +205,7 @@
     {
         "codigo": "101062300",
         "codigoPai": "101062",
-        "descricao": "Serviços de construção de sistemas de unidades para tratamento e purificação de água   ",
+        "descricao": "Serviços de construção de sistemas de unidades para tratamento e purificação de água",
         "nivel": 4,
         "ehFolha": true
     },
@@ -240,14 +247,14 @@
     {
         "codigo": "101071900",
         "codigoPai": "101071",
-        "descricao": "Serviços de construção de outros dutos de longo curso ",
+        "descricao": "Serviços de construção de outros dutos de longo curso",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "101072",
         "codigoPai": "10107",
-        "descricao": "Serviços de construção de linhas de comunicação de longo curso e linhas de transmissão de alta tensão ",
+        "descricao": "Serviços de construção de linhas de comunicação de longo curso e linhas de transmissão de alta tensão",
         "nivel": 3,
         "ehFolha": false
     },
@@ -261,21 +268,21 @@
     {
         "codigo": "1010722",
         "codigoPai": "101072",
-        "descricao": "Serviços de construção de linhas de transmissão de alta tensão ",
+        "descricao": "Serviços de construção de linhas de transmissão de alta tensão",
         "nivel": 4,
         "ehFolha": false
     },
     {
         "codigo": "101072210",
         "codigoPai": "1010722",
-        "descricao": "Serviços de construção de linhas de transmissão de alta tensão em corrente contínua ",
+        "descricao": "Serviços de construção de linhas de transmissão de alta tensão em corrente contínua",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "101072220",
         "codigoPai": "1010722",
-        "descricao": "Serviços de construção de linhas de transmissão de alta tensão em corrente alternada ",
+        "descricao": "Serviços de construção de linhas de transmissão de alta tensão em corrente alternada",
         "nivel": 5,
         "ehFolha": true
     },
@@ -303,21 +310,21 @@
     {
         "codigo": "1010821",
         "codigoPai": "101082",
-        "descricao": "Serviços de construção de linhas locais de transmissão, de baixa e média tensão, e de comunicação ",
+        "descricao": "Serviços de construção de linhas locais de transmissão, de baixa e média tensão, e de comunicação",
         "nivel": 4,
         "ehFolha": false
     },
     {
         "codigo": "101082110",
         "codigoPai": "1010821",
-        "descricao": "Serviços de construção de linhas locais de transmissão de baixa e média tensão ",
+        "descricao": "Serviços de construção de linhas locais de transmissão de baixa e média tensão",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "101082120",
         "codigoPai": "1010821",
-        "descricao": "Serviços de construção de linhas locais de comunicação ",
+        "descricao": "Serviços de construção de linhas locais de comunicação",
         "nivel": 5,
         "ehFolha": true
     },
@@ -380,7 +387,7 @@
     {
         "codigo": "101120000",
         "codigoPai": "101",
-        "descricao": "Outros serviços de construção civil não classificados nas posições anteriores ",
+        "descricao": "Outros serviços de construção civil não classificados nas posições anteriores",
         "nivel": 2,
         "ehFolha": true
     },
@@ -527,7 +534,7 @@
     {
         "codigo": "101261000",
         "codigoPai": "10126",
-        "descricao": "Serviços de instalação de fiação elétrica e componentes ",
+        "descricao": "Serviços de instalação de fiação elétrica e componentes",
         "nivel": 3,
         "ehFolha": true
     },
@@ -632,7 +639,7 @@
     {
         "codigo": "101319000",
         "codigoPai": "10131",
-        "descricao": "Outros serviços de instalação ",
+        "descricao": "Outros serviços de instalação",
         "nivel": 3,
         "ehFolha": true
     },
@@ -693,9 +700,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "102",
+        "codigoPai": null,
+        "descricao": "Serviços de distribuição de mercadorias, serviços de despachante aduaneiro",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "102010000",
         "codigoPai": "102",
-        "descricao": "Serviços de agentes de distribuição de mercadorias ",
+        "descricao": "Serviços de agentes de distribuição de mercadorias",
         "nivel": 2,
         "ehFolha": true
     },
@@ -709,7 +723,7 @@
     {
         "codigo": "102030000",
         "codigoPai": "102",
-        "descricao": "Comércio varejista ",
+        "descricao": "Comércio varejista",
         "nivel": 2,
         "ehFolha": true
     },
@@ -737,9 +751,16 @@
     {
         "codigo": "102050000",
         "codigoPai": "102",
-        "descricao": "Serviços de agentes na comercialização de energia elétrica ",
+        "descricao": "Serviços de agentes na comercialização de energia elétrica",
         "nivel": 2,
         "ehFolha": true
+    },
+    {
+        "codigo": "103",
+        "codigoPai": null,
+        "descricao": "Fornecimento de alimentação e bebidas e serviços de hospedagem",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "10301",
@@ -910,9 +931,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "104",
+        "codigoPai": null,
+        "descricao": "Serviços de transporte de passageiros",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "10401",
         "codigoPai": "104",
-        "descricao": "Serviços de transporte de passageiros em áreas urbanas ou rurais, inclusive nas áreas metropolitanas ",
+        "descricao": "Serviços de transporte de passageiros em áreas urbanas ou rurais, inclusive nas áreas metropolitanas",
         "nivel": 2,
         "ehFolha": false
     },
@@ -926,7 +954,7 @@
     {
         "codigo": "1040111",
         "codigoPai": "104011",
-        "descricao": "Serviços de transporte rodoviário urbano de passageiros, exceto em áreas metropolitanas ",
+        "descricao": "Serviços de transporte rodoviário urbano de passageiros, exceto em áreas metropolitanas",
         "nivel": 4,
         "ehFolha": false
     },
@@ -947,7 +975,7 @@
     {
         "codigo": "104011200",
         "codigoPai": "104011",
-        "descricao": "Serviços de transporte rodoviário de passageiros nas áreas metropolitanas ",
+        "descricao": "Serviços de transporte rodoviário de passageiros nas áreas metropolitanas",
         "nivel": 4,
         "ehFolha": true
     },
@@ -961,7 +989,7 @@
     {
         "codigo": "104011400",
         "codigoPai": "104011",
-        "descricao": "Serviços de transporte metroviário (metrô) de passageiros ",
+        "descricao": "Serviços de transporte metroviário (metrô) de passageiros",
         "nivel": 4,
         "ehFolha": true
     },
@@ -989,7 +1017,7 @@
     {
         "codigo": "1040119",
         "codigoPai": "104011",
-        "descricao": "Outros serviços terrestres de transporte de passageiros ",
+        "descricao": "Outros serviços terrestres de transporte de passageiros",
         "nivel": 4,
         "ehFolha": false
     },
@@ -1003,7 +1031,7 @@
     {
         "codigo": "104011990",
         "codigoPai": "1040119",
-        "descricao": "Outros serviços terrestres de transporte de passageiros ",
+        "descricao": "Outros serviços terrestres de transporte de passageiros",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1017,7 +1045,7 @@
     {
         "codigo": "104012100",
         "codigoPai": "104012",
-        "descricao": "Serviços de transporte por navegação interior de passageiros por embarcações para travessia ",
+        "descricao": "Serviços de transporte por navegação interior de passageiros por embarcações para travessia",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1129,7 +1157,7 @@
     {
         "codigo": "104031",
         "codigoPai": "10403",
-        "descricao": "Serviços de transporte terrestre interestadual, inclusive interestadual semiurbano, e internacional de passageiros ",
+        "descricao": "Serviços de transporte terrestre interestadual, inclusive interestadual semiurbano, e internacional de passageiros",
         "nivel": 3,
         "ehFolha": false
     },
@@ -1178,7 +1206,7 @@
     {
         "codigo": "104032100",
         "codigoPai": "104032",
-        "descricao": "Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para travessia ",
+        "descricao": "Serviços de transporte interestadual, inclusive interestadual semiurbano, por navegação interior, de passageiros por embarcações para travessia",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1227,14 +1255,14 @@
     {
         "codigo": "104041100",
         "codigoPai": "104041",
-        "descricao": "Serviços de transporte aéreo doméstico de passageiros ",
+        "descricao": "Serviços de transporte aéreo doméstico de passageiros",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "104041200",
         "codigoPai": "104041",
-        "descricao": "Serviços de transporte aéreo internacional de passageiros ",
+        "descricao": "Serviços de transporte aéreo internacional de passageiros",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1274,6 +1302,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "105",
+        "codigoPai": null,
+        "descricao": "Serviços de transporte de cargas",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "10501",
         "codigoPai": "105",
         "descricao": "Serviços de transportes terrestres de cargas",
@@ -1297,7 +1332,7 @@
     {
         "codigo": "105011110",
         "codigoPai": "1050111",
-        "descricao": "Serviços de transporte rodoviário de cargas sólidas a granel ",
+        "descricao": "Serviços de transporte rodoviário de cargas sólidas a granel",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1332,7 +1367,7 @@
     {
         "codigo": "105011310",
         "codigoPai": "1050113",
-        "descricao": "Serviços de transporte rodoviário de carga solta, não unitizada. ",
+        "descricao": "Serviços de transporte rodoviário de carga solta, não unitizada.",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1367,14 +1402,14 @@
     {
         "codigo": "105011500",
         "codigoPai": "105011",
-        "descricao": "Serviços de transporte rodoviário de mudanças domésticas e de mobília e outros objetos de escritório ",
+        "descricao": "Serviços de transporte rodoviário de mudanças domésticas e de mobília e outros objetos de escritório",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "105011600",
         "codigoPai": "105011",
-        "descricao": "Serviços de transporte rodoviário de cargas especiais e de grande porte ",
+        "descricao": "Serviços de transporte rodoviário de cargas especiais e de grande porte",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1395,7 +1430,7 @@
     {
         "codigo": "105011810",
         "codigoPai": "1050118",
-        "descricao": "Serviços de transporte rodoviário de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte rodoviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1416,28 +1451,28 @@
     {
         "codigo": "105011900",
         "codigoPai": "105011",
-        "descricao": "Serviços de transporte rodoviário de outros tipos de carga ",
+        "descricao": "Serviços de transporte rodoviário de outros tipos de carga",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "105012",
         "codigoPai": "10501",
-        "descricao": "Serviços de transporte ferroviário de cargas ",
+        "descricao": "Serviços de transporte ferroviário de cargas",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "1050121",
         "codigoPai": "105012",
-        "descricao": "Serviços de transporte ferroviário de cargas a granel ",
+        "descricao": "Serviços de transporte ferroviário de cargas a granel",
         "nivel": 4,
         "ehFolha": false
     },
     {
         "codigo": "105012110",
         "codigoPai": "1050121",
-        "descricao": "Serviços de transporte ferroviário de cargas sólidas a granel ",
+        "descricao": "Serviços de transporte ferroviário de cargas sólidas a granel",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1472,14 +1507,14 @@
     {
         "codigo": "105012310",
         "codigoPai": "1050123",
-        "descricao": "Serviços de transporte ferroviário de carga solta, não unitizada  ",
+        "descricao": "Serviços de transporte ferroviário de carga solta, não unitizada",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "105012320",
         "codigoPai": "1050123",
-        "descricao": "Serviços de transporte ferroviário de carga unitizada, exceto em contêineres ",
+        "descricao": "Serviços de transporte ferroviário de carga unitizada, exceto em contêineres",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1521,21 +1556,21 @@
     {
         "codigo": "105012510",
         "codigoPai": "1050125",
-        "descricao": "Serviços de transporte ferroviário de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte ferroviário de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "105012520",
         "codigoPai": "1050125",
-        "descricao": "Serviços de transporte ferroviário de produtos químicos perigosos ",
+        "descricao": "Serviços de transporte ferroviário de produtos químicos perigosos",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "105012530",
         "codigoPai": "1050125",
-        "descricao": "Serviços de transporte ferroviário de armamentos militares e munições ",
+        "descricao": "Serviços de transporte ferroviário de armamentos militares e munições",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1563,7 +1598,7 @@
     {
         "codigo": "105012900",
         "codigoPai": "105012",
-        "descricao": "Serviços de transporte ferroviário de outros tipos de carga ",
+        "descricao": "Serviços de transporte ferroviário de outros tipos de carga",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1619,7 +1654,7 @@
     {
         "codigo": "105021110",
         "codigoPai": "1050211",
-        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas sólidas, a granel ",
+        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas sólidas, a granel",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1696,7 +1731,7 @@
     {
         "codigo": "105021600",
         "codigoPai": "105021",
-        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas especiais e de grande porte ",
+        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de cargas especiais e de grande porte",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1717,7 +1752,7 @@
     {
         "codigo": "105021810",
         "codigoPai": "1050218",
-        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1738,7 +1773,7 @@
     {
         "codigo": "105021900",
         "codigoPai": "105021",
-        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros tipos de carga ",
+        "descricao": "Serviços de transporte aquaviário de navegação de cabotagem e de longo curso de outros tipos de carga",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1759,7 +1794,7 @@
     {
         "codigo": "105022110",
         "codigoPai": "1050221",
-        "descricao": "Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel ",
+        "descricao": "Serviços de transporte aquaviário por navegação interior de cargas sólidas, a granel",
         "nivel": 5,
         "ehFolha": true
     },
@@ -1836,7 +1871,7 @@
     {
         "codigo": "105022600",
         "codigoPai": "105022",
-        "descricao": "Serviços de transporte aquaviário por navegação interior de cargas especiais e de grande porte ",
+        "descricao": "Serviços de transporte aquaviário por navegação interior de cargas especiais e de grande porte",
         "nivel": 4,
         "ehFolha": true
     },
@@ -1857,7 +1892,7 @@
     {
         "codigo": "105022810",
         "codigoPai": "1050228",
-        "descricao": "Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte aquaviário por navegação interior de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 5,
         "ehFolha": true
     },
@@ -2025,7 +2060,7 @@
     {
         "codigo": "105041010",
         "codigoPai": "1050410",
-        "descricao": "Serviços de transporte multimodal de cargas sólidas, a granel ",
+        "descricao": "Serviços de transporte multimodal de cargas sólidas, a granel",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2102,7 +2137,7 @@
     {
         "codigo": "105046000",
         "codigoPai": "10504",
-        "descricao": "Serviços de transporte multimodal de cargas especiais e de grande porte ",
+        "descricao": "Serviços de transporte multimodal de cargas especiais e de grande porte",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2123,7 +2158,7 @@
     {
         "codigo": "105048010",
         "codigoPai": "1050480",
-        "descricao": "Serviços de transporte multimodal de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte multimodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2144,7 +2179,7 @@
     {
         "codigo": "105049000",
         "codigoPai": "10504",
-        "descricao": "Serviços de transporte multimodal de outros tipos de carga ",
+        "descricao": "Serviços de transporte multimodal de outros tipos de carga",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2165,7 +2200,7 @@
     {
         "codigo": "105051010",
         "codigoPai": "1050510",
-        "descricao": "Serviços de transporte intermodal de cargas sólidas, a granel ",
+        "descricao": "Serviços de transporte intermodal de cargas sólidas, a granel",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2200,7 +2235,7 @@
     {
         "codigo": "105053010",
         "codigoPai": "1050530",
-        "descricao": "Serviços de transporte intermodal de cargas soltas, não unitizadas. ",
+        "descricao": "Serviços de transporte intermodal de cargas soltas, não unitizadas.",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2242,7 +2277,7 @@
     {
         "codigo": "105056000",
         "codigoPai": "10505",
-        "descricao": "Serviços de transporte intermodal de cargas especiais e de grande porte ",
+        "descricao": "Serviços de transporte intermodal de cargas especiais e de grande porte",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2263,7 +2298,7 @@
     {
         "codigo": "105058010",
         "codigoPai": "1050580",
-        "descricao": "Serviços de transporte intermodal de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de transporte intermodal de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2284,9 +2319,16 @@
     {
         "codigo": "105059000",
         "codigoPai": "10505",
-        "descricao": "Serviços de transporte intermodal de outros tipos de carga ",
+        "descricao": "Serviços de transporte intermodal de outros tipos de carga",
         "nivel": 3,
         "ehFolha": true
+    },
+    {
+        "codigo": "106",
+        "codigoPai": null,
+        "descricao": "Serviços de apoio aos transportes",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "10601",
@@ -2312,7 +2354,7 @@
     {
         "codigo": "10602",
         "codigoPai": "106",
-        "descricao": "Serviços de armazenagem em depósitos ",
+        "descricao": "Serviços de armazenagem em depósitos",
         "nivel": 2,
         "ehFolha": false
     },
@@ -2340,7 +2382,7 @@
     {
         "codigo": "106022020",
         "codigoPai": "1060220",
-        "descricao": "Serviços de armazenagem de combustíveis, lubrificantes e glp, inclusive apresentado em botijões metálicos",
+        "descricao": "Serviços de armazenagem de combustíveis, lubrificantes e GLP, inclusive apresentado em botijões metálicos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2445,7 +2487,7 @@
     {
         "codigo": "106043000",
         "codigoPai": "10604",
-        "descricao": "Serviços de estacionamentos ",
+        "descricao": "Serviços de estacionamentos",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2480,14 +2522,14 @@
     {
         "codigo": "106052000",
         "codigoPai": "10605",
-        "descricao": "Serviços de praticagem e de docas ",
+        "descricao": "Serviços de praticagem e de docas",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "106053000",
         "codigoPai": "10605",
-        "descricao": "Serviços de salvamento de embarcações ",
+        "descricao": "Serviços de salvamento de embarcações",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2501,7 +2543,7 @@
     {
         "codigo": "10606",
         "codigoPai": "106",
-        "descricao": "Serviços de apoio ao transporte aéreo ",
+        "descricao": "Serviços de apoio ao transporte aéreo",
         "nivel": 2,
         "ehFolha": false
     },
@@ -2557,7 +2599,7 @@
     {
         "codigo": "106081000",
         "codigoPai": "10608",
-        "descricao": "Serviços de coleta e entrega do transporte multimodal e intermodal de cargas ",
+        "descricao": "Serviços de coleta e entrega do transporte multimodal e intermodal de cargas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2590,6 +2632,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "107",
+        "codigoPai": null,
+        "descricao": "Serviços postais, serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos, serviços de remessas expressas",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "107010000",
         "codigoPai": "107",
         "descricao": "Serviços postais e de telegrama",
@@ -2599,7 +2648,7 @@
     {
         "codigo": "107020000",
         "codigoPai": "107",
-        "descricao": "Serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos",
+        "descricao": "Serviços de coleta, remessa ou entrega de documentos (exceto cartas) ou de pequenos objetos",
         "nivel": 2,
         "ehFolha": true
     },
@@ -2609,6 +2658,13 @@
         "descricao": "Serviços de remessas expressas",
         "nivel": 2,
         "ehFolha": true
+    },
+    {
+        "codigo": "108",
+        "codigoPai": null,
+        "descricao": "Serviços de transmissão e distribuição de eletricidade, serviços de distribuição de gás e água",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "10801",
@@ -2662,16 +2718,23 @@
     {
         "codigo": "108022000",
         "codigoPai": "10802",
-        "descricao": "Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de tubulações ",
+        "descricao": "Serviços de distribuição de vapor de água, água quente e ar condicionado por meio de tubulações",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "108023000",
         "codigoPai": "10802",
-        "descricao": "Serviços de distribuição de água, exceto através de tubulações ",
+        "descricao": "Serviços de distribuição de água, exceto através de tubulações",
         "nivel": 3,
         "ehFolha": true
+    },
+    {
+        "codigo": "109",
+        "codigoPai": null,
+        "descricao": "Serviços financeiros e relacionados, securitização de recebíveis e fomento comercial",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "10901",
@@ -2690,7 +2753,7 @@
     {
         "codigo": "109012",
         "codigoPai": "10901",
-        "descricao": "Serviços de depósito ",
+        "descricao": "Serviços de depósito",
         "nivel": 3,
         "ehFolha": false
     },
@@ -2718,7 +2781,7 @@
     {
         "codigo": "109013",
         "codigoPai": "10901",
-        "descricao": "Serviços de concessão de crédito ",
+        "descricao": "Serviços de concessão de crédito",
         "nivel": 3,
         "ehFolha": false
     },
@@ -2746,7 +2809,7 @@
     {
         "codigo": "109013400",
         "codigoPai": "109013",
-        "descricao": "Serviços de empréstimos e financiamentos, comerciais ",
+        "descricao": "Serviços de empréstimos e financiamentos, comerciais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -2767,14 +2830,14 @@
     {
         "codigo": "109013900",
         "codigoPai": "109013",
-        "descricao": "Outros serviços de concessão de crédito ",
+        "descricao": "Outros serviços de concessão de crédito",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109014000",
         "codigoPai": "10901",
-        "descricao": "Serviços de cartão de crédito ",
+        "descricao": "Serviços de cartão de crédito",
         "nivel": 3,
         "ehFolha": true
     },
@@ -2802,28 +2865,28 @@
     {
         "codigo": "109015111",
         "codigoPai": "10901511",
-        "descricao": "Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de passageiros ",
+        "descricao": "Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de passageiros",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015112",
         "codigoPai": "10901511",
-        "descricao": "Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de mercadorias ",
+        "descricao": "Arrendamento mercantil financeiro de veículos rodoviários automotores para o transporte de mercadorias",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015113",
         "codigoPai": "10901511",
-        "descricao": "Arrendamento mercantil financeiro de veículos e equipamentos ferroviários ",
+        "descricao": "Arrendamento mercantil financeiro de veículos e equipamentos ferroviários",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015114",
         "codigoPai": "10901511",
-        "descricao": "Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto ",
+        "descricao": "Arrendamento mercantil financeiro de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto",
         "nivel": 6,
         "ehFolha": true
     },
@@ -2844,35 +2907,35 @@
     {
         "codigo": "109015117",
         "codigoPai": "10901511",
-        "descricao": "Arrendamento mercantil financeiro de contêineres ",
+        "descricao": "Arrendamento mercantil financeiro de contêineres",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "10901512",
         "codigoPai": "1090151",
-        "descricao": "Arrendamento mercantil financeiro de outras máquinas e equipamentos ",
+        "descricao": "Arrendamento mercantil financeiro de outras máquinas e equipamentos",
         "nivel": 5,
         "ehFolha": false
     },
     {
         "codigo": "109015121",
         "codigoPai": "10901512",
-        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas ",
+        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos agrícolas",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015122",
         "codigoPai": "10901512",
-        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos de construção ",
+        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos de construção",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015123",
         "codigoPai": "10901512",
-        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios, exceto computadores ",
+        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos para escritórios, exceto computadores",
         "nivel": 6,
         "ehFolha": true
     },
@@ -2886,35 +2949,35 @@
     {
         "codigo": "109015125",
         "codigoPai": "10901512",
-        "descricao": "Arrendamento mercantil financeiro de equipamentos de telecomunicação ",
+        "descricao": "Arrendamento mercantil financeiro de equipamentos de telecomunicação",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "109015129",
         "codigoPai": "10901512",
-        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos, não classificados em outra posição ",
+        "descricao": "Arrendamento mercantil financeiro de máquinas e equipamentos, não classificados em outra posição",
         "nivel": 6,
         "ehFolha": true
     },
     {
         "codigo": "1090152",
         "codigoPai": "109015",
-        "descricao": "Arrendamento mercantil financeiro de outras mercadorias ",
+        "descricao": "Arrendamento mercantil financeiro de outras mercadorias",
         "nivel": 4,
         "ehFolha": false
     },
     {
         "codigo": "109015210",
         "codigoPai": "1090152",
-        "descricao": "Arrendamento mercantil financeiro de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios ",
+        "descricao": "Arrendamento mercantil financeiro de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "109015220",
         "codigoPai": "1090152",
-        "descricao": "Arrendamento mercantil financeiro de mídias gravadas ",
+        "descricao": "Arrendamento mercantil financeiro de mídias gravadas",
         "nivel": 5,
         "ehFolha": true
     },
@@ -2928,7 +2991,7 @@
     {
         "codigo": "109015240",
         "codigoPai": "1090152",
-        "descricao": "Arrendamento mercantil financeiro de equipamentos para diversão e lazer ",
+        "descricao": "Arrendamento mercantil financeiro de equipamentos para diversão e lazer",
         "nivel": 5,
         "ehFolha": true
     },
@@ -2977,21 +3040,21 @@
     {
         "codigo": "109023000",
         "codigoPai": "10902",
-        "descricao": "Serviços de fusões e aquisições  ",
+        "descricao": "Serviços de fusões e aquisições",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109024000",
         "codigoPai": "10902",
-        "descricao": "Serviços de capital de risco e finanças corporativas ",
+        "descricao": "Serviços de capital de risco e finanças corporativas",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109029000",
         "codigoPai": "10902",
-        "descricao": "Outros serviços relacionados a bancos de investimentos ",
+        "descricao": "Outros serviços relacionados a bancos de investimentos",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3005,7 +3068,7 @@
     {
         "codigo": "109031",
         "codigoPai": "10903",
-        "descricao": "Serviços de seguros de vida e de previdência complementar, excluídos os serviços de resseguros  ",
+        "descricao": "Serviços de seguros de vida e de previdência complementar, excluídos os serviços de resseguros",
         "nivel": 3,
         "ehFolha": false
     },
@@ -3040,7 +3103,7 @@
     {
         "codigo": "109039",
         "codigoPai": "10903",
-        "descricao": "Outros serviços de seguros, excluídos os serviços de resseguros ",
+        "descricao": "Outros serviços de seguros, excluídos os serviços de resseguros",
         "nivel": 3,
         "ehFolha": false
     },
@@ -3054,7 +3117,7 @@
     {
         "codigo": "109039200",
         "codigoPai": "109039",
-        "descricao": "Serviços de seguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo ",
+        "descricao": "Serviços de seguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3089,14 +3152,14 @@
     {
         "codigo": "109039700",
         "codigoPai": "109039",
-        "descricao": "Serviços de seguros de viagem ",
+        "descricao": "Serviços de seguros de viagem",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109039900",
         "codigoPai": "109039",
-        "descricao": "Outros serviços de seguros ",
+        "descricao": "Outros serviços de seguros",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3110,7 +3173,7 @@
     {
         "codigo": "109041000",
         "codigoPai": "10904",
-        "descricao": "Serviços de resseguros de vida ",
+        "descricao": "Serviços de resseguros de vida",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3131,14 +3194,14 @@
     {
         "codigo": "109043100",
         "codigoPai": "109043",
-        "descricao": "Serviços de resseguros de veículos rodoviários ",
+        "descricao": "Serviços de resseguros de veículos rodoviários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109043200",
         "codigoPai": "109043",
-        "descricao": "Serviços de resseguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo ",
+        "descricao": "Serviços de resseguros de veículos e equipamentos para transporte ferroviário, aquaviário e aéreo",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3166,7 +3229,7 @@
     {
         "codigo": "109043600",
         "codigoPai": "109043",
-        "descricao": "Serviços de resseguros de crédito e caução ",
+        "descricao": "Serviços de resseguros de crédito e caução",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3187,7 +3250,7 @@
     {
         "codigo": "109051",
         "codigoPai": "10905",
-        "descricao": "Serviços de corretagem de títulos, derivativos e commodities ",
+        "descricao": "Serviços de corretagem de títulos, derivativos e commodities",
         "nivel": 3,
         "ehFolha": false
     },
@@ -3215,42 +3278,42 @@
     {
         "codigo": "109052000",
         "codigoPai": "10905",
-        "descricao": "Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão ",
+        "descricao": "Serviços de gestão e administração de carteiras de ativos, exceto fundos de pensão",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109053000",
         "codigoPai": "10905",
-        "descricao": "Serviços de guarda e custódia ",
+        "descricao": "Serviços de guarda e custódia",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109054000",
         "codigoPai": "10905",
-        "descricao": "Serviços relacionados à administração de mercados financeiros ",
+        "descricao": "Serviços relacionados à administração de mercados financeiros",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109059",
         "codigoPai": "10905",
-        "descricao": "Outros serviços auxiliares aos serviços financeiros ",
+        "descricao": "Outros serviços auxiliares aos serviços financeiros",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "109059100",
         "codigoPai": "109059",
-        "descricao": "Serviços de consultoria financeira ",
+        "descricao": "Serviços de consultoria financeira",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109059200",
         "codigoPai": "109059",
-        "descricao": "Serviços de câmbio ",
+        "descricao": "Serviços de câmbio",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3264,14 +3327,14 @@
     {
         "codigo": "109059400",
         "codigoPai": "109059",
-        "descricao": "Serviços fiduciários ",
+        "descricao": "Serviços fiduciários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109059900",
         "codigoPai": "109059",
-        "descricao": "Outros serviços auxiliares aos serviços financeiros não classificados em outra posição ",
+        "descricao": "Outros serviços auxiliares aos serviços financeiros não classificados em outra posição",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3299,21 +3362,21 @@
     {
         "codigo": "109061200",
         "codigoPai": "109061",
-        "descricao": "Serviços de corretagem de seguros saúde ",
+        "descricao": "Serviços de corretagem de seguros saúde",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "109062000",
         "codigoPai": "10906",
-        "descricao": "Serviços de perícia e avaliação de seguros ",
+        "descricao": "Serviços de perícia e avaliação de seguros",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "109063000",
         "codigoPai": "10906",
-        "descricao": "Serviços atuariais ",
+        "descricao": "Serviços atuariais",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3346,30 +3409,37 @@
         "ehFolha": true
     },
     {
+        "codigo": "110",
+        "codigoPai": null,
+        "descricao": "Serviços imobiliários",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11001",
         "codigoPai": "110",
-        "descricao": "Serviços imobiliários sob comissão ou contrato ",
+        "descricao": "Serviços imobiliários sob comissão ou contrato",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "110011",
         "codigoPai": "11001",
-        "descricao": "Serviços de administração e locação de imóveis ",
+        "descricao": "Serviços de administração e locação de imóveis",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "110011100",
         "codigoPai": "110011",
-        "descricao": "Serviços de administração e locação de imóveis residenciais ",
+        "descricao": "Serviços de administração e locação de imóveis residenciais",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "1100112",
         "codigoPai": "110011",
-        "descricao": "Serviços de administração e locação de imóveis não residenciais ",
+        "descricao": "Serviços de administração e locação de imóveis não residenciais",
         "nivel": 4,
         "ehFolha": false
     },
@@ -3390,7 +3460,7 @@
     {
         "codigo": "110012",
         "codigoPai": "11001",
-        "descricao": "Compra e venda de imóveis ",
+        "descricao": "Compra e venda de imóveis",
         "nivel": 3,
         "ehFolha": false
     },
@@ -3411,7 +3481,7 @@
     {
         "codigo": "110013000",
         "codigoPai": "11001",
-        "descricao": "Serviços de avaliação de imóveis ",
+        "descricao": "Serviços de avaliação de imóveis",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3437,9 +3507,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "111",
+        "codigoPai": null,
+        "descricao": "Arrendamento mercantil operacional, propriedade intelectual, franquias empresariais e exploração de outros direitos",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11101",
         "codigoPai": "111",
-        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos, sem operador",
         "nivel": 2,
         "ehFolha": false
     },
@@ -3453,77 +3530,77 @@
     {
         "codigo": "111011100",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de até oito passageiros, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de até oito passageiros, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011200",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de mercadorias, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de veículos rodoviários automotores para o transporte de mercadorias, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011300",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de veículos e equipamentos ferroviários, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de veículos e equipamentos ferroviários, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011400",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de outros equipamentos de transporte terrestre, inclusive de veículos de uso misto, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011500",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem tripulação ",
+        "descricao": "Arrendamento mercantil operacional ou locação de navios e outras embarcações, sem tripulação",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011600",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação ",
+        "descricao": "Arrendamento mercantil operacional ou locação de aeronaves, sem tripulação",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111011700",
         "codigoPai": "111011",
-        "descricao": "Arrendamento mercantil operacional ou locação de contêineres ",
+        "descricao": "Arrendamento mercantil operacional ou locação de contêineres",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111012",
         "codigoPai": "11101",
-        "descricao": "Arrendamento mercantil operacional ou locação de outras máquinas e equipamentos, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de outras máquinas e equipamentos, sem operador",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "111012100",
         "codigoPai": "111012",
-        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos agrícolas, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos agrícolas, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111012200",
         "codigoPai": "111012",
-        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos de construção, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos de construção, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111012300",
         "codigoPai": "111012",
-        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos para escritórios, exceto computadores, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos para escritórios, exceto computadores, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3537,35 +3614,35 @@
     {
         "codigo": "111012500",
         "codigoPai": "111012",
-        "descricao": "Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de equipamentos de telecomunicação, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111012900",
         "codigoPai": "111012",
-        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos, não classificados em outra posição, sem operador ",
+        "descricao": "Arrendamento mercantil operacional ou locação de máquinas e equipamentos, não classificados em outra posição, sem operador",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "11102",
         "codigoPai": "111",
-        "descricao": "Arrendamento mercantil operacional ou locação de outras mercadorias ",
+        "descricao": "Arrendamento mercantil operacional ou locação de outras mercadorias",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "111021000",
         "codigoPai": "11102",
-        "descricao": "Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios ",
+        "descricao": "Arrendamento mercantil operacional ou locação de televisão e outros eletroeletrônicos domésticos, bem como seus acessórios",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "111022000",
         "codigoPai": "11102",
-        "descricao": "Arrendamento mercantil operacional ou locação de mídias gravadas ",
+        "descricao": "Arrendamento mercantil operacional ou locação de mídias gravadas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3579,7 +3656,7 @@
     {
         "codigo": "111024000",
         "codigoPai": "11102",
-        "descricao": "Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer ",
+        "descricao": "Arrendamento mercantil operacional ou locação de equipamentos para diversão e lazer",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3593,7 +3670,7 @@
     {
         "codigo": "111026000",
         "codigoPai": "11102",
-        "descricao": "Arrendamento mercantil operacional ou locação de roupas e calçados ",
+        "descricao": "Arrendamento mercantil operacional ou locação de roupas e calçados",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3621,7 +3698,7 @@
     {
         "codigo": "111032",
         "codigoPai": "11103",
-        "descricao": "Licenciamento de direitos sobre programas de computador  ",
+        "descricao": "Licenciamento de direitos sobre programas de computador",
         "nivel": 3,
         "ehFolha": false
     },
@@ -3642,7 +3719,7 @@
     {
         "codigo": "111032900",
         "codigoPai": "111032",
-        "descricao": "Licenciamento de outros direitos sobre programas de computador  ",
+        "descricao": "Licenciamento de outros direitos sobre programas de computador",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3698,7 +3775,7 @@
     {
         "codigo": "11103391",
         "codigoPai": "1110339",
-        "descricao": "Licenciamento de direitos de obras audiovisuais destinadas à televisão ",
+        "descricao": "Licenciamento de direitos de obras audiovisuais destinadas à televisão",
         "nivel": 5,
         "ehFolha": false
     },
@@ -3768,21 +3845,21 @@
     {
         "codigo": "111039",
         "codigoPai": "11103",
-        "descricao": "Licenciamento de outros direitos de autor e outros direitos conexos ",
+        "descricao": "Licenciamento de outros direitos de autor e outros direitos conexos",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "111039100",
         "codigoPai": "111039",
-        "descricao": "Licenciamento de outros direitos de autor ",
+        "descricao": "Licenciamento de outros direitos de autor",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "111039200",
         "codigoPai": "111039",
-        "descricao": "Licenciamento de outros direitos conexos ",
+        "descricao": "Licenciamento de outros direitos conexos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3803,7 +3880,7 @@
     {
         "codigo": "111042000",
         "codigoPai": "11104",
-        "descricao": "Cessão temporária de direitos sobre programas de computador  ",
+        "descricao": "Cessão temporária de direitos sobre programas de computador",
         "nivel": 3,
         "ehFolha": true
     },
@@ -3852,7 +3929,7 @@
     {
         "codigo": "1110439",
         "codigoPai": "111043",
-        "descricao": "Cessão temporária de direitos de outras obras audiovisuais ",
+        "descricao": "Cessão temporária de direitos de outras obras audiovisuais",
         "nivel": 4,
         "ehFolha": false
     },
@@ -3936,7 +4013,7 @@
     {
         "codigo": "111049100",
         "codigoPai": "111049",
-        "descricao": "Cessão temporária de outros direitos de autor ",
+        "descricao": "Cessão temporária de outros direitos de autor",
         "nivel": 4,
         "ehFolha": true
     },
@@ -3964,7 +4041,7 @@
     {
         "codigo": "111052000",
         "codigoPai": "11105",
-        "descricao": "Licenciamento de direitos sobre marcas ",
+        "descricao": "Licenciamento de direitos sobre marcas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4006,14 +4083,14 @@
     {
         "codigo": "111090000",
         "codigoPai": "111",
-        "descricao": "Licenciamento de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores ",
+        "descricao": "Licenciamento de outros direitos de propriedade intelectual não classificados em nenhuma das posições anteriores",
         "nivel": 2,
         "ehFolha": true
     },
     {
         "codigo": "11110",
         "codigoPai": "111",
-        "descricao": "Contratos de transferência de tecnologia ",
+        "descricao": "Contratos de transferência de tecnologia",
         "nivel": 2,
         "ehFolha": false
     },
@@ -4109,9 +4186,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "112",
+        "codigoPai": null,
+        "descricao": "Serviços de pesquisa e desenvolvimento",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11201",
         "codigoPai": "112",
-        "descricao": "Serviços de pesquisa e desenvolvimento em ciências naturais, exatas e engenharia ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em ciências naturais, exatas e engenharia",
         "nivel": 2,
         "ehFolha": false
     },
@@ -4132,7 +4216,7 @@
     {
         "codigo": "112011200",
         "codigoPai": "112011",
-        "descricao": "Serviços de pesquisa e desenvolvimento em química e biologia ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em química e biologia",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4160,14 +4244,14 @@
     {
         "codigo": "112012200",
         "codigoPai": "112012",
-        "descricao": "Serviços de pesquisa e desenvolvimento em tecnologia da informação e comunicação (tic)",
+        "descricao": "Serviços de pesquisa e desenvolvimento em tecnologia da informação e comunicação (TIC)",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "112012300",
         "codigoPai": "112012",
-        "descricao": "Serviços de pesquisa e desenvolvimento em nanotecnologia ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em nanotecnologia",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4202,7 +4286,7 @@
     {
         "codigo": "112014000",
         "codigoPai": "11201",
-        "descricao": "Serviços de pesquisa e desenvolvimento em ciências agrárias ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em ciências agrárias",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4237,21 +4321,21 @@
     {
         "codigo": "112021",
         "codigoPai": "11202",
-        "descricao": "Serviços de pesquisa e desenvolvimento em ciências sociais ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em ciências sociais",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "112021100",
         "codigoPai": "112021",
-        "descricao": "Serviços de pesquisa e desenvolvimento em psicologia ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em psicologia",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "112021200",
         "codigoPai": "112021",
-        "descricao": "Serviços de pesquisa e desenvolvimento em ciências econômicas ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em ciências econômicas",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4265,28 +4349,35 @@
     {
         "codigo": "112021900",
         "codigoPai": "112021",
-        "descricao": "Serviços de pesquisa e desenvolvimento em outras ciências sociais ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em outras ciências sociais",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "112022000",
         "codigoPai": "11202",
-        "descricao": "Serviços de pesquisa e desenvolvimento em humanidades ",
+        "descricao": "Serviços de pesquisa e desenvolvimento em humanidades",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "112030000",
         "codigoPai": "112",
-        "descricao": "Serviços de pesquisa e desenvolvimento interdisciplinar ",
+        "descricao": "Serviços de pesquisa e desenvolvimento interdisciplinar",
         "nivel": 2,
         "ehFolha": true
     },
     {
+        "codigo": "113",
+        "codigoPai": null,
+        "descricao": "Serviços jurídicos e contábeis",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11301",
         "codigoPai": "113",
-        "descricao": "Serviços jurídicos ",
+        "descricao": "Serviços jurídicos",
         "nivel": 2,
         "ehFolha": false
     },
@@ -4300,7 +4391,7 @@
     {
         "codigo": "113012000",
         "codigoPai": "11301",
-        "descricao": "Serviços de representação e consultoria jurídica em outras áreas do direito ",
+        "descricao": "Serviços de representação e consultoria jurídica em outras áreas do direito",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4321,42 +4412,42 @@
     {
         "codigo": "113014100",
         "codigoPai": "113014",
-        "descricao": "Serviços de arbitragem, conciliação e mediação ",
+        "descricao": "Serviços de arbitragem, conciliação e mediação",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "113014900",
         "codigoPai": "113014",
-        "descricao": "Outros serviços jurídicos não classificados em outra posição ",
+        "descricao": "Outros serviços jurídicos não classificados em outra posição",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "11302",
         "codigoPai": "113",
-        "descricao": "Serviços de auditoria, contabilidade e escrituração mercantil ",
+        "descricao": "Serviços de auditoria, contabilidade e escrituração mercantil",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "113021",
         "codigoPai": "11302",
-        "descricao": "Serviços de auditoria ",
+        "descricao": "Serviços de auditoria",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "113021100",
         "codigoPai": "113021",
-        "descricao": "Serviços de auditoria contábil ",
+        "descricao": "Serviços de auditoria contábil",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "113021900",
         "codigoPai": "113021",
-        "descricao": "Outros serviços de auditoria ",
+        "descricao": "Outros serviços de auditoria",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4370,14 +4461,14 @@
     {
         "codigo": "113022100",
         "codigoPai": "113022",
-        "descricao": "Serviços de contabilidade ",
+        "descricao": "Serviços de contabilidade",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "113022200",
         "codigoPai": "113022",
-        "descricao": "Serviços de escrituração mercantil ",
+        "descricao": "Serviços de escrituração mercantil",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4398,14 +4489,14 @@
     {
         "codigo": "11303",
         "codigoPai": "113",
-        "descricao": "Serviços de consultoria tributária ",
+        "descricao": "Serviços de consultoria tributária",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "113031000",
         "codigoPai": "11303",
-        "descricao": "Serviços de consultoria tributária para pessoas jurídicas ",
+        "descricao": "Serviços de consultoria tributária para pessoas jurídicas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4424,6 +4515,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "114",
+        "codigoPai": null,
+        "descricao": "Outros serviços profissionais",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11401",
         "codigoPai": "114",
         "descricao": "Serviços gerenciais, de consultoria gerencial, de relações públicas e de comunicação social",
@@ -4433,7 +4531,7 @@
     {
         "codigo": "114011",
         "codigoPai": "11401",
-        "descricao": "Serviços gerenciais e de consultoria gerencial ",
+        "descricao": "Serviços gerenciais e de consultoria gerencial",
         "nivel": 3,
         "ehFolha": false
     },
@@ -4447,7 +4545,7 @@
     {
         "codigo": "114011200",
         "codigoPai": "114011",
-        "descricao": "Serviços de consultoria gerencial financeira ",
+        "descricao": "Serviços de consultoria gerencial financeira",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4461,7 +4559,7 @@
     {
         "codigo": "114011400",
         "codigoPai": "114011",
-        "descricao": "Serviços de consultoria gerencial em marketing ",
+        "descricao": "Serviços de consultoria gerencial em marketing",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4489,7 +4587,7 @@
     {
         "codigo": "114011800",
         "codigoPai": "114011",
-        "descricao": "Serviços gerenciais em processos de negócios ",
+        "descricao": "Serviços gerenciais em processos de negócios",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4503,7 +4601,7 @@
     {
         "codigo": "114012000",
         "codigoPai": "11401",
-        "descricao": "Serviços de relações públicas ",
+        "descricao": "Serviços de relações públicas",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4545,21 +4643,21 @@
     {
         "codigo": "114021100",
         "codigoPai": "114021",
-        "descricao": "Serviços de consultoria em arquitetura ",
+        "descricao": "Serviços de consultoria em arquitetura",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114021200",
         "codigoPai": "114021",
-        "descricao": "Serviços arquitetônicos para projetos de construções residenciais ",
+        "descricao": "Serviços arquitetônicos para projetos de construções residenciais",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114021300",
         "codigoPai": "114021",
-        "descricao": "Serviços arquitetônicos para projetos de construções não residenciais  ",
+        "descricao": "Serviços arquitetônicos para projetos de construções não residenciais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4580,21 +4678,21 @@
     {
         "codigo": "114022",
         "codigoPai": "11402",
-        "descricao": "Serviços de planejamento urbano e de áreas rurais ",
+        "descricao": "Serviços de planejamento urbano e de áreas rurais",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "114022100",
         "codigoPai": "114022",
-        "descricao": "Serviços de planejamento urbano ",
+        "descricao": "Serviços de planejamento urbano",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114022200",
         "codigoPai": "114022",
-        "descricao": "Serviços de planejamento de áreas rurais ",
+        "descricao": "Serviços de planejamento de áreas rurais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4615,7 +4713,7 @@
     {
         "codigo": "114023200",
         "codigoPai": "114023",
-        "descricao": "Serviços arquitetônicos de paisagismo ",
+        "descricao": "Serviços arquitetônicos de paisagismo",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4629,28 +4727,28 @@
     {
         "codigo": "11403",
         "codigoPai": "114",
-        "descricao": "Serviços de engenharia ",
+        "descricao": "Serviços de engenharia",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "114031000",
         "codigoPai": "11403",
-        "descricao": "Serviços de consultoria de engenharia ",
+        "descricao": "Serviços de consultoria de engenharia",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "114032",
         "codigoPai": "11403",
-        "descricao": "Serviços de engenharia para projetos específicos ",
+        "descricao": "Serviços de engenharia para projetos específicos",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "1140321",
         "codigoPai": "114032",
-        "descricao": "Serviços de engenharia de projetos de construção ",
+        "descricao": "Serviços de engenharia de projetos de construção",
         "nivel": 4,
         "ehFolha": false
     },
@@ -4685,7 +4783,7 @@
     {
         "codigo": "1140324",
         "codigoPai": "114032",
-        "descricao": "Serviços de engenharia para projetos de energia ",
+        "descricao": "Serviços de engenharia para projetos de energia",
         "nivel": 4,
         "ehFolha": false
     },
@@ -4720,7 +4818,7 @@
     {
         "codigo": "114032490",
         "codigoPai": "1140324",
-        "descricao": "Outros serviços de engenharia para projetos de energia ",
+        "descricao": "Outros serviços de engenharia para projetos de energia",
         "nivel": 5,
         "ehFolha": true
     },
@@ -4734,7 +4832,7 @@
     {
         "codigo": "114032600",
         "codigoPai": "114032",
-        "descricao": "Serviços de engenharia de projetos de gerenciamento de resíduos (perigosos e não perigosos) ",
+        "descricao": "Serviços de engenharia de projetos de gerenciamento de resíduos (perigosos e não perigosos)",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4755,14 +4853,14 @@
     {
         "codigo": "1140329",
         "codigoPai": "114032",
-        "descricao": "Outros serviços de engenharia de projetos ",
+        "descricao": "Outros serviços de engenharia de projetos",
         "nivel": 4,
         "ehFolha": false
     },
     {
         "codigo": "114032910",
         "codigoPai": "1140329",
-        "descricao": "Serviços de engenharia de projetos aeroespaciais ",
+        "descricao": "Serviços de engenharia de projetos aeroespaciais",
         "nivel": 5,
         "ehFolha": true
     },
@@ -4776,14 +4874,14 @@
     {
         "codigo": "114032990",
         "codigoPai": "1140329",
-        "descricao": "Outros serviços de engenharia de projetos ",
+        "descricao": "Outros serviços de engenharia de projetos",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "114033000",
         "codigoPai": "11403",
-        "descricao": "Serviços de gerenciamento de projetos de construção ",
+        "descricao": "Serviços de gerenciamento de projetos de construção",
         "nivel": 3,
         "ehFolha": true
     },
@@ -4846,21 +4944,21 @@
     {
         "codigo": "114042",
         "codigoPai": "11404",
-        "descricao": "Serviços topográficos e cartográficos ",
+        "descricao": "Serviços topográficos e cartográficos",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "114042100",
         "codigoPai": "114042",
-        "descricao": "Serviços topográficos ",
+        "descricao": "Serviços topográficos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114042200",
         "codigoPai": "114042",
-        "descricao": "Serviços cartográficos ",
+        "descricao": "Serviços cartográficos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4881,49 +4979,49 @@
     {
         "codigo": "114044100",
         "codigoPai": "114044",
-        "descricao": "Serviços de análise e de exames técnicos sobre pureza e composição ",
+        "descricao": "Serviços de análise e de exames técnicos sobre pureza e composição",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114044200",
         "codigoPai": "114044",
-        "descricao": "Serviços de análise e de exames técnicos de propriedades físicas ",
+        "descricao": "Serviços de análise e de exames técnicos de propriedades físicas",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114044300",
         "codigoPai": "114044",
-        "descricao": "Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos ",
+        "descricao": "Serviços de análise e de exames técnicos de sistemas elétricos e mecânicos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114044400",
         "codigoPai": "114044",
-        "descricao": "Serviços de inspeção técnica de veículos de transporte rodoviários ",
+        "descricao": "Serviços de inspeção técnica de veículos de transporte rodoviários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114044900",
         "codigoPai": "114044",
-        "descricao": "Outros serviços de análise e de exames técnicos ",
+        "descricao": "Outros serviços de análise e de exames técnicos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "11405",
         "codigoPai": "114",
-        "descricao": "Serviços veterinários ",
+        "descricao": "Serviços veterinários",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "1140510",
         "codigoPai": "11405",
-        "descricao": "Serviços veterinários para animais domésticos ",
+        "descricao": "Serviços veterinários para animais domésticos",
         "nivel": 3,
         "ehFolha": false
     },
@@ -4937,7 +5035,7 @@
     {
         "codigo": "114051090",
         "codigoPai": "1140510",
-        "descricao": "Outros serviços veterinários para animais domésticos ",
+        "descricao": "Outros serviços veterinários para animais domésticos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4958,7 +5056,7 @@
     {
         "codigo": "114052090",
         "codigoPai": "1140520",
-        "descricao": "Outros serviços veterinários para animais de corte ",
+        "descricao": "Outros serviços veterinários para animais de corte",
         "nivel": 4,
         "ehFolha": true
     },
@@ -4979,7 +5077,7 @@
     {
         "codigo": "114059100",
         "codigoPai": "114059",
-        "descricao": "Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais biológicos ",
+        "descricao": "Serviços de bancos de órgãos, sangue, sêmen, tecidos, óvulos e outros materiais biológicos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5028,7 +5126,7 @@
     {
         "codigo": "114061100",
         "codigoPai": "114061",
-        "descricao": "Serviços de campanhas publicitárias ",
+        "descricao": "Serviços de campanhas publicitárias",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5049,35 +5147,35 @@
     {
         "codigo": "114062000",
         "codigoPai": "11406",
-        "descricao": "Aquisição ou venda de espaço ou tempo para propaganda, sob comissão ",
+        "descricao": "Aquisição ou venda de espaço ou tempo para propaganda, sob comissão",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "114063",
         "codigoPai": "11406",
-        "descricao": "Venda de espaço ou tempo para propaganda, exceto sob comissão ",
+        "descricao": "Venda de espaço ou tempo para propaganda, exceto sob comissão",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "114063100",
         "codigoPai": "114063",
-        "descricao": "Venda de espaço para propaganda em mídia impressa, exceto sob comissão ",
+        "descricao": "Venda de espaço para propaganda em mídia impressa, exceto sob comissão",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114063200",
         "codigoPai": "114063",
-        "descricao": "Venda de tempo para propaganda em rádio e televisão, exceto sob comissão ",
+        "descricao": "Venda de tempo para propaganda em rádio e televisão, exceto sob comissão",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114063300",
         "codigoPai": "114063",
-        "descricao": "Venda de espaço para propaganda na rede mundial de computadores, exceto sob comissão ",
+        "descricao": "Venda de espaço para propaganda na rede mundial de computadores, exceto sob comissão",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5105,21 +5203,21 @@
     {
         "codigo": "114081",
         "codigoPai": "11408",
-        "descricao": "Serviços fotográficos e videográficos ",
+        "descricao": "Serviços fotográficos e videográficos",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "114081100",
         "codigoPai": "114081",
-        "descricao": "Serviços fotográficos de retratos ",
+        "descricao": "Serviços fotográficos de retratos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114081200",
         "codigoPai": "114081",
-        "descricao": "Serviços fotográficos para propaganda ",
+        "descricao": "Serviços fotográficos para propaganda",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5133,7 +5231,7 @@
     {
         "codigo": "114081400",
         "codigoPai": "114081",
-        "descricao": "Serviços fotográficos especiais ",
+        "descricao": "Serviços fotográficos especiais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5154,7 +5252,7 @@
     {
         "codigo": "11409",
         "codigoPai": "114",
-        "descricao": "Outros serviços profissionais, técnicos e gerenciais não classificados em outra posição ",
+        "descricao": "Outros serviços profissionais, técnicos e gerenciais não classificados em outra posição",
         "nivel": 2,
         "ehFolha": false
     },
@@ -5168,7 +5266,7 @@
     {
         "codigo": "1140911",
         "codigoPai": "114091",
-        "descricao": "Serviços de projeto (design) de interiores ",
+        "descricao": "Serviços de projeto (design) de interiores",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5182,14 +5280,14 @@
     {
         "codigo": "114091190",
         "codigoPai": "1140911",
-        "descricao": "Outros serviços de projeto (design) de interiores ",
+        "descricao": "Outros serviços de projeto (design) de interiores",
         "nivel": 5,
         "ehFolha": true
     },
     {
         "codigo": "114091200",
         "codigoPai": "114091",
-        "descricao": "Serviços de desenho industrial ",
+        "descricao": "Serviços de desenho industrial",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5245,84 +5343,91 @@
     {
         "codigo": "114092",
         "codigoPai": "11409",
-        "descricao": "Serviços de consultoria técnica e científica não classificados em outra posição ",
+        "descricao": "Serviços de consultoria técnica e científica não classificados em outra posição",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "114092100",
         "codigoPai": "114092",
-        "descricao": "Serviços de consultoria ambiental ",
+        "descricao": "Serviços de consultoria ambiental",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114092900",
         "codigoPai": "114092",
-        "descricao": "Outros serviços de consultoria técnica e científica ",
+        "descricao": "Outros serviços de consultoria técnica e científica",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "114093000",
         "codigoPai": "11409",
-        "descricao": "Serviços de compilação e coletânea de fatos e informações originais ",
+        "descricao": "Serviços de compilação e coletânea de fatos e informações originais",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "114094000",
         "codigoPai": "11409",
-        "descricao": "Serviços de tradução e de intérpretes ",
+        "descricao": "Serviços de tradução e de intérpretes",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "114095000",
         "codigoPai": "11409",
-        "descricao": "Serviços para registros de marcas comerciais e de franquias empresariais, exceto as licenças de uso de direito ",
+        "descricao": "Serviços para registros de marcas comerciais e de franquias empresariais, exceto as licenças de uso de direito",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "114099000",
         "codigoPai": "11409",
-        "descricao": "Outros serviços profissionais, técnicos e gerenciais não classificados nas subposições anteriores ",
+        "descricao": "Outros serviços profissionais, técnicos e gerenciais não classificados nas subposições anteriores",
         "nivel": 3,
         "ehFolha": true
     },
     {
+        "codigo": "115",
+        "codigoPai": null,
+        "descricao": "Serviços de tecnologia da informação",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11501",
         "codigoPai": "115",
-        "descricao": "Serviços de consultoria, de segurança e de suporte em tecnologia da informação (ti)",
+        "descricao": "Serviços de consultoria, de segurança e de suporte em tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "115011000",
         "codigoPai": "11501",
-        "descricao": "Serviços de consultoria em tecnologia da informação (ti)",
+        "descricao": "Serviços de consultoria em tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115012000",
         "codigoPai": "11501",
-        "descricao": "Serviços de segurança em tecnologia da informação (ti)",
+        "descricao": "Serviços de segurança em tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115013000",
         "codigoPai": "11501",
-        "descricao": "Serviços de suporte em tecnologia da informação (ti) ",
+        "descricao": "Serviços de suporte em tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11502",
         "codigoPai": "115",
-        "descricao": "Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da informação (ti) ",
+        "descricao": "Serviços de projeto e desenvolvimento de aplicativos e programas em tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": false
     },
@@ -5343,35 +5448,35 @@
     {
         "codigo": "115023000",
         "codigoPai": "11502",
-        "descricao": "Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas ",
+        "descricao": "Serviços de projeto e desenvolvimento de estruturas e conteúdo de páginas eletrônicas",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115024000",
         "codigoPai": "11502",
-        "descricao": "Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados ",
+        "descricao": "Serviços de projeto e desenvolvimento de estruturas e conteúdo de bancos de dados",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115025000",
         "codigoPai": "11502",
-        "descricao": "Serviços de integração de sistemas em tecnologia da informação (ti) ",
+        "descricao": "Serviços de integração de sistemas em tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115029000",
         "codigoPai": "11502",
-        "descricao": "Outros serviços de projeto e desenvolvimento de aplicativos ",
+        "descricao": "Outros serviços de projeto e desenvolvimento de aplicativos",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115030000",
         "codigoPai": "115",
-        "descricao": "Serviços de projeto e desenvolvimento de redes em tecnologia da informação (ti)  ",
+        "descricao": "Serviços de projeto e desenvolvimento de redes em tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": true
     },
@@ -5392,35 +5497,35 @@
     {
         "codigo": "11506",
         "codigoPai": "115",
-        "descricao": "Serviços de infraestrutura para hospedagem em tecnologia da informação (ti) ",
+        "descricao": "Serviços de infraestrutura para hospedagem em tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "115061000",
         "codigoPai": "11506",
-        "descricao": "Serviços de hospedagem de sítios na rede mundial de computadores ",
+        "descricao": "Serviços de hospedagem de sítios na rede mundial de computadores",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115062000",
         "codigoPai": "11506",
-        "descricao": "Serviços de hospedagem de aplicativos e programas ",
+        "descricao": "Serviços de hospedagem de aplicativos e programas",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115069000",
         "codigoPai": "11506",
-        "descricao": "Outros serviços de infraestrutura para hospedagem em tecnologia da informação (ti)   ",
+        "descricao": "Outros serviços de infraestrutura para hospedagem em tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11507",
         "codigoPai": "115",
-        "descricao": "Serviços de gerenciamento de infraestrutura de tecnologia da informação (ti) ",
+        "descricao": "Serviços de gerenciamento de infraestrutura de tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": false
     },
@@ -5434,14 +5539,14 @@
     {
         "codigo": "115072000",
         "codigoPai": "11507",
-        "descricao": "Serviços de gerenciamento de sistemas computacionais ",
+        "descricao": "Serviços de gerenciamento de sistemas computacionais",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "115079000",
         "codigoPai": "11507",
-        "descricao": "Outros serviços de gerenciamento de infraestrutura de tecnologia da informação (ti)",
+        "descricao": "Outros serviços de gerenciamento de infraestrutura de tecnologia da informação (TI)",
         "nivel": 3,
         "ehFolha": true
     },
@@ -5462,9 +5567,16 @@
     {
         "codigo": "115900000",
         "codigoPai": "115",
-        "descricao": "Outros serviços de tecnologia da informação (ti)   ",
+        "descricao": "Outros serviços de tecnologia da informação (TI)",
         "nivel": 2,
         "ehFolha": true
+    },
+    {
+        "codigo": "117",
+        "codigoPai": null,
+        "descricao": "Serviços de telecomunicação, difusão e fornecimento de informações",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "11701",
@@ -5476,14 +5588,14 @@
     {
         "codigo": "117011",
         "codigoPai": "11701",
-        "descricao": "Serviços de telecomunicações fixos e serviços de valor adicionado ",
+        "descricao": "Serviços de telecomunicações fixos e serviços de valor adicionado",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "1170111",
         "codigoPai": "117011",
-        "descricao": "Serviços de chamada de telecomunicações fixos comutados em banda estreita e banda larga  ",
+        "descricao": "Serviços de chamada de telecomunicações fixos comutados em banda estreita e banda larga",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5511,7 +5623,7 @@
     {
         "codigo": "1170112",
         "codigoPai": "117011",
-        "descricao": "Serviços de acesso e uso de telecomunicações fixos comutados em banda estreita e banda larga ",
+        "descricao": "Serviços de acesso e uso de telecomunicações fixos comutados em banda estreita e banda larga",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5546,35 +5658,35 @@
     {
         "codigo": "117011400",
         "codigoPai": "117011",
-        "descricao": "Serviços de gerência de redes fixas e administração de seus usuários ",
+        "descricao": "Serviços de gerência de redes fixas e administração de seus usuários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117011500",
         "codigoPai": "117011",
-        "descricao": "Serviços de interconexão pelo uso da rede fixa ",
+        "descricao": "Serviços de interconexão pelo uso da rede fixa",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117011900",
         "codigoPai": "117011",
-        "descricao": "Outros serviços de telecomunicações fixas ",
+        "descricao": "Outros serviços de telecomunicações fixas",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117012",
         "codigoPai": "11701",
-        "descricao": "Serviços de telecomunicações móveis e serviços de valor adicionado ",
+        "descricao": "Serviços de telecomunicações móveis e serviços de valor adicionado",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "1170121",
         "codigoPai": "117012",
-        "descricao": "Serviços de chamada de telecomunicações móveis comutados em banda estreita e banda larga ",
+        "descricao": "Serviços de chamada de telecomunicações móveis comutados em banda estreita e banda larga",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5602,7 +5714,7 @@
     {
         "codigo": "1170122",
         "codigoPai": "117012",
-        "descricao": "Serviços de acesso e uso de telecomunicações móveis comutado em banda estreita e banda larga ",
+        "descricao": "Serviços de acesso e uso de telecomunicações móveis comutado em banda estreita e banda larga",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5637,14 +5749,14 @@
     {
         "codigo": "117012400",
         "codigoPai": "117012",
-        "descricao": "Serviços de gerência das redes móveis e administração de seus usuários ",
+        "descricao": "Serviços de gerência das redes móveis e administração de seus usuários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117012500",
         "codigoPai": "117012",
-        "descricao": "Serviços de interconexão pelo uso de rede móvel ",
+        "descricao": "Serviços de interconexão pelo uso de rede móvel",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5672,21 +5784,21 @@
     {
         "codigo": "117012700",
         "codigoPai": "117012",
-        "descricao": "Serviços nomádicos ",
+        "descricao": "Serviços nomádicos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117012900",
         "codigoPai": "117012",
-        "descricao": "Outros serviços de telecomunicações móveis ",
+        "descricao": "Outros serviços de telecomunicações móveis",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "1170130",
         "codigoPai": "11701",
-        "descricao": "Serviços de redes privadas, serviços de interesse restrito e serviços de valor adicionado ",
+        "descricao": "Serviços de redes privadas, serviços de interesse restrito e serviços de valor adicionado",
         "nivel": 3,
         "ehFolha": false
     },
@@ -5742,14 +5854,14 @@
     {
         "codigo": "1170140",
         "codigoPai": "11701",
-        "descricao": "Serviços de transmissão de dados e serviços de exploração de linha dedicada ",
+        "descricao": "Serviços de transmissão de dados e serviços de exploração de linha dedicada",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "117014010",
         "codigoPai": "1170140",
-        "descricao": "Serviços de transmissão de dados local, nacional ou internacional ",
+        "descricao": "Serviços de transmissão de dados local, nacional ou internacional",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5784,7 +5896,7 @@
     {
         "codigo": "117015030",
         "codigoPai": "1170150",
-        "descricao": "Serviços de distribuição de programação através do sistema pague e assista (pay-per-view) de televisão por assinatura",
+        "descricao": "Serviços de distribuição de programação através do sistema pague e assista (pay-per-view) de televisão por assinatura",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5798,7 +5910,7 @@
     {
         "codigo": "117019000",
         "codigoPai": "11701",
-        "descricao": "Outros serviços de telecomunicações ",
+        "descricao": "Outros serviços de telecomunicações",
         "nivel": 3,
         "ehFolha": true
     },
@@ -5812,28 +5924,28 @@
     {
         "codigo": "117021000",
         "codigoPai": "11702",
-        "descricao": "Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de computadores  ",
+        "descricao": "Serviços de fornecimento de infraestrutura de acesso (backbone) à rede mundial de computadores",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "117022",
         "codigoPai": "11702",
-        "descricao": "Serviços de acesso à rede mundial de computadores ",
+        "descricao": "Serviços de acesso à rede mundial de computadores",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "117022100",
         "codigoPai": "117022",
-        "descricao": "Serviços de acesso à rede mundial de computadores por conexão discada ",
+        "descricao": "Serviços de acesso à rede mundial de computadores por conexão discada",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "117022200",
         "codigoPai": "117022",
-        "descricao": "Serviços de acesso à rede mundial de computadores por banda larga ",
+        "descricao": "Serviços de acesso à rede mundial de computadores por banda larga",
         "nivel": 4,
         "ehFolha": true
     },
@@ -5868,7 +5980,7 @@
     {
         "codigo": "117033000",
         "codigoPai": "11703",
-        "descricao": "Serviços de oferta de filmes e vídeos, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line) ",
+        "descricao": "Serviços de oferta de filmes e vídeos, inclusive de conteúdo contínuo (streaming), de acesso imediato (on-line)",
         "nivel": 3,
         "ehFolha": true
     },
@@ -5889,14 +6001,14 @@
     {
         "codigo": "117039000",
         "codigoPai": "11703",
-        "descricao": "Outros serviços de conteúdos de acesso imediato (on-line) ",
+        "descricao": "Outros serviços de conteúdos de acesso imediato (on-line)",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11704",
         "codigoPai": "117",
-        "descricao": "Serviços de agências de notícias ",
+        "descricao": "Serviços de agências de notícias",
         "nivel": 2,
         "ehFolha": false
     },
@@ -5910,21 +6022,21 @@
     {
         "codigo": "117042000",
         "codigoPai": "11704",
-        "descricao": "Serviços de agências de notícias em mídia audiovisual ",
+        "descricao": "Serviços de agências de notícias em mídia audiovisual",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "117049000",
         "codigoPai": "11704",
-        "descricao": "Outros serviços de agências de notícias ",
+        "descricao": "Outros serviços de agências de notícias",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11705",
         "codigoPai": "117",
-        "descricao": "Serviços de biblioteca e arquivo ",
+        "descricao": "Serviços de biblioteca e arquivo",
         "nivel": 2,
         "ehFolha": false
     },
@@ -5938,7 +6050,7 @@
     {
         "codigo": "117052000",
         "codigoPai": "11705",
-        "descricao": "Serviços de arquivo ",
+        "descricao": "Serviços de arquivo",
         "nivel": 3,
         "ehFolha": true
     },
@@ -5959,14 +6071,14 @@
     {
         "codigo": "117061100",
         "codigoPai": "117061",
-        "descricao": "Serviços de difusão de programas originais de rádio ",
+        "descricao": "Serviços de difusão de programas originais de rádio",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "1170612",
         "codigoPai": "117061",
-        "descricao": "Serviços de difusão de programas originais de televisão ",
+        "descricao": "Serviços de difusão de programas originais de televisão",
         "nivel": 4,
         "ehFolha": false
     },
@@ -5980,7 +6092,7 @@
     {
         "codigo": "117061220",
         "codigoPai": "1170612",
-        "descricao": "Serviços de difusão de programas originais para televisão por assinatura ",
+        "descricao": "Serviços de difusão de programas originais para televisão por assinatura",
         "nivel": 5,
         "ehFolha": true
     },
@@ -5994,7 +6106,7 @@
     {
         "codigo": "117062100",
         "codigoPai": "117062",
-        "descricao": "Serviços de programação dos canais de rádio ",
+        "descricao": "Serviços de programação dos canais de rádio",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6027,6 +6139,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "118",
+        "codigoPai": null,
+        "descricao": "Serviços de apoio às atividades empresariais",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11801",
         "codigoPai": "118",
         "descricao": "Serviços de recrutamento e seleção de pessoal",
@@ -6036,7 +6155,7 @@
     {
         "codigo": "118011000",
         "codigoPai": "11801",
-        "descricao": "Serviços de busca de empregos e encaminhamento de pessoal ",
+        "descricao": "Serviços de busca de empregos e encaminhamento de pessoal",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6050,7 +6169,7 @@
     {
         "codigo": "118012100",
         "codigoPai": "118012",
-        "descricao": "Serviços de fornecimento de mão de obra efetiva ",
+        "descricao": "Serviços de fornecimento de mão de obra efetiva",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6071,28 +6190,28 @@
     {
         "codigo": "11802",
         "codigoPai": "118",
-        "descricao": "Serviços de investigação e segurança ",
+        "descricao": "Serviços de investigação e segurança",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "118021000",
         "codigoPai": "11802",
-        "descricao": "Serviços de investigação ",
+        "descricao": "Serviços de investigação",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "118022000",
         "codigoPai": "11802",
-        "descricao": "Serviços de consultoria em segurança ",
+        "descricao": "Serviços de consultoria em segurança",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "118023000",
         "codigoPai": "11802",
-        "descricao": "Serviços de sistemas de segurança ",
+        "descricao": "Serviços de sistemas de segurança",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6113,14 +6232,14 @@
     {
         "codigo": "118029000",
         "codigoPai": "11802",
-        "descricao": "Outros serviços de segurança ",
+        "descricao": "Outros serviços de segurança",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11803",
         "codigoPai": "118",
-        "descricao": "Serviços de limpeza ",
+        "descricao": "Serviços de limpeza",
         "nivel": 2,
         "ehFolha": false
     },
@@ -6141,28 +6260,28 @@
     {
         "codigo": "118033000",
         "codigoPai": "11803",
-        "descricao": "Serviços especializados de limpeza ",
+        "descricao": "Serviços especializados de limpeza",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11804",
         "codigoPai": "118",
-        "descricao": "Serviços de planejamento de viagens e de operador de turismo, outros serviços relacionados ",
+        "descricao": "Serviços de planejamento de viagens e de operador de turismo, outros serviços relacionados",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "118041",
         "codigoPai": "11804",
-        "descricao": "Serviços de reservas em transportes ",
+        "descricao": "Serviços de reservas em transportes",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "118041100",
         "codigoPai": "118041",
-        "descricao": "Serviços de reservas em transportes aéreos ",
+        "descricao": "Serviços de reservas em transportes aéreos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6176,7 +6295,7 @@
     {
         "codigo": "118042",
         "codigoPai": "11804",
-        "descricao": "Serviços de reservas de hospedagem, reservas em cruzeiros e reservas de pacotes turísticos ",
+        "descricao": "Serviços de reservas de hospedagem, reservas em cruzeiros e reservas de pacotes turísticos",
         "nivel": 3,
         "ehFolha": false
     },
@@ -6225,7 +6344,7 @@
     {
         "codigo": "118046",
         "codigoPai": "11804",
-        "descricao": "Serviços de informação a visitantes e promoção turística ",
+        "descricao": "Serviços de informação a visitantes e promoção turística",
         "nivel": 3,
         "ehFolha": false
     },
@@ -6351,7 +6470,7 @@
     {
         "codigo": "118056900",
         "codigoPai": "118056",
-        "descricao": "Outros serviços de assistência e organização de feiras de negócios e convenções ",
+        "descricao": "Outros serviços de assistência e organização de feiras de negócios e convenções",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6419,6 +6538,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "119",
+        "codigoPai": null,
+        "descricao": "Serviços de apoio às atividades agropecuárias, silvicultura, pesca, aquicultura, extração mineral, eletricidade, gás e água",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "11901",
         "codigoPai": "119",
         "descricao": "Serviços de apoio à agricultura, pecuária, produção florestal (silvicultura), pesca e aquicultura",
@@ -6449,7 +6575,7 @@
     {
         "codigo": "119014000",
         "codigoPai": "11901",
-        "descricao": "Serviços de apoio à pesca ",
+        "descricao": "Serviços de apoio à pesca",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6463,49 +6589,49 @@
     {
         "codigo": "11902",
         "codigoPai": "119",
-        "descricao": "Serviços de apoio à mineração ",
+        "descricao": "Serviços de apoio à mineração",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "119021000",
         "codigoPai": "11902",
-        "descricao": "Serviços de apoio à extração de petróleo e gás ",
+        "descricao": "Serviços de apoio à extração de petróleo e gás",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "119029000",
         "codigoPai": "11902",
-        "descricao": "Outros serviços de apoio à mineração ",
+        "descricao": "Outros serviços de apoio à mineração",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "11903",
         "codigoPai": "119",
-        "descricao": "Serviços de apoio à transmissão e distribuição de eletricidade, gás e água ",
+        "descricao": "Serviços de apoio à transmissão e distribuição de eletricidade, gás e água",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "119031",
         "codigoPai": "11903",
-        "descricao": "Serviços de apoio à transmissão e distribuição de eletricidade ",
+        "descricao": "Serviços de apoio à transmissão e distribuição de eletricidade",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "119031100",
         "codigoPai": "119031",
-        "descricao": "Serviços de apoio à transmissão de eletricidade ",
+        "descricao": "Serviços de apoio à transmissão de eletricidade",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "119031200",
         "codigoPai": "119031",
-        "descricao": "Serviços de apoio à distribuição de eletricidade ",
+        "descricao": "Serviços de apoio à distribuição de eletricidade",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6519,7 +6645,7 @@
     {
         "codigo": "119033000",
         "codigoPai": "11903",
-        "descricao": "Serviços de apoio à distribuição de água ",
+        "descricao": "Serviços de apoio à distribuição de água",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6531,9 +6657,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "120",
+        "codigoPai": null,
+        "descricao": "Serviços de manutenção, reparação e instalação (exceto construção)",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "12001",
         "codigoPai": "120",
-        "descricao": "Serviços de manutenção e reparação de produtos metálicos, maquinário e equipamentos ",
+        "descricao": "Serviços de manutenção e reparação de produtos metálicos, maquinário e equipamentos",
         "nivel": 2,
         "ehFolha": false
     },
@@ -6547,42 +6680,42 @@
     {
         "codigo": "120012000",
         "codigoPai": "12001",
-        "descricao": "Serviços de manutenção e reparação de computadores e seus periféricos e maquinário de escritório ",
+        "descricao": "Serviços de manutenção e reparação de computadores e seus periféricos e maquinário de escritório",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "120013",
         "codigoPai": "12001",
-        "descricao": "Serviços de manutenção e reparação de maquinário e equipamentos de transporte ",
+        "descricao": "Serviços de manutenção e reparação de maquinário e equipamentos de transporte",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "120013100",
         "codigoPai": "120013",
-        "descricao": "Serviços de manutenção e reparação de veículos automotores rodoviários ",
+        "descricao": "Serviços de manutenção e reparação de veículos automotores rodoviários",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "120013200",
         "codigoPai": "120013",
-        "descricao": "Serviços de manutenção e reparação de reboques (trailers), semirreboques (semi-trailers) e outros veículos não motorizados",
+        "descricao": "Serviços de manutenção e reparação de reboques (trailers), semirreboques (semi-trailers) e outros veículos não motorizados",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "120013300",
         "codigoPai": "120013",
-        "descricao": "Serviços de manutenção e reparação de veículos militares ",
+        "descricao": "Serviços de manutenção e reparação de veículos militares",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "1200139",
         "codigoPai": "120013",
-        "descricao": "Serviços de manutenção e reparação de outros equipamentos de transporte ",
+        "descricao": "Serviços de manutenção e reparação de outros equipamentos de transporte",
         "nivel": 4,
         "ehFolha": false
     },
@@ -6603,7 +6736,7 @@
     {
         "codigo": "120013912",
         "codigoPai": "12001391",
-        "descricao": "Serviços de manutenção e reparação de foguetes e equipamentos aeroespaciais ",
+        "descricao": "Serviços de manutenção e reparação de foguetes e equipamentos aeroespaciais",
         "nivel": 6,
         "ehFolha": true
     },
@@ -6645,7 +6778,7 @@
     {
         "codigo": "120013990",
         "codigoPai": "1200139",
-        "descricao": "Outros serviços de manutenção e reparação de outros equipamentos de transporte ",
+        "descricao": "Outros serviços de manutenção e reparação de outros equipamentos de transporte",
         "nivel": 5,
         "ehFolha": true
     },
@@ -6659,14 +6792,14 @@
     {
         "codigo": "120015",
         "codigoPai": "12001",
-        "descricao": "Serviços de manutenção e reparação de outros maquinários e equipamentos ",
+        "descricao": "Serviços de manutenção e reparação de outros maquinários e equipamentos",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "120015100",
         "codigoPai": "120015",
-        "descricao": "Serviços de manutenção e reparação de aparelhos eletro-eletrônicos domésticos ",
+        "descricao": "Serviços de manutenção e reparação de aparelhos eletro-eletrônicos domésticos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6694,7 +6827,7 @@
     {
         "codigo": "1200159",
         "codigoPai": "120015",
-        "descricao": "Outros serviços de manutenção e reparação de maquinário e equipamentos ",
+        "descricao": "Outros serviços de manutenção e reparação de maquinário e equipamentos",
         "nivel": 4,
         "ehFolha": false
     },
@@ -6708,7 +6841,7 @@
     {
         "codigo": "120015990",
         "codigoPai": "1200159",
-        "descricao": "Outros serviços de manutenção e reparação de maquinário e equipamentos ",
+        "descricao": "Outros serviços de manutenção e reparação de maquinário e equipamentos",
         "nivel": 5,
         "ehFolha": true
     },
@@ -6792,7 +6925,7 @@
     {
         "codigo": "120034000",
         "codigoPai": "12003",
-        "descricao": "Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio e de televisão ",
+        "descricao": "Serviços de instalação de equipamentos e aparelhos de comunicação, incluindo de rádio e de televisão",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6841,9 +6974,16 @@
     {
         "codigo": "120039000",
         "codigoPai": "12003",
-        "descricao": "Serviços de instalação de maquinários e equipamentos não classificados em outra posição ",
+        "descricao": "Serviços de instalação de maquinários e equipamentos não classificados em outra posição",
         "nivel": 3,
         "ehFolha": true
+    },
+    {
+        "codigo": "121",
+        "codigoPai": null,
+        "descricao": "Serviços de publicação, impressão e reprodução",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "12101",
@@ -6862,7 +7002,7 @@
     {
         "codigo": "121012",
         "codigoPai": "12101",
-        "descricao": "Serviços de impressão e reprodução de mídia gravada ",
+        "descricao": "Serviços de impressão e reprodução de mídia gravada",
         "nivel": 3,
         "ehFolha": false
     },
@@ -6883,7 +7023,7 @@
     {
         "codigo": "121012300",
         "codigoPai": "121012",
-        "descricao": "Serviços de reprodução de mídia gravada ",
+        "descricao": "Serviços de reprodução de mídia gravada",
         "nivel": 4,
         "ehFolha": true
     },
@@ -6897,7 +7037,7 @@
     {
         "codigo": "121019000",
         "codigoPai": "12101",
-        "descricao": "Outros serviços de reprodução, impressão e editoração ",
+        "descricao": "Outros serviços de reprodução, impressão e editoração",
         "nivel": 3,
         "ehFolha": true
     },
@@ -6909,9 +7049,16 @@
         "ehFolha": true
     },
     {
+        "codigo": "122",
+        "codigoPai": null,
+        "descricao": "Serviços educacionais",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "12201",
         "codigoPai": "122",
-        "descricao": "Serviços de educação básica ",
+        "descricao": "Serviços de educação básica",
         "nivel": 2,
         "ehFolha": false
     },
@@ -6925,14 +7072,14 @@
     {
         "codigo": "122011100",
         "codigoPai": "122011",
-        "descricao": "Serviços de creches ou de entidades equivalentes ",
+        "descricao": "Serviços de creches ou de entidades equivalentes",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "122011200",
         "codigoPai": "122011",
-        "descricao": "Serviços de pré-escola ",
+        "descricao": "Serviços de pré-escola",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7044,21 +7191,21 @@
     {
         "codigo": "122901",
         "codigoPai": "12290",
-        "descricao": "Outros serviços de educação, inclusive treinamento ",
+        "descricao": "Outros serviços de educação, inclusive treinamento",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "122901100",
         "codigoPai": "122901",
-        "descricao": "Serviços culturais, com enfoque educacional ",
+        "descricao": "Serviços culturais, com enfoque educacional",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "122901200",
         "codigoPai": "122901",
-        "descricao": "Serviços de educação desportiva e recreacional ",
+        "descricao": "Serviços de educação desportiva e recreacional",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7072,7 +7219,7 @@
     {
         "codigo": "1229019",
         "codigoPai": "122901",
-        "descricao": "Outros serviços de educação e treinamento não classificados em outra posição ",
+        "descricao": "Outros serviços de educação e treinamento não classificados em outra posição",
         "nivel": 4,
         "ehFolha": false
     },
@@ -7093,14 +7240,21 @@
     {
         "codigo": "122902000",
         "codigoPai": "12290",
-        "descricao": "Serviços de apoio aos serviços educacionais ",
+        "descricao": "Serviços de apoio aos serviços educacionais",
         "nivel": 3,
         "ehFolha": true
     },
     {
+        "codigo": "123",
+        "codigoPai": null,
+        "descricao": "Serviços relacionados à saúde humana e de assistência social",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "12301",
         "codigoPai": "123",
-        "descricao": "Serviços de saúde humana ",
+        "descricao": "Serviços de saúde humana",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7114,21 +7268,21 @@
     {
         "codigo": "123011100",
         "codigoPai": "123011",
-        "descricao": "Serviços cirúrgicos ",
+        "descricao": "Serviços cirúrgicos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "123011200",
         "codigoPai": "123011",
-        "descricao": "Serviços ginecológicos e obstétricos ",
+        "descricao": "Serviços ginecológicos e obstétricos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "123011300",
         "codigoPai": "123011",
-        "descricao": "Serviços psiquiátricos ",
+        "descricao": "Serviços psiquiátricos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7156,7 +7310,7 @@
     {
         "codigo": "123011700",
         "codigoPai": "123011",
-        "descricao": "Serviços de ambulâncias, exceto aquelas sem envolver atendimento médico ao paciente e destinadas exclusivamente à remoção de enfermos ",
+        "descricao": "Serviços de ambulâncias, exceto aquelas sem envolver atendimento médico ao paciente e destinadas exclusivamente à remoção de enfermos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7170,7 +7324,7 @@
     {
         "codigo": "1230119",
         "codigoPai": "123011",
-        "descricao": "Outros serviços hospitalares ",
+        "descricao": "Outros serviços hospitalares",
         "nivel": 4,
         "ehFolha": false
     },
@@ -7198,21 +7352,21 @@
     {
         "codigo": "123012",
         "codigoPai": "12301",
-        "descricao": "Serviços médicos e odontológicos, não hospitalares ",
+        "descricao": "Serviços médicos e odontológicos, não hospitalares",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "123012100",
         "codigoPai": "123012",
-        "descricao": "Serviços de clínica médica ",
+        "descricao": "Serviços de clínica médica",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "123012200",
         "codigoPai": "123012",
-        "descricao": "Serviços médicos especializados ",
+        "descricao": "Serviços médicos especializados",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7226,28 +7380,28 @@
     {
         "codigo": "123019",
         "codigoPai": "12301",
-        "descricao": "Outros serviços de saúde humana ",
+        "descricao": "Outros serviços de saúde humana",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "123019100",
         "codigoPai": "123019",
-        "descricao": "Serviços de enfermagem ",
+        "descricao": "Serviços de enfermagem",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "123019200",
         "codigoPai": "123019",
-        "descricao": "Serviços fisioterapêuticos ",
+        "descricao": "Serviços fisioterapêuticos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "123019300",
         "codigoPai": "123019",
-        "descricao": "Serviços laboratoriais ",
+        "descricao": "Serviços laboratoriais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7261,7 +7415,7 @@
     {
         "codigo": "123019500",
         "codigoPai": "123019",
-        "descricao": "Serviços de bancos de órgãos, esperma e sangue ",
+        "descricao": "Serviços de bancos de órgãos, esperma e sangue",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7275,7 +7429,7 @@
     {
         "codigo": "123019900",
         "codigoPai": "123019",
-        "descricao": "Outros serviços de saúde humana, exceto os serviços hospitalares ",
+        "descricao": "Outros serviços de saúde humana, exceto os serviços hospitalares",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7303,7 +7457,7 @@
     {
         "codigo": "123030000",
         "codigoPai": "123",
-        "descricao": "Serviços domiciliares de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências ",
+        "descricao": "Serviços domiciliares de apoio a idosos, crianças, adolescentes, pessoas com transtornos mentais e com deficiências",
         "nivel": 2,
         "ehFolha": true
     },
@@ -7317,7 +7471,7 @@
     {
         "codigo": "12305",
         "codigoPai": "123",
-        "descricao": "Serviços de assistência social ",
+        "descricao": "Serviços de assistência social",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7427,6 +7581,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "124",
+        "codigoPai": null,
+        "descricao": "Serviços de tratamento, eliminação e coleta de resíduos sólidos, saneamento, remediação e serviços ambientais",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "124010000",
         "codigoPai": "124",
         "descricao": "Serviços de tratamento de água",
@@ -7436,35 +7597,35 @@
     {
         "codigo": "12402",
         "codigoPai": "124",
-        "descricao": "Serviços de esgoto, tratamento de esgotos e limpeza de fossas sépticas ",
+        "descricao": "Serviços de esgoto, tratamento de esgotos e limpeza de fossas sépticas",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "124021000",
         "codigoPai": "12402",
-        "descricao": "Serviços de esgoto e tratamento de esgotos ",
+        "descricao": "Serviços de esgoto e tratamento de esgotos",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "124022000",
         "codigoPai": "12402",
-        "descricao": "Serviços de esvaziamento e limpeza de fossas sépticas ",
+        "descricao": "Serviços de esvaziamento e limpeza de fossas sépticas",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "12403",
         "codigoPai": "124",
-        "descricao": "Serviços de coleta de resíduos ",
+        "descricao": "Serviços de coleta de resíduos",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "124031000",
         "codigoPai": "12403",
-        "descricao": "Serviços de coleta de resíduos sólidos perigosos, exceto de serviços de saúde ",
+        "descricao": "Serviços de coleta de resíduos sólidos perigosos, exceto de serviços de saúde",
         "nivel": 3,
         "ehFolha": true
     },
@@ -7506,7 +7667,7 @@
     {
         "codigo": "124033900",
         "codigoPai": "124033",
-        "descricao": "Serviços de coleta de outros resíduos sólidos não perigosos, inertes ou não inertes ",
+        "descricao": "Serviços de coleta de outros resíduos sólidos não perigosos, inertes ou não inertes",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7527,14 +7688,14 @@
     {
         "codigo": "12404",
         "codigoPai": "124",
-        "descricao": "Serviços de disposição e tratamento de resíduos ",
+        "descricao": "Serviços de disposição e tratamento de resíduos",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "124041000",
         "codigoPai": "12404",
-        "descricao": "Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos perigosos, exceto os resíduos de serviços de saúde ",
+        "descricao": "Serviços de triagem, preparação, consolidação, estocagem e outros tratamentos e disposição de resíduos sólidos perigosos, exceto os resíduos de serviços de saúde",
         "nivel": 3,
         "ehFolha": true
     },
@@ -7597,7 +7758,7 @@
     {
         "codigo": "12405",
         "codigoPai": "124",
-        "descricao": "Serviços de saneamento e similares ",
+        "descricao": "Serviços de saneamento e similares",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7611,7 +7772,7 @@
     {
         "codigo": "124059000",
         "codigoPai": "12405",
-        "descricao": "Outros serviços de saneamento ",
+        "descricao": "Outros serviços de saneamento",
         "nivel": 3,
         "ehFolha": true
     },
@@ -7660,21 +7821,21 @@
     {
         "codigo": "124071",
         "codigoPai": "12407",
-        "descricao": "Serviços de remediação de áreas contaminadas ",
+        "descricao": "Serviços de remediação de áreas contaminadas",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "124071100",
         "codigoPai": "124071",
-        "descricao": "Serviços de remediação do ar ",
+        "descricao": "Serviços de remediação do ar",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "124071200",
         "codigoPai": "124071",
-        "descricao": "Serviços de remediação de águas de superfície ",
+        "descricao": "Serviços de remediação de águas de superfície",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7695,7 +7856,7 @@
     {
         "codigo": "124072000",
         "codigoPai": "12407",
-        "descricao": "Serviços de contenção de contaminantes ",
+        "descricao": "Serviços de contenção de contaminantes",
         "nivel": 3,
         "ehFolha": true
     },
@@ -7707,6 +7868,13 @@
         "ehFolha": true
     },
     {
+        "codigo": "125",
+        "codigoPai": null,
+        "descricao": "Serviços recreativos, culturais e desportivos",
+        "nivel": 1,
+        "ehFolha": false
+    },
+    {
         "codigo": "12501",
         "codigoPai": "125",
         "descricao": "Serviços de produção audiovisual, de apoio e relacionados",
@@ -7716,7 +7884,7 @@
     {
         "codigo": "125011",
         "codigoPai": "12501",
-        "descricao": "Serviços de gravação de som ",
+        "descricao": "Serviços de gravação de som",
         "nivel": 3,
         "ehFolha": false
     },
@@ -7730,49 +7898,49 @@
     {
         "codigo": "125011200",
         "codigoPai": "125011",
-        "descricao": "Serviços de gravação de som ao vivo ",
+        "descricao": "Serviços de gravação de som ao vivo",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125012",
         "codigoPai": "12501",
-        "descricao": "Serviços de produção de programas de rádio e televisão, videoteipes e filmes ",
+        "descricao": "Serviços de produção de programas de rádio e televisão, videoteipes e filmes",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "125012100",
         "codigoPai": "125012",
-        "descricao": "Serviços de produção de programas de televisão, videoteipes e filmes ",
+        "descricao": "Serviços de produção de programas de televisão, videoteipes e filmes",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125012200",
         "codigoPai": "125012",
-        "descricao": "Serviços de produção de programas de rádio ",
+        "descricao": "Serviços de produção de programas de rádio",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125013",
         "codigoPai": "12501",
-        "descricao": "Serviços de pós-produção de obras audiovisuais ",
+        "descricao": "Serviços de pós-produção de obras audiovisuais",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "125013100",
         "codigoPai": "125013",
-        "descricao": "Serviços de edição de obras audiovisuais ",
+        "descricao": "Serviços de edição de obras audiovisuais",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125013200",
         "codigoPai": "125013",
-        "descricao": "Serviços de duplicação e transferência de obras audiovisuais ",
+        "descricao": "Serviços de duplicação e transferência de obras audiovisuais",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7821,7 +7989,7 @@
     {
         "codigo": "125014000",
         "codigoPai": "12501",
-        "descricao": "Serviços de agenciamento pela comercialização de obras audiovisuais ",
+        "descricao": "Serviços de agenciamento pela comercialização de obras audiovisuais",
         "nivel": 3,
         "ehFolha": true
     },
@@ -7870,14 +8038,14 @@
     {
         "codigo": "125029000",
         "codigoPai": "12502",
-        "descricao": "Outros serviços de entretenimento artístico ao vivo ",
+        "descricao": "Outros serviços de entretenimento artístico ao vivo",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "12503",
         "codigoPai": "125",
-        "descricao": "Serviços de atuação artística e outros serviços artísticos ",
+        "descricao": "Serviços de atuação artística e outros serviços artísticos",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7891,14 +8059,14 @@
     {
         "codigo": "125032000",
         "codigoPai": "12503",
-        "descricao": "Serviços de autores, compositores, escultores, pintores e outros artistas, exceto os de atuação artística ",
+        "descricao": "Serviços de autores, compositores, escultores, pintores e outros artistas, exceto os de atuação artística",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "12504",
         "codigoPai": "125",
-        "descricao": "Serviços de museus e de preservação e serviços de reservas botânica, zoológica e natural ",
+        "descricao": "Serviços de museus e de preservação e serviços de reservas botânica, zoológica e natural",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7919,35 +8087,35 @@
     {
         "codigo": "125041200",
         "codigoPai": "125041",
-        "descricao": "Serviços de preservação e operação de locais e construções históricas ",
+        "descricao": "Serviços de preservação e operação de locais e construções históricas",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125042",
         "codigoPai": "12504",
-        "descricao": "Serviços de reservas botânica, zoológica e natural ",
+        "descricao": "Serviços de reservas botânica, zoológica e natural",
         "nivel": 3,
         "ehFolha": false
     },
     {
         "codigo": "125042100",
         "codigoPai": "125042",
-        "descricao": "Serviços de jardins botânico e zoológico ",
+        "descricao": "Serviços de jardins botânico e zoológico",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125042200",
         "codigoPai": "125042",
-        "descricao": "Serviços de reserva natural, incluindo preservação de vida selvagem ",
+        "descricao": "Serviços de reserva natural, incluindo preservação de vida selvagem",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "12505",
         "codigoPai": "125",
-        "descricao": "Serviços desportivos e recreacionais desportivos ",
+        "descricao": "Serviços desportivos e recreacionais desportivos",
         "nivel": 2,
         "ehFolha": false
     },
@@ -7961,14 +8129,14 @@
     {
         "codigo": "125051100",
         "codigoPai": "125051",
-        "descricao": "Serviços de organização e promoção de eventos desportivos e recreacionais desportivos ",
+        "descricao": "Serviços de organização e promoção de eventos desportivos e recreacionais desportivos",
         "nivel": 4,
         "ehFolha": true
     },
     {
         "codigo": "125051200",
         "codigoPai": "125051",
-        "descricao": "Serviços de clubes desportivos ",
+        "descricao": "Serviços de clubes desportivos",
         "nivel": 4,
         "ehFolha": true
     },
@@ -7982,21 +8150,21 @@
     {
         "codigo": "125060000",
         "codigoPai": "125",
-        "descricao": "Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio relacionados com desportes e recreação desportiva ",
+        "descricao": "Serviços fornecidos por atletas e desportistas, por conta própria, e serviços de apoio relacionados com desportes e recreação desportiva",
         "nivel": 2,
         "ehFolha": true
     },
     {
         "codigo": "12507",
         "codigoPai": "125",
-        "descricao": "Serviços de parques de diversão ",
+        "descricao": "Serviços de parques de diversão",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "125071000",
         "codigoPai": "12507",
-        "descricao": "Serviços de parques temáticos de diversão ",
+        "descricao": "Serviços de parques temáticos de diversão",
         "nivel": 3,
         "ehFolha": true
     },
@@ -8010,9 +8178,16 @@
     {
         "codigo": "125900000",
         "codigoPai": "125",
-        "descricao": "Outros serviços recreativos, culturais e desportivos  ",
+        "descricao": "Outros serviços recreativos, culturais e desportivos",
         "nivel": 2,
         "ehFolha": true
+    },
+    {
+        "codigo": "126",
+        "codigoPai": null,
+        "descricao": "Serviços pessoais",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "12601",
@@ -8045,35 +8220,35 @@
     {
         "codigo": "126019000",
         "codigoPai": "12601",
-        "descricao": "Outros serviços de lavanderia ",
+        "descricao": "Outros serviços de lavanderia",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "12602",
         "codigoPai": "126",
-        "descricao": "Serviços de tratamento de beleza e bem-estar físico ",
+        "descricao": "Serviços de tratamento de beleza e bem-estar físico",
         "nivel": 2,
         "ehFolha": false
     },
     {
         "codigo": "126021000",
         "codigoPai": "12602",
-        "descricao": "Serviços de cabeleireiros e barbeiros ",
+        "descricao": "Serviços de cabeleireiros e barbeiros",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "126022000",
         "codigoPai": "12602",
-        "descricao": "Serviços de manicure, pedicure e tratamento cosmético ",
+        "descricao": "Serviços de manicure, pedicure e tratamento cosmético",
         "nivel": 3,
         "ehFolha": true
     },
     {
         "codigo": "126023000",
         "codigoPai": "12602",
-        "descricao": "Serviços de bem-estar físico ",
+        "descricao": "Serviços de bem-estar físico",
         "nivel": 3,
         "ehFolha": true
     },
@@ -8094,9 +8269,16 @@
     {
         "codigo": "126900000",
         "codigoPai": "126",
-        "descricao": "Outros serviços pessoais ",
+        "descricao": "Outros serviços pessoais",
         "nivel": 2,
         "ehFolha": true
+    },
+    {
+        "codigo": "127",
+        "codigoPai": null,
+        "descricao": "Cessão de direitos de propriedade intelectual",
+        "nivel": 1,
+        "ehFolha": false
     },
     {
         "codigo": "12701",
@@ -8143,7 +8325,7 @@
     {
         "codigo": "127013300",
         "codigoPai": "127013",
-        "descricao": "Cessão de direitos de obras publicitárias ",
+        "descricao": "Cessão de direitos de obras publicitárias",
         "nivel": 4,
         "ehFolha": true
     },

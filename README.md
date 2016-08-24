@@ -10,8 +10,9 @@ fornecidas pelos órgãos públicos brasileiros. E dessa forma facilitar a utili
 
 Tabela | Descrição
 ------ | ---------
-**NCM** | _Nomenclatura Comum do Mercosul_ utilizada obrigatoriamente desde 01/01/2010 para categorizar os produtos em documentos fiscais [_Mais informações..._](http://www.significados.com.br/ncm/)
-**CEST**   | _Código Especificador da Substituição Tributária_ criado para estabelecer uma sistemática de uniformização e identificação das mercadorias e bens que são passíveis de Substituição Tributária e antecipação de ICMS. Ele é usado documentos fiscais conforme o [Convênio ICMS 92, de 20 de agosto de 2015](https://www.confaz.fazenda.gov.br/)
+**NCM** | _Nomenclatura Comum do Mercosul_ utilizada obrigatoriamente desde 01/01/2010 para categorizar os produtos em documentos fiscais [_Ver receita.fazenda.gov.br_](http://www4.receita.fazenda.gov.br/simulador/PesquisarNCM.jsp)
+**CEST** | _Código Especificador da Substituição Tributária_ criado para estabelecer uma sistemática de uniformização e identificação das mercadorias e bens que são passíveis de Substituição Tributária e antecipação de ICMS. Ele é usado documentos fiscais conforme o [Convênio ICMS 92, de 20 de agosto de 2015](https://www.confaz.fazenda.gov.br/)
+**NBS** | _Nomenclatura Brasileira de Serviços_, intangíveis e outras operações que produzam variações no patrimônio ([_Ver mdic.gov.br_](http://www.mdic.gov.br/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13))
 
 ## Formato dos arquivos
 

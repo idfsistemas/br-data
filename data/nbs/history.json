@@ -1,6 +1,16 @@
 [
 	{
 		"dataDeAtualizacao": "2016-08-24",
+		"descricao": "Atualizado segundo NBS 1.1 publicado pela Portaria nº 1.820, de 17 de dezembro de 2013",
+		"referencias": [
+			"http://www.mdic.gov.br/comercio-servicos/a-secretaria-de-comercio-e-servicos-scs-13",
+			"http://www.mdic.gov.br/arquivos/dwnl_1390305290.pdf",
+			"http://pesquisa.in.gov.br/imprensa/jsp/visualiza/index.jsp?data=19/12/2013&jornal=1&pagina=187&totalArquivos=384",
+			"http://www.mdic.gov.br/arquivos/dwnl_1421759401.csv"
+		],
+		"dataDePublicacao": "2013-12-17"
+	},{
+		"dataDeAtualizacao": "2016-08-24",
 		"descricao": "NBSs obtidos do 'Guia de Comércio Exterior e Investimento' em 24/08/2016",
 		"referencias": [
 			"https://investexportbrasil.dpr.gov.br/ProdutosServicos/frmPesquisaProdutosServicosFull.aspx"
