@@ -1,3 +1,9 @@
+<a name="1.0.1"></a>
+## [1.0.1](https://github.com/idfsistemas/br-data/compare/1.0.0...v1.0.1) (2016-08-24)
+
+
+
+
 <a name="0.0.1"></a>
 ## 0.0.1 (2016-08-24)
 
