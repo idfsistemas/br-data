@@ -1,3 +1,5 @@
+[![npm version](https://badge.fury.io/js/br-data.svg)](https://badge.fury.io/js/br-data)
+
 br-data
 =======
 
